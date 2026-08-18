@@ -6,6 +6,8 @@
 
 No apps. No installs. No accounts. Just copy a prompt, paste it into ChatGPT, Claude, Gemini, or any capable LLM — and play.
 
+Should you remember MUD games, in the nineties? This feels the same! But no game, no character, no scene you're in these games will ever be the same, like back then!
+
 ---
 
 ## What are Emergent Games?
