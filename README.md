@@ -1,6 +1,6 @@
 <img src="emergent-games.png" width=400 align="right">
 
-# 🎮 AI Emergent Games
+# 🎮 AI Emergent Games - a.k.a One-Prompt-Games!
 
 **One-prompt games that run entirely inside your favorite chatbot.**
 
