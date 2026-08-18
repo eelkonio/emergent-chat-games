@@ -1,4 +1,7 @@
 # Emergent Games — Mentale Weerbaarheid
+<img src="logo.png" width=200 align="right">
+
+
 
 Twintig emergent games voor jongeren (14-18) over mentale weerbaarheid. Gebaseerd op het programma van mentaleweerbaarheid.eu. Geen les — een ervaring. Speel deze games in je favoriete chatbot en ontdek hoe jij reageert onder druk.
 

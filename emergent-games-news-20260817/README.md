@@ -1,4 +1,7 @@
 # Emergent Games — News Edition (August 17, 2026)
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty emergent games inspired by the headlines of August 17, 2026.
 

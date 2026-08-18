@@ -1,4 +1,7 @@
 # Emergent Games — Murder Mystery Edition
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty Agatha Christie-style murder mysteries. In each game, a murder has been committed. You must find the killer before they find you. The AI generates a fixed hidden truth at the start — the solution exists from Turn 1. Your job: gather evidence, question suspects, and survive long enough to solve it.
 

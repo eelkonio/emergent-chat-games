@@ -1,4 +1,7 @@
 # Emergent Games — Hackers Edition
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty emergent hacking games. Penetrate systems, evade detection, build tools, manage crews, and face moral choices that blur the line between hero and criminal. Each game uses autonomous agents — security teams, fellow hackers, corporations, and law enforcement all act independently.
 

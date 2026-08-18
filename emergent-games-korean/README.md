@@ -1,4 +1,7 @@
 # Emergent Games — Korean Love Story Edition
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty emergent romance games inspired by K-drama storytelling. Featuring the emotional intensity, social complexity, and beautiful suffering that defines the genre. Each game uses autonomous agents, relationship meters, and emergent storylines — no scripted endings.
 

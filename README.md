@@ -1,6 +1,6 @@
 # 🎮 One-Prompt Games — Play in Any Chatbot, Right Now
 
-<img src="OPG-logo.png" width=400 align="right">
+<img src="images/OPG-logo.png" width=400 align="right">
 
 **Copy one prompt. Paste it into ChatGPT, Claude, or Gemini. You're playing.**
 

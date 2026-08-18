@@ -1,4 +1,7 @@
 # Emergent Games — PAR Edition (Proving Alleged Resilience)
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty emergent games based on the PAR concept: deliberately disrupting organizations to test and build resilience. Like Netflix's Chaos Monkey, but for entire companies — departments, tools, communication channels, and key people are temporarily "removed" to see what breaks and what adapts.
 

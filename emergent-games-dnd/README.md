@@ -1,4 +1,7 @@
 # Emergent Games — Dungeons & Dragons Edition
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty emergent games set in D&D-inspired fantasy worlds. Not traditional D&D — these use the emergent agent engine with autonomous NPCs, system meters, and emergent storytelling. No dice, no character sheets — just decisions and consequences.
 

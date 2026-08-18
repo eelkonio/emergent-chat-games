@@ -1,4 +1,7 @@
 # Emergent Games — Therapy & Psychology Collection
+<img src="logo.png" width=200 align="right">
+
+
 
 Twenty one-prompt emergent therapy simulation games for your favorite chatbot. Each game uses the same engine: autonomous agents, system meters, causal feedback loops, and emergent storytelling. No scripted narratives — everything arises from the system state.
 
