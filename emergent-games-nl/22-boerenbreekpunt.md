@@ -1,4 +1,5 @@
 # Boerenbreekpunt
+<img src="boerenbreekpunt.png" width=200 align="right">
 
 **Genre:** Politiek-maatschappelijk  
 **Beschrijving:** Hoe eenvoudig is het om in te grijpen als overheid in het boerenproductie proces? Wat gebeurt er als je ingrijpt op lokaal of nationaal niveau? Hoe reageren winkels, productiebedrijven en de EU als wij wetten veranderen of banken aanspreken op hun verantwoordelijkheid?  
