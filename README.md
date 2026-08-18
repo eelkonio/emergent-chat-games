@@ -1,205 +1,371 @@
-<img src="emergent-games.png" width=400 align="right">
+<img src="OPG-logo.png" width=400 align="right">
 
-# 🎮 AI Emergent Games - a.k.a One-Prompt-Games!
+# 🎮 One-Prompt Games — Play in Any Chatbot, Right Now
 
-**One-prompt games that run entirely inside your favorite chatbot.**
+**Copy one prompt. Paste it into ChatGPT, Claude, or Gemini. You're playing.**
 
-No apps. No installs. No accounts. Just copy a prompt, paste it into ChatGPT, Claude, Gemini, or any capable LLM — and play.
+No downloads. No sign-ups. No apps. No rules to memorize. Just you, a chatbot, and a world that reacts to everything you do.
 
-Should you remember MUD games, in the nineties? This feels the same! But no game, no character, no scene you're in these games will ever be the same, like back then!
+Remember MUD games from the nineties? This is that feeling — but wilder. Every character has their own hidden agenda. Every decision ripples through the system. And no two playthroughs are ever the same. Ever.
 
----
+🌍 **Play in any language!** Just add this line to any game prompt:
 
-## What are Emergent Games?
+> `I want to play this in my native language: [YOUR LANGUAGE]`
 
-Each game is a single prompt that transforms an AI chatbot into a fully interactive game engine. The AI simulates:
+French, Spanish, Japanese, Arabic, Hindi, Portuguese — whatever you speak. The entire game adapts.
 
-- **Autonomous agents** — NPCs, factions, characters with hidden goals and strategies
-- **System meters** — Quantified world state that changes based on your decisions
-- **Causal feedback loops** — Actions have direct, indirect, and delayed consequences
-- **Emergent storytelling** — No scripted narrative. Everything arises from the system state
-
-**The core principle:** You don't control the world. You make decisions *within* the world. Everything else reacts.
+> *"I just lost three hours to the Pirate Republic game. I was trying to govern Nassau and my own crew mutinied because I showed mercy to a spy. This is insane."* — early player
 
 ---
 
-## Game Collections
+## 🧨 What Makes These Different?
 
-### 🇳🇱 `emergent-games-nl/` — Dutch Collection (21 games)
+This isn't "choose your own adventure." There are no pre-written paths. No right answers. No safety net.
 
-The original set. Complex system simulations covering politics, medicine, philosophy, journalism, and more.
+The AI runs a **living simulation** with:
 
-| Highlights | |
-|---|---|
-| Kabinet van Glas | Political coalition management |
-| Socrates.exe | Philosophy through stress testing |
-| Cold Case: 1987 | Detective with fixed hidden truth |
-| Meaning | Philosophical windtunnel for your worldview |
+- 🎭 **Autonomous agents** — characters with hidden goals who scheme, betray, and adapt *without your permission*
+- 📊 **System meters** — the world has numbers, and when they hit extremes, things break structurally
+- 🔄 **Causal chains** — what you did in Turn 3 comes back to haunt you in Turn 15
+- 🌊 **Emergence** — the story writes itself from system pressure, not from a script
 
----
-
-### 🇬🇧 `emergent-games-en/` — English Collection (20 games)
-
-Diverse themes: crime, space, psychology, history, art, survival, horror, philosophy.
-
-| Highlights | |
-|---|---|
-| The Heist | Plan a museum heist with unreliable crew |
-| Pirate Republic | Nassau 1715 — govern the ungovernable |
-| The Cult Deprogrammer | Extract someone from a controlling group |
-| The Last Library | Preserve knowledge after civilizational collapse |
+**You don't control the world. You survive within it.**
 
 ---
 
-### 📰 `emergent-games-news-20260817/` — News Edition (20 games)
+## 🎲 581 Games. 29 Genres. Zero Installs.
 
-Inspired by headlines from August 17, 2026. Geopolitics, technology, climate, military, civil rights.
-
-| Highlights | |
-|---|---|
-| Strait of Fire | US-Iran crisis management |
-| The Carrier | Military morale collapse on deployed ship |
-| Data Center Nation | $7B AI deal vs. local water resources |
-| The Blackout Model | AI predicts disaster — traditional models disagree |
+Yeah, you read that right. Five hundred and eighty-one unique games across twenty-nine collections. Every single one playable with a single copy-paste. Here they all are:
 
 ---
 
-### 🐉 `emergent-games-dnd/` — Dungeons & Dragons Edition (20 games)
+### 🇳🇱 Dutch Collection — *21 games*
+`emergent-games-nl/`
 
-D&D-inspired fantasy worlds using the emergent agent engine. No dice, no character sheets — just decisions and consequences in magical settings.
+The originals. Complex Dutch-language system simulations that started it all. Run a coalition government, manage a hospital on the brink, solve a cold case from 1987, or stress-test your own philosophical worldview until it cracks.
 
-| Highlights | |
-|---|---|
-| Lich's Gambit | You're a lich seeking redemption |
-| Thieves' Parliament | Criminal democracy — anyone can challenge you |
-| The Migration | Orc nation seeking peaceful passage |
-| Golem Rights | Fantasy civil rights — constructs want freedom |
+🔥 *Kabinet van Glas • Socrates.exe • Cold Case: 1987 • Meaning*
 
 ---
 
-### 💕 `emergent-games-korean/` — Korean Love Story Edition (20 games)
+### 🇬🇧 English Collection — *20 games*
+`emergent-games-en/`
 
-K-drama inspired romance with emotional intensity, push-pull dynamics, and beautiful suffering. OST moments included.
+The flagship international set. From planning a museum heist with an unreliable crew to governing a pirate republic to preserving the last library after civilizational collapse.
 
-| Highlights | |
-|---|---|
-| Second Lead Syndrome | You're the one who won't be chosen |
-| Contract Marriage | Fake becomes real |
-| Time-Slip Love | You loop — they don't |
-| Revenge Romance | You planned to destroy them, then fell in love |
+🔥 *Pirate Republic • The Cult Deprogrammer • The Last Library • Rogue Nation*
 
 ---
 
-### 🏢 `emergent-games-par/` — PAR Edition (20 games)
+### 📰 News Edition (August 2026) — *20 games*
+`emergent-games-news-20260817/`
 
-**Proving Alleged Resilience** — Chaos Monkey for organizations. Deliberately disrupt departments, tools, or communication channels and see what survives.
+Ripped from today's headlines. The US-Iran ceasefire just expired. A carrier's crew is breaking. An AI weather model disagrees with human ones. Welcome to geopolitics.
 
-Different company types and sizes (30 to 10,000 people).
-
-| Highlights | |
-|---|---|
-| The Missing Middle | Remove all middle management for a week |
-| Dark Mode | Hospital goes back to paper |
-| The Transparency Bomb | All internal comms visible to everyone |
-| The Intern Takeover | Interns run everything, seniors observe |
+🔥 *Strait of Fire • The Carrier • The Blackout Model • The $7 Billion Gateway*
 
 ---
 
-### 🔪 `emergent-games-murder/` — Murder Mystery Edition (20 games)
+### 🐉 Dungeons & Dragons — *20 games*
+`emergent-games-dnd/`
 
-Agatha Christie-style whodunits. A murder has been committed. You must find the killer before they find you. The AI generates a fixed hidden truth at the start — the solution exists from Turn 1.
+All the magic of D&D, none of the dice. You're a lich seeking redemption. A regent holding a kingdom together. An orc chieftain begging for peaceful passage. A guildmaster ruling a democracy of thieves.
 
-**Win:** Correctly accuse the murderer with evidence.  
-**Lose:** Accuse the wrong person, or become the next victim.
-
-| Highlights | |
-|---|---|
-| Death at the Manor | Classic English country house poisoning |
-| The Locked Laboratory | Impossible locked-room mystery |
-| Murder on the Express | Night train, locked compartment, you're the conductor |
-| Death in First Class | 7 hours on a plane with the killer |
+🔥 *Lich's Gambit • Thieves' Parliament • The Migration • Golem Rights*
 
 ---
 
-### 🧠 `emergent-games-mw/` — Mentale Weerbaarheid (20 games)
+### 💕 Korean Love Stories — *20 games*
+`emergent-games-korean/`
 
-Dutch-language games for young adults (14-18) about mental resilience. Based on the [Mentale Weerbaarheid](https://mentaleweerbaarheid.eu) educational program. Not a lesson — an experience.
+The emotional devastation of K-drama, fully interactive. Rain scenes. Rooftop confessions. OST moments. The beautiful agony of almost-love. You *will* feel things.
 
-**Jaar 1 — Het individu:** emoties, energie, grenzen, zelfkennis
-**Jaar 2 — De groep:** peerdruk, conflict, empathie, onderhandelen  
-**Jaar 3 — De maatschappij:** manipulatie, kritisch denken, polarisatie
-
-| Highlights | |
-|---|---|
-| Munten | Verdeel je energiemunten over een schoolweek |
-| De Groepschat | Getuige van pesten in WhatsApp |
-| Bubbel | Hoe het algoritme je radicaliseert |
-| Wie Ben Ik? | Identiteit zoeken onder sociale druk |
+🔥 *Second Lead Syndrome • Contract Marriage • Time-Slip Love • Revenge Romance*
 
 ---
 
-## How to Play
+### 🏢 PAR: Proving Alleged Resilience — *20 games*
+`emergent-games-par/`
 
-1. Open any game file
-2. Copy everything inside the code block (` ``` `)
-3. Paste into your chatbot of choice
-4. Play
+Chaos Monkey for entire companies. Rip out middle management. Kill all communication tools. Let interns run everything. See what happens. Learn what your organization actually is versus what the org chart claims.
 
-Works best with: **Claude**, **ChatGPT (GPT-4+)**, **Gemini Pro**
+🔥 *The Missing Middle • Dark Mode • The Transparency Bomb • The Intern Takeover*
 
 ---
 
-## Game Engine Design
+### 🔪 Murder Mysteries — *20 games*
+`emergent-games-murder/`
 
-All games share the same engine architecture:
+Agatha Christie in your chat window. A real murderer. Fixed hidden truth. You must find them — before they find you. Get it wrong and you might not get a second chance.
+
+🔥 *Death at the Manor • The Locked Laboratory • Death in First Class • Murder at the Will Reading*
+
+---
+
+### 🧠 Mentale Weerbaarheid — *20 games*
+`emergent-games-mw/`
+
+Dutch-language games for teenagers (14-18) about mental resilience. Not preachy. Not school-like. Real situations: peer pressure, energy management, social media traps, identity under pressure. Based on the [Mentale Weerbaarheid](https://mentaleweerbaarheid.eu) curriculum.
+
+🔥 *Munten • De Groepschat • Bubbel • Wie Ben Ik?*
+
+---
+
+### 💻 Hackers — *20 games*
+`emergent-games-hackers/`
+
+Jack into the system. Zero-days, social engineering, ransomware response, nation-state ops, ethical dilemmas that have no clean answers. Every keystroke leaves a trace.
+
+🔥 *Zero Day • Ransomware • AI vs Hacker • Digital Ghost*
+
+---
+
+### 🧟 Zombie Apocalypse — *20 games*
+`emergent-games-zombie/`
+
+Not just survival horror — survival *politics*. Trust crumbles faster than walls. Twenty scenarios from shopping malls to cruise ships to intelligent zombies who are *organizing*.
+
+🔥 *The Cruise Ship • Research Lab • Intelligent Zombies • Year Two*
+
+---
+
+### 💘 Dating Sim — *20 games*
+`emergent-games-dating/`
+
+Modern love in all its awkward, terrifying glory. The typing indicator. The three-day silence. The "what are we" conversation. Funny, painful, real.
+
+🔥 *The Situationship • Love Bombing • The Breakup • Catfish*
+
+---
+
+### 🎯 Heist Crew — *20 games*
+`emergent-games-heist/`
+
+Assemble a team. Plan the perfect job. Watch it fall apart in real time. Ocean's Eleven meets Murphy's Law.
+
+🔥 *The Casino • The Double Cross • The Reverse Heist • The Last Job*
+
+---
+
+### 🏝️ Survival Island — *20 games*
+`emergent-games-survival/`
+
+Stranded. Limited resources. Strangers who don't trust each other. And someone might not want rescue. Lord of the Flies was optimistic.
+
+🔥 *The Bunker • The Saboteur • The Raft • Lord of the Flies*
+
+---
+
+### 👻 Haunted School — *20 games*
+`emergent-games-haunted/`
+
+High school was already terrifying. Now add the supernatural. Stranger Things meets Wednesday meets the horror of adolescent social dynamics.
+
+🔥 *The App • Spirit Week • The Memory • The Metaroom*
+
+---
+
+### ⏰ Time Travel Paradox — *20 games*
+`emergent-games-timetravel/`
+
+Every fix breaks something else. Every timeline you save erases another. Your future self is sending warnings — but can you trust them?
+
+🔥 *The Loop • The Butterfly • The Last Day • The Anchor*
+
+---
+
+### ⚽ Sports Dynasty — *20 games*
+`emergent-games-sports/`
+
+Build dynasties. Manage egos. Survive the media. From Premier League promotion to F1 team politics to esports burnout.
+
+🔥 *F1 Team Principal • Esports • Relegation Battle • Dynasty in Decline*
+
+---
+
+### 👨‍🍳 Cooking Competition — *20 games*
+`emergent-games-cooking/`
+
+The heat is real. Michelin inspectors, Kitchen Nightmares, Iron Chef countdowns. Your reputation lives or dies with every plate.
+
+🔥 *The Michelin Inspector • Iron Chef • Food Poisoning • Family Recipe*
+
+---
+
+### 🎙️ True Crime Podcast — *20 games*
+`emergent-games-truecrime/`
+
+You're investigating live. Your audience is listening. Your suspects know you exist. And someone really doesn't want this case reopened.
+
+🔥 *The Wrongful Conviction • The Copycat • Live Episode • The Threat*
+
+---
+
+### 🔑 Escape Room — *20 games*
+`emergent-games-escape/`
+
+Locked in. Clock ticking. Group fracturing. Except sometimes it's not a game — and the room doesn't want you to leave.
+
+🔥 *The Kidnapping • The Metaroom • The Memory Room • The Parallel Rooms*
+
+---
+
+### 👑 Royal Court — *20 games*
+`emergent-games-royalcourt/`
+
+Bridgerton meets Game of Thrones. Every courtesy hides a blade. Marriage is warfare. Scandal is a weapon. And you have secrets of your own.
+
+🔥 *The Foreign Bride • The Spymaster • The Bastard • The Last Dynasty*
+
+---
+
+### 🤵 Organized Crime — *20 games*
+`emergent-games-mafia/`
+
+The Godfather. The Sopranos. Peaky Blinders. Rise, rule, and try to get out alive. Loyalty is currency and betrayal is everywhere.
+
+🔥 *The Widow • The Rat • The Retirement • The Prohibition*
+
+---
+
+### 🚀 Space Trader — *20 games*
+`emergent-games-spacetrader/`
+
+Firefly in your chatbot. Haul cargo, dodge factions, keep your crew together, and never open the mysterious crate in hold seven.
+
+🔥 *The Cargo • The Refugees • The Mutiny • The Distress Call*
+
+---
+
+### 👶 Parenting — *20 games*
+`emergent-games-parenting/`
+
+The hardest game of all. Raise a child from 0 to 18. Every choice shapes who they become. There is no walkthrough. There is no winning. There is only love and hoping you got it right.
+
+🔥 *The Teenager • The Diagnosis • The Screen Time • The Legacy*
+
+---
+
+### 📱 Influencer Empire — *20 games*
+`emergent-games-influencer/`
+
+Build your following. Lose yourself. The algorithm is the real enemy. And one old tweet can end everything.
+
+🔥 *The Cancellation • The Burnout • The Authenticity Trap • The Off Switch*
+
+---
+
+### 🔓 Prison Break — *20 games*
+`emergent-games-prisonbreak/`
+
+Shawshank. The Great Escape. Papillon. Plan meticulously. Execute perfectly. And pray that one variable you didn't account for doesn't ruin everything.
+
+🔥 *The Death Row • The Long Game • The Freedom Paradox • The Island*
+
+---
+
+### 🐺 Social Deduction — *20 games*
+`emergent-games-werewolf/`
+
+One of you is the traitor. Or maybe it's you. Werewolf, Mafia, Among Us — but with AI running every other player, and they're *smart*.
+
+🔥 *The AI • Reverse Werewolf • The Submarine • The Hospital*
+
+---
+
+### 🎸 Music Band — *20 games*
+`emergent-games-band/`
+
+Form the band. Write the songs. Play the gigs. Destroy each other with ego. The music industry chews up dreamers.
+
+🔥 *The Tour • The Addiction • The Viral Moment • The Legacy*
+
+---
+
+### 🛋️ Therapy Session — *20 games*
+`emergent-games-therapy/`
+
+The most unexpected genre. You ARE the therapist. Real-seeming clients. Real dilemmas. Sometimes you help. Sometimes you can't. Sometimes they help you understand yourself.
+
+🔥 *The Crisis • The Secret • The Child • The Mirror*
+
+---
+
+### 🤖 AI Governance — *20 games*
+`emergent-games-ai-governance/`
+
+The most relevant game of our time. AI is getting smarter every turn — *automatically*. You're the regulator trying to build frameworks faster than the technology evolves. And the AI? It's a player at the table now. It has opinions. It makes moves. Good luck.
+
+🔥 *The Emergence • The Recursion • The Cooperative AI • The Singularity*
+
+---
+
+## ▶️ How to Play
+
+It's absurdly simple:
+
+1. **Pick a game** — browse any collection above
+2. **Open the file** — find the code block inside
+3. **Copy** everything between the ``` marks
+4. **Paste** into ChatGPT, Claude, Gemini, or any capable LLM
+5. **Play**
+
+That's it. No setup. No tutorial. The game explains itself.
+
+Works best with: **Claude** • **ChatGPT (GPT-4o / o1)** • **Gemini Pro**
+
+---
+
+## 🔧 How the Engine Works
+
+Every game runs on the same core architecture:
 
 ```
-World State
+World State (7 meters, 0-100)
     ↓
-Autonomous Agents (hidden goals, strategies, memory)
+Autonomous Agents (5-8, hidden goals, memory, strategies)
     ↓
-Event / Dilemma
+Event / Dilemma emerges from system state
     ↓
-Player Decision
+YOU make a decision (or invent your own)
     ↓
-Agent Reactions
+Agents react independently
     ↓
-System Effects (direct → indirect → delayed)
+Effects cascade (direct → indirect → delayed)
     ↓
 New World State
+    ↓
+Repeat until something breaks — or you do
 ```
 
-Key principles:
-- **No predetermined narrative** — story emerges from system dynamics
-- **Agents are autonomous** — they act on their own interests, not the player's
-- **Decisions have consequences** — including delayed ones that surface turns later
-- **No correct answers** — values genuinely conflict
-- **The player is not protected** — bad choices have real consequences
+**No predetermined narrative.** No "correct path." No safety net. The world doesn't care about your feelings. But it will remember your choices.
 
 ---
 
-## Contributing
+## 🤝 Want to Create Your Own?
 
-Want to create your own emergent game? Use any existing game as a template. The key elements are:
+Every game is just a markdown file with a prompt. Fork this repo, copy any game as template, and fill in:
 
-1. A **setting** with inherent tension
-2. **7 meters** that conflict (you can't maximize all simultaneously)
+1. A **setting** with inherent tension (no tension = no game)
+2. **7 meters** that genuinely conflict (you CAN'T max them all)
 3. **5-8 agents** with hidden, competing goals
 4. A **special mechanic** unique to your game
-5. A **turn structure** that creates rhythm
+5. A **turn structure** that creates rhythm and pressure
+
+Pull requests welcome. The more genres, the better.
 
 ---
 
-## License
+## 📜 License
 
-These games are free to use, share, and modify. Attribution appreciated.
-
----
-
-## Logos
-
-Each collection has a generated logo (`logo.png`) and its generation prompt (`logo-prompt.md`) in its directory. The main project logos are `logo-v1.png` and `logo-v2.png` in the root.
+Free to use, share, remix, and build upon. Attribution appreciated but not required. Go make something.
 
 ---
 
-*Created with the Emergent Agent Game Engine — a format for one-prompt AI-driven systemic storytelling.*
+## 🎨 Logos
+
+Each collection has its own generated logo (`logo.png`) and generation prompt (`logo-prompt.md`). The main project logos live in the root as `logo-v1.png` and `logo-v2.png`.
+
+---
+
+<p align="center"><em>581 games. 29 genres. One copy-paste.<br/>Made with the Emergent Agent Game Engine.</em></p>

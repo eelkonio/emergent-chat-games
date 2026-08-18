@@ -2,7 +2,7 @@
 
 ## Main Logo (Version A)
 
-A minimalist, striking logo for "AI Emergent Games." A stylized brain made of interconnecting nodes and pathways, morphing on one side into a game controller shape and on the other into branching decision trees. Color palette: deep electric blue and warm amber on dark background. Clean vector style. The nodes pulse with subtle energy suggesting emergence and complexity. Text "EMERGENT GAMES" in clean modern sans-serif below. No photorealism — pure graphic design.
+A minimalist, striking logo for "AI Emergent Games." A stylized brain made of interconnecting nodes and pathways, morphing on one side into a keyboard shape and on the other into branching decision trees. Color palette: deep electric blue and warm amber on dark background. Clean vector style. The nodes pulse with subtle energy suggesting emergence and complexity. Text "EMERGENT GAMES" in clean modern sans-serif below. No photorealism — pure graphic design.
 
 ## Main Logo (Version B)
 
