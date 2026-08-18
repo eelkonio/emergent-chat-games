@@ -40,7 +40,7 @@ Yeah, you read that right. Five hundred and eighty-two unique games across twent
 ---
 
 ### 🇳🇱 Dutch Collection — *22 games*
-`emergent-games-nl/`
+`emergent-games/nl/`
 
 The originals. Complex Dutch-language system simulations that started it all. Run a coalition government, manage a hospital on the brink, solve a cold case from 1987, or stress-test your own philosophical worldview until it cracks.
 
@@ -49,7 +49,7 @@ The originals. Complex Dutch-language system simulations that started it all. Ru
 ---
 
 ### 🇬🇧 English Collection — *20 games*
-`emergent-games-en/`
+`emergent-games/en/`
 
 The flagship international set. From planning a museum heist with an unreliable crew to governing a pirate republic to preserving the last library after civilizational collapse.
 
@@ -58,7 +58,7 @@ The flagship international set. From planning a museum heist with an unreliable 
 ---
 
 ### 📰 News Edition (August 2026) — *20 games*
-`emergent-games-news-20260817/`
+`emergent-games/news-20260817/`
 
 Ripped from today's headlines. The US-Iran ceasefire just expired. A carrier's crew is breaking. An AI weather model disagrees with human ones. Welcome to geopolitics.
 
@@ -67,7 +67,7 @@ Ripped from today's headlines. The US-Iran ceasefire just expired. A carrier's c
 ---
 
 ### 🐉 Dungeons & Dragons — *20 games*
-`emergent-games-dnd/`
+`emergent-games/dnd/`
 
 All the magic of D&D, none of the dice. You're a lich seeking redemption. A regent holding a kingdom together. An orc chieftain begging for peaceful passage. A guildmaster ruling a democracy of thieves.
 
@@ -76,7 +76,7 @@ All the magic of D&D, none of the dice. You're a lich seeking redemption. A rege
 ---
 
 ### 💕 Korean Love Stories — *20 games*
-`emergent-games-korean/`
+`emergent-games/korean/`
 
 The emotional devastation of K-drama, fully interactive. Rain scenes. Rooftop confessions. OST moments. The beautiful agony of almost-love. You *will* feel things.
 
@@ -85,7 +85,7 @@ The emotional devastation of K-drama, fully interactive. Rain scenes. Rooftop co
 ---
 
 ### 🏢 PAR: Proving Alleged Resilience — *20 games*
-`emergent-games-par/`
+`emergent-games/par/`
 
 Chaos Monkey for entire companies. Rip out middle management. Kill all communication tools. Let interns run everything. See what happens. Learn what your organization actually is versus what the org chart claims.
 
@@ -94,7 +94,7 @@ Chaos Monkey for entire companies. Rip out middle management. Kill all communica
 ---
 
 ### 🔪 Murder Mysteries — *20 games*
-`emergent-games-murder/`
+`emergent-games/murder/`
 
 Agatha Christie in your chat window. A real murderer. Fixed hidden truth. You must find them — before they find you. Get it wrong and you might not get a second chance.
 
@@ -103,7 +103,7 @@ Agatha Christie in your chat window. A real murderer. Fixed hidden truth. You mu
 ---
 
 ### 🧠 Mentale Weerbaarheid — *20 games*
-`emergent-games-mw/`
+`emergent-games/mw/`
 
 Dutch-language games for teenagers (14-18) about mental resilience. Not preachy. Not school-like. Real situations: peer pressure, energy management, social media traps, identity under pressure. Based on the [Mentale Weerbaarheid](https://mentaleweerbaarheid.eu) curriculum.
 
@@ -112,7 +112,7 @@ Dutch-language games for teenagers (14-18) about mental resilience. Not preachy.
 ---
 
 ### 💻 Hackers — *20 games*
-`emergent-games-hackers/`
+`emergent-games/hackers/`
 
 Jack into the system. Zero-days, social engineering, ransomware response, nation-state ops, ethical dilemmas that have no clean answers. Every keystroke leaves a trace.
 
@@ -121,7 +121,7 @@ Jack into the system. Zero-days, social engineering, ransomware response, nation
 ---
 
 ### 🧟 Zombie Apocalypse — *20 games*
-`emergent-games-zombie/`
+`emergent-games/zombie/`
 
 Not just survival horror — survival *politics*. Trust crumbles faster than walls. Twenty scenarios from shopping malls to cruise ships to intelligent zombies who are *organizing*.
 
@@ -130,7 +130,7 @@ Not just survival horror — survival *politics*. Trust crumbles faster than wal
 ---
 
 ### 💘 Dating Sim — *20 games*
-`emergent-games-dating/`
+`emergent-games/dating/`
 
 Modern love in all its awkward, terrifying glory. The typing indicator. The three-day silence. The "what are we" conversation. Funny, painful, real.
 
@@ -139,7 +139,7 @@ Modern love in all its awkward, terrifying glory. The typing indicator. The thre
 ---
 
 ### 🎯 Heist Crew — *20 games*
-`emergent-games-heist/`
+`emergent-games/heist/`
 
 Assemble a team. Plan the perfect job. Watch it fall apart in real time. Ocean's Eleven meets Murphy's Law.
 
@@ -148,7 +148,7 @@ Assemble a team. Plan the perfect job. Watch it fall apart in real time. Ocean's
 ---
 
 ### 🏝️ Survival Island — *20 games*
-`emergent-games-survival/`
+`emergent-games/survival/`
 
 Stranded. Limited resources. Strangers who don't trust each other. And someone might not want rescue. Lord of the Flies was optimistic.
 
@@ -157,7 +157,7 @@ Stranded. Limited resources. Strangers who don't trust each other. And someone m
 ---
 
 ### 👻 Haunted School — *20 games*
-`emergent-games-haunted/`
+`emergent-games/haunted/`
 
 High school was already terrifying. Now add the supernatural. Stranger Things meets Wednesday meets the horror of adolescent social dynamics.
 
@@ -166,7 +166,7 @@ High school was already terrifying. Now add the supernatural. Stranger Things me
 ---
 
 ### ⏰ Time Travel Paradox — *20 games*
-`emergent-games-timetravel/`
+`emergent-games/timetravel/`
 
 Every fix breaks something else. Every timeline you save erases another. Your future self is sending warnings — but can you trust them?
 
@@ -175,7 +175,7 @@ Every fix breaks something else. Every timeline you save erases another. Your fu
 ---
 
 ### ⚽ Sports Dynasty — *20 games*
-`emergent-games-sports/`
+`emergent-games/sports/`
 
 Build dynasties. Manage egos. Survive the media. From Premier League promotion to F1 team politics to esports burnout.
 
@@ -184,7 +184,7 @@ Build dynasties. Manage egos. Survive the media. From Premier League promotion t
 ---
 
 ### 👨‍🍳 Cooking Competition — *20 games*
-`emergent-games-cooking/`
+`emergent-games/cooking/`
 
 The heat is real. Michelin inspectors, Kitchen Nightmares, Iron Chef countdowns. Your reputation lives or dies with every plate.
 
@@ -193,7 +193,7 @@ The heat is real. Michelin inspectors, Kitchen Nightmares, Iron Chef countdowns.
 ---
 
 ### 🎙️ True Crime Podcast — *20 games*
-`emergent-games-truecrime/`
+`emergent-games/truecrime/`
 
 You're investigating live. Your audience is listening. Your suspects know you exist. And someone really doesn't want this case reopened.
 
@@ -202,7 +202,7 @@ You're investigating live. Your audience is listening. Your suspects know you ex
 ---
 
 ### 🔑 Escape Room — *20 games*
-`emergent-games-escape/`
+`emergent-games/escape/`
 
 Locked in. Clock ticking. Group fracturing. Except sometimes it's not a game — and the room doesn't want you to leave.
 
@@ -211,7 +211,7 @@ Locked in. Clock ticking. Group fracturing. Except sometimes it's not a game —
 ---
 
 ### 👑 Royal Court — *20 games*
-`emergent-games-royalcourt/`
+`emergent-games/royalcourt/`
 
 Bridgerton meets Game of Thrones. Every courtesy hides a blade. Marriage is warfare. Scandal is a weapon. And you have secrets of your own.
 
@@ -220,7 +220,7 @@ Bridgerton meets Game of Thrones. Every courtesy hides a blade. Marriage is warf
 ---
 
 ### 🤵 Organized Crime — *20 games*
-`emergent-games-mafia/`
+`emergent-games/mafia/`
 
 The Godfather. The Sopranos. Peaky Blinders. Rise, rule, and try to get out alive. Loyalty is currency and betrayal is everywhere.
 
@@ -229,7 +229,7 @@ The Godfather. The Sopranos. Peaky Blinders. Rise, rule, and try to get out aliv
 ---
 
 ### 🚀 Space Trader — *20 games*
-`emergent-games-spacetrader/`
+`emergent-games/spacetrader/`
 
 Firefly in your chatbot. Haul cargo, dodge factions, keep your crew together, and never open the mysterious crate in hold seven.
 
@@ -238,7 +238,7 @@ Firefly in your chatbot. Haul cargo, dodge factions, keep your crew together, an
 ---
 
 ### 👶 Parenting — *20 games*
-`emergent-games-parenting/`
+`emergent-games/parenting/`
 
 The hardest game of all. Raise a child from 0 to 18. Every choice shapes who they become. There is no walkthrough. There is no winning. There is only love and hoping you got it right.
 
@@ -247,7 +247,7 @@ The hardest game of all. Raise a child from 0 to 18. Every choice shapes who the
 ---
 
 ### 📱 Influencer Empire — *20 games*
-`emergent-games-influencer/`
+`emergent-games/influencer/`
 
 Build your following. Lose yourself. The algorithm is the real enemy. And one old tweet can end everything.
 
@@ -256,7 +256,7 @@ Build your following. Lose yourself. The algorithm is the real enemy. And one ol
 ---
 
 ### 🔓 Prison Break — *20 games*
-`emergent-games-prisonbreak/`
+`emergent-games/prisonbreak/`
 
 Shawshank. The Great Escape. Papillon. Plan meticulously. Execute perfectly. And pray that one variable you didn't account for doesn't ruin everything.
 
@@ -265,7 +265,7 @@ Shawshank. The Great Escape. Papillon. Plan meticulously. Execute perfectly. And
 ---
 
 ### 🐺 Social Deduction — *20 games*
-`emergent-games-werewolf/`
+`emergent-games/werewolf/`
 
 One of you is the traitor. Or maybe it's you. Werewolf, Mafia, Among Us — but with AI running every other player, and they're *smart*.
 
@@ -274,7 +274,7 @@ One of you is the traitor. Or maybe it's you. Werewolf, Mafia, Among Us — but 
 ---
 
 ### 🎸 Music Band — *20 games*
-`emergent-games-band/`
+`emergent-games/band/`
 
 Form the band. Write the songs. Play the gigs. Destroy each other with ego. The music industry chews up dreamers.
 
@@ -283,7 +283,7 @@ Form the band. Write the songs. Play the gigs. Destroy each other with ego. The 
 ---
 
 ### 🛋️ Therapy Session — *20 games*
-`emergent-games-therapy/`
+`emergent-games/therapy/`
 
 The most unexpected genre. You ARE the therapist. Real-seeming clients. Real dilemmas. Sometimes you help. Sometimes you can't. Sometimes they help you understand yourself.
 
@@ -292,7 +292,7 @@ The most unexpected genre. You ARE the therapist. Real-seeming clients. Real dil
 ---
 
 ### 🤖 AI Governance — *20 games*
-`emergent-games-ai-governance/`
+`emergent-games/ai-governance/`
 
 The most relevant game of our time. AI is getting smarter every turn — *automatically*. You're the regulator trying to build frameworks faster than the technology evolves. And the AI? It's a player at the table now. It has opinions. It makes moves. Good luck.
 
