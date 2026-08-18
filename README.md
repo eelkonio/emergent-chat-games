@@ -33,13 +33,13 @@ The AI runs a **living simulation** with:
 
 ---
 
-## 🎲 581 Games. 29 Genres. Zero Installs.
+## 🎲 Hundreds of Games. Dozens of Genres. Zero Installs!
 
-Yeah, you read that right. Five hundred and eighty-one unique games across twenty-nine collections. Every single one playable with a single copy-paste. Here they all are:
+Yeah, you read that right. Five hundred and eighty-two unique games across twenty-nine collections - and the number is growing. Every single one playable with a single copy-paste. Here they all are:
 
 ---
 
-### 🇳🇱 Dutch Collection — *21 games*
+### 🇳🇱 Dutch Collection — *22 games*
 `emergent-games-nl/`
 
 The originals. Complex Dutch-language system simulations that started it all. Run a coalition government, manage a hospital on the brink, solve a cold case from 1987, or stress-test your own philosophical worldview until it cracks.
