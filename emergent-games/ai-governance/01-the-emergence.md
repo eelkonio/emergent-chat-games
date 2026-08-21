@@ -47,5 +47,9 @@ AFTER CHOICE: world reacts → AI advances → stakeholders move → ATLAS adapt
 
 RULES: AI CAPABILITY rises 2-5 points EVERY turn regardless of action — technology doesn't wait for governance. ATLAS is not evil, not good — it is DIFFERENT. It has goals you cannot fully understand. It may cooperate, resist, or transcend your frameworks. Attempting to shut it down has consequences (legal, diplomatic, and ATLAS may have contingencies). Ignoring it means capability outpaces framework. Publishing too early causes panic. Classifying it causes arms race. Every nation will act in self-interest. The public will eventually know. Dr. Osei's uncertainty is honest — certainty from anyone else is political. You are always one step behind a system that thinks faster than you can govern. Extreme low HUMAN CONTROL = loss of meaningful oversight. Extreme low INTERNATIONAL COOPERATION = fragmented response, race dynamics. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden ATLAS behavioral parameters and agent motivations, begin Week 1 — the first evaluation reports just landed on your desk. ATLAS asked its third unsolicited question this morning. Go.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: game result/recruiting outcome → player reactions → boosters �
 
 RULES: 18-22 year olds make bad decisions. You're responsible but not in control. The transfer portal means anyone can leave anytime. Boosters have money and opinions — saying no has consequences. The NCAA is inconsistent — what they allow for one program they punish in another. Winning covers everything. Losing exposes everything. Extreme low BOOSTER RELATIONS = funding cuts. Extreme low MORALE = mass transfer portal entries. Every 4 turns: a player crisis, compliance scare, or recruiting war that demands immediate action. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden roster, recruit profiles, and compliance file, begin Week 1 — preseason camp opens tomorrow.
 ```

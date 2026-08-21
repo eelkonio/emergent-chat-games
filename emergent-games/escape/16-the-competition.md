@@ -47,5 +47,9 @@ AFTER CHOICE: puzzle attempted → speed vs. accuracy plays out → Team B progr
 
 RULES: Errors are EXPENSIVE — 2-3 minutes to reset, during which Team B is moving. But rushing CAUSES errors. The optimal speed is "fast and confident" — panicking makes you slow AND wrong. Remi hearing Team B cheer might freeze. Alex might rush and break something. Sam might refuse to speed up even when you're behind. The $5,000 motivates differently — Jin wants it, Sam doesn't care. Team B might ALSO be struggling (their silence ≠ defeat). Extreme ERROR COUNT = mathematically impossible to win. Extreme COMPETITIVE PRESSURE = team dissolution. Every 2 turns: Team B either celebrates or goes silent — either affects you. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden puzzle set and Team B progress schedule, begin simultaneously — both doors lock. GO.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: attempt → correct (stage cleared) or wrong (timer jumps, error c
 
 RULES: Two errors = detonation = 400 dead = game over. One error = survivable but timer accelerates dramatically. Taking MORE time per stage is safer but total time is limited. Petrov's logic has patterns — understanding his previous bombs (from case files) helps. Hayes can describe physical components but you must determine the logic. Dr. Kim has seen Petrov's work before but not this specific design. Extreme DETONATION RISK = final error available, no margin. Every stage: the puzzle is solvable with the information given — but Petrov includes misdirection. No protection. No margin. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden puzzle solutions and Petrov's design philosophy, begin at 60:00 — you're looking at Stage 1. Hayes says: "Tell me what to do."
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: memory integrates (or doesn't) → psychological state shifts → 
 
 RULES: Some memories are GOOD (suppressed alongside traumatic ones — the brain is blunt). Recovering the full picture means recovering joy AS WELL AS pain. The therapist voice is helpful but might be pushing too fast. Your younger self needs acknowledgment — ignoring them in the memory keeps the door locked. The resistance is your own protection — fighting it depletes energy, working with it yields information. Extreme low PSYCHOLOGICAL STABILITY = breakdown (game pauses, therapeutic intervention). Extreme MEMORY RECOVERY without INTEGRATION = overwhelming (worse than suppression). Every memory: forces you to decide whether knowing is better than not knowing. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden memory sequence and psychological profile, begin — the first puzzle glows. Lavender scent fills the room. You haven't smelled lavender since you were 14.
 ```

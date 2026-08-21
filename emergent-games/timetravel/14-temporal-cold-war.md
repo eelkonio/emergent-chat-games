@@ -47,5 +47,9 @@ AFTER CHOICE: faction reacts → other faction responds → timeline shifts → 
 
 RULES: Neither faction is evil. Neither is purely good. The Architects' utopia requires erasing people. The Conservators' purity preserves atrocities. Your independence threatens both — they may cooperate briefly to neutralize you. Eli is leverage — harm them and you'll comply. There may be a third option neither faction sees. Extreme INDEPENDENCE with low SAFETY = assassination attempt. Extreme faction TRUST = full recruitment and loss of autonomy. Every 4 turns: a timeline change that makes you question your current allegiance. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden faction strategies and agent profiles, begin Week 1 — both sides just made contact.
 ```

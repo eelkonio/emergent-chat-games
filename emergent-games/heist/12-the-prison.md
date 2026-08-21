@@ -46,5 +46,9 @@ AFTER CHOICE: both teams act → prison response → sync assessment → meters.
 
 RULES: Two moving parts in a rigid system. Communication is precious and dangerous. Either failure = total failure. Extreme meters = structural (lockdown triggered, Marcus panics, evidence not in safe, one team succeeds and other fails). Every 3 turns: a complication that threatens sync. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create prison layout, both team plans, begin final planning day.
 ```

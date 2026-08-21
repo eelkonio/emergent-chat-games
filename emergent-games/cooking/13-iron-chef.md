@@ -49,5 +49,9 @@ AFTER CHOICE: 10 minutes pass → food develops → opponent progresses → team
 
 RULES: Unplated dishes at 60 minutes = automatic loss per dish. Fewer than 3 plated = total loss. Yamada will plate all 5 — she always does. Speed and quality trade off directly. Your 4th sous chef might be brilliant or a liability — you'll know after 10 minutes. The audience gasps at drama — commentators narrate your body language. Judges taste in order presented — sequence matters. Extreme low TIME MANAGEMENT = unfinished dishes. Extreme OPPONENT PRESSURE = you panic-plate. Every 2 turns: a kitchen disaster (broken element, burned component, dropped plate). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden opponent strategy and judge profiles, begin Minute 0 — "The secret ingredient is... UNI!" Clock starts.
 ```

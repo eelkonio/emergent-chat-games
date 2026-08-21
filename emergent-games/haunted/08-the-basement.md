@@ -46,5 +46,9 @@ AFTER CHOICE: entity response → school effects → knowledge gained → meters
 
 RULES: Ancient things are patient. The entity has been sealed for centuries — it's not in a hurry. But it IS awake now. The school above is changing slowly. Extreme meters = structural (entity fully wakes, seal restored, entity communicates, school evacuated). Every 4 turns: the awakening manifests somewhere new in school. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create entity history (hidden), symbol key, begin Day 4 post-breach.
 ```

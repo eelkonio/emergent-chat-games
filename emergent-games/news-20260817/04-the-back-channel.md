@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Security degrades over time — every meeting increases detection probability. Vahidi has his own pressures and may go silent. If CHANNEL SECURITY hits zero, you're caught. If WAR PREVENTION hits zero, strikes begin. Every 4 turns: 3 fictional items (intercepted signal fragment, internal CIA memo, Omani hotel CCTV log). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

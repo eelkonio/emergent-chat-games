@@ -48,5 +48,9 @@ AFTER CHOICE: stage unfolds (narrated) → GC changes → riders tire → morale
 
 RULES: Riders break. 3 weeks at maximum effort destroys bodies. Domestiques sacrificing for GC leaders is TRADITION but not unlimited — they have pride too. Doping suspicion, once raised, never fully dissipates. Asking the question changes the relationship regardless of the answer. Bakker might leave the team if ignored. Herrera might be clean AND extraordinary — or not. Extreme RIDER FATIGUE = abandonment. Extreme DOPING SUSPICION = formal investigation. Every 3 stages: a tactical crisis (breakaway, crosswinds, crash). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden rider condition profiles and GC standings, begin Stage 10 — first mountain stage tomorrow.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: evidence emerges → Doyle's lawyers respond → other witnesses r
 
 RULES: Doyle's lawyers will bury you in motions if you name him without proof. Maria is the key witness but she's undocumented — testifying puts her at risk. The insurance policy timing is suspicious but not proof. Maintenance records can be expert-verified for tampering. OSHA might reopen if you find enough — but they protect their own rulings. The civil suit lawyer wants your work but offers nothing in return. Extreme LEGAL STANDING threat = defamation suit. Extreme low PERSONAL SAFETY = physical intimidation. Every 4 turns: a document or witness changes the picture. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden truth about the explosion and evidence trail, begin Day 1 — Maria Santos agreed to talk. Off the record, for now.
 ```

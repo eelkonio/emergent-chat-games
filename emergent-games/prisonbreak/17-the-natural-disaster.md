@@ -46,5 +46,9 @@ AFTER CHOICE: time passes → aftershocks → structural changes → guards reor
 
 RULES: The gap is 18 inches NOW — an aftershock could widen it (easier exit) or collapse it (gone). You don't know which. Moving through dark debris-filled corridors: risk of injury (broken glass, fallen beams, holes in floor). Other inmates heading for the gap = congestion + guard attention drawn there. If 10 inmates rush the gap, guards will focus response there — but you might get caught in the crowd. Going alone and quiet = stealthier but you face the gap alone. Tower guard Williams has power and spotlight — his angle covers the exterior near D Block. Fog/dust from earthquake might help. Helping injured people is human but costs 10-15 minutes per person. Sergeant Cooper is trying to lock it down despite injury — his priority is accountability, not individual cells. The emergency response at 90 minutes brings 50+ officers, dogs, and perimeter seal. If you're not out by then: lockdown for weeks, every crack patched. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden structural damage map and guard positions, begin the moment your cell door pops open — 3:47 AM, the shaking just stopped, red emergency lighting, dust everywhere. What do you hear? Go.
 ```

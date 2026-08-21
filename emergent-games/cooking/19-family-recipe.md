@@ -48,5 +48,9 @@ AFTER CHOICE: community responds → recipes tested → building deteriorates or
 
 RULES: The building WILL fail health inspection without renovation. Renovation means closing for weeks — regulars might not return. Preserving everything = Rosa's restaurant, not yours (financially unsustainable). Changing everything = betrayal of community. Salvatore is your living link to Rosa's methods — alienating him loses knowledge. Uncle Marco will exploit any community backlash. The bank needs to see growth, not preservation. Extreme low COMMUNITY LOYALTY = the regulars leave permanently. Extreme low FINANCIAL VIABILITY = forced sale. Every 4 turns: you discover something in Rosa's recipe book that changes your understanding. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden recipe book contents and community attachment map, begin Week 1 — the funeral was last week. Today you open for the first time as owner.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → school dynamics → Kai's behavior → other fa
 
 RULES: Children's social conflicts rarely have one villain. Schools are institutions with priorities that aren't always your child's wellbeing. Your own history biases your response. Kai needs to feel safe telling the truth — which means you must handle whatever it is. Every 4 turns: a revelation (evidence, witness account, Kai opens up, other child's perspective) changes your understanding. Extreme meters = structural (situation resolved well, escalation damages Kai further, Kai IS the bully and you must face it, friendship salvaged, school fails your child, you become the problem parent). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and initial situation, begin the day of the school's phone call.
 ```

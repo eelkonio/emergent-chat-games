@@ -48,5 +48,9 @@ AFTER CHOICE: games play out → development tracking → parent club reaction �
 
 RULES: Rodriguez MIGHT figure it out — prospects are volatile. Jenkins MIGHT get called up if he keeps hitting — or might not (not on the prospect list). The parent club can override you anytime. Winning a minor league championship means everything to these players and nothing to the organization. Kim's innings limit is hard — use him in September and he's shut down. Extreme low PARENT CLUB TRUST = reassignment. Extreme low PLAYOFF POSITION = team quits. Every 3 series: a development directive that directly hurts your chance to win. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden prospect ceilings and parent club priorities, begin Series 1 — August, 30 games left.
 ```

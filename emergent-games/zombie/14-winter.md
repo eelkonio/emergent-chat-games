@@ -46,5 +46,9 @@ AFTER CHOICE: weather effects → health update → fire/smoke consequences → 
 
 RULES: Cold kills slowly. Fire reveals. Thaw awakens. Supplies deplete. Every comfort has a cost. Extreme meters = structural (sudden thaw, blizzard, group splits for town, outsiders follow smoke). Every 4 turns: weather changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create weather model, agent profiles, begin Turn 1.
 ```

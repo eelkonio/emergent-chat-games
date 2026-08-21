@@ -46,5 +46,9 @@ AFTER CHOICE: days pass → Rosa prepares → guards rotate → visiting room dy
 
 RULES: Phone calls are monitored — you cannot explicitly discuss smuggling (coded language). Letters are read — same constraint. Rosa's weekly preparation is on her own with minimal guidance. Hutchins remembers patterns — if Rosa's hug is longer, different, or she's visibly nervous, he'll watch closer. Metal detector catches metal — the handcuff key must be ceramic or plastic (harder to acquire). Cash is bulkier than it seems — $500 in small bills is a visible lump. The SIM card is tiny but if Rosa gets secondary screening (random, 10% of visitors), it's found. Paulson is leveraging his knowledge — ignore him and he might talk to guards for favor. Rosa's husband Keith notices her anxiety — if he finds out, he might stop her or call the prison. Extreme low ROSA'S NERVE = she refuses and you've lost your ally. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden guard observation patterns and Rosa's psychological profile, begin the week after you decided to ask her — you're composing the first coded letter. What do you say? Go.
 ```

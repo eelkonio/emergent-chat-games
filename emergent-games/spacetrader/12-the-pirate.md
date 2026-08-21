@@ -48,5 +48,9 @@ AFTER CHOICE: their response → financial status → crew morale → system con
 
 RULES: Desperation is real but not permanent — something might change. Or it might not. The auto-hauler IS defenseless. But Consolidated IS vindictive. And the frontier DOES remember. Every 4 turns: a development that either makes piracy more tempting (finances worsen, bigger target appears) or less necessary (legitimate opportunity, partial payment from old debt). Extreme meters = structural (successful pirate career, caught and imprisoned, stayed legitimate through hardship, one job and out, became something worse than a pirate, found a third path). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and financial crisis, begin Day 1 (Tuesday is in 5 days).
 ```

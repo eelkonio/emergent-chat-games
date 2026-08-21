@@ -48,5 +48,9 @@ AFTER CHOICE: athletes react → federation responds → media writes → traini
 
 RULES: Selecting on pure merit makes enemies in power. Selecting politically costs medals. Deferring decisions creates anxiety that hurts training. The relay team is 4 people who must TRUST each other — personal conflicts matter. Amara and James might need to be in the same relay. The nephew might actually improve enough (or might not). Extreme low FEDERATION RELATIONS = you're replaced before the Games. Extreme low MORALE = team implosion at the Games. Every 4 turns: an injury, scandal, or political crisis forces an immediate decision. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden athlete profiles and political map, begin 16 weeks from Games — first training camp.
 ```

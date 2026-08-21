@@ -47,5 +47,9 @@ AFTER CHOICE: bake completes → judges evaluate → social dynamics shift → c
 
 RULES: Not everything is sabotage — sometimes provers are left open by accident. But SOME things aren't accidents. The judges genuinely care about food quality — but presentation and story matter too. The producer's edit can make a villain of anyone. Claire might genuinely feel bad about what she's doing — or might not. Tom is transparent about competing but his lobby of judges is hidden. Extreme BAKING QUALITY = Star Baker regardless of politics. Extreme low = going home regardless of popularity. Every challenge: one moment where friendship and competition directly conflict. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden baker strategies and judge preferences, begin Semi-Final Signature Challenge — bread week.
 ```

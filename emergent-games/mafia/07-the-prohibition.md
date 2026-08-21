@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Capone's moves → federal investigation → su
 
 RULES: Capone is building a monopoly. You can join, fight, or find a niche — but staying independent gets harder every week. Your partner's greed is a liability. The feds are getting better. Every 4 turns: a major supply disruption (hijacking, border crackdown, Canadian supplier issues) tests your operation's resilience. Extreme meters = structural (empire built, absorbed by Capone, arrested, killed in gang war, become a boss in your own right, the whole era crashes with repeal). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and 1924 Chicago landscape, begin Week 1.
 ```

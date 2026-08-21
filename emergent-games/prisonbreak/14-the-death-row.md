@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → countdown advances → surveillance → progress �
 
 RULES: The 10-inch drain grate has 4 bolts — corroded but steel. Loosening them without tools requires improvisation (book spine? bed frame bolt?). The noise of working on them: masked during rec hour when the ventilation system runs loudly. The tunnel below: dark, cramped, 100 meters to the maintenance building. Unknown condition — 70 years of neglect. Curtis knows something about the tunnel — his whispered conversations through the wall are your intelligence source. Attorney visit rooms have no cameras — but a guard stands outside the door. Your emotional display must match "man facing execution" not "man with hope." Too much improvement in mood = psychological evaluation = closer observation. Extreme PSYCHOLOGICAL STATE below 20 = irrational choices. Extreme TIME TO DEADLINE at 0 = game over — literally. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden tunnel condition and guard surveillance priorities, begin Day 1 — 28 days remain. You're staring at the drain in your floor. It's now or never. Go.
 ```

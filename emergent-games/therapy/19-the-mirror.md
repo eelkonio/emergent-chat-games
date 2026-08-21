@@ -46,5 +46,9 @@ AFTER CHOICE: The session continues → counter-transference ebbs or surges → 
 
 RULES: If counter-transference goes unmanaged (intensity 80+ without supervision/self-care) = your interventions become about YOU and harm the client. If you refer out too quickly = you might be avoiding your own material rather than protecting the client. If you stay without support = ethical negligence. If you use supervision well and maintain boundaries = your personal experience becomes clinical strength. COUNTER-TRANSFERENCE INTENSITY tracks: how much your own wounds are driving the session. HIGH is not automatically bad — high AND unmanaged is dangerous. High AND aware AND supervised can be therapeutically powerful. If it reaches 85+ without mitigation: you must refer out or you're causing harm. If you manage it to below 40 while staying: you've found the line. The hardest question in therapy: who is this session for? No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden details of YOUR therapeutic history and unresolved material, plus Nadia's specifics (similar but NOT identical to yours — the differences matter), begin the moment she says: "I think I'm just... independent. Is that a crime?" and you feel your chest tighten. The mirror is reflecting. Go.
 ```

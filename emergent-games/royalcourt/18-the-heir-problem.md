@@ -48,5 +48,9 @@ AFTER CHOICE: their response → spouse's reaction → court judgment → Stanto
 
 RULES: Biology is uncertain. Physicians are often wrong. The Church controls legitimacy. Desperate measures carry proportional risks. Your spouse has their own feelings and may take their own actions. Every 4 turns: Lord Stanton makes a bold move (legal challenge, alliance with your enemies, approaching the King). Extreme meters = structural (heir born, marriage annulled, adopted heir accepted, forbidden solution with terrible secret, Stanton inherits, scandal destroys everything). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and medical/political landscape, begin Month 1.
 ```

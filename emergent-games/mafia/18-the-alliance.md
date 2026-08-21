@@ -48,5 +48,9 @@ AFTER CHOICE: their response → DeLuca trustworthiness → Petrov's adaptations
 
 RULES: The DeLucas are allies of necessity, not choice. Your people will test the alliance. Their people will test the alliance. Petrov will try to break it — offer one family a deal against the other. Every 4 turns: a crisis of trust (shared information leaked, old grudge surfaces, joint operation goes wrong). Extreme meters = structural (Petrov defeated together, DeLucas betray you, you betray them first, permanent merger, FBI uses the alliance to RICO everyone, Petrov offers you a better deal). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and strategic landscape, begin Week 1.
 ```

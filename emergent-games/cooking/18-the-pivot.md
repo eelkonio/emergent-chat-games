@@ -48,5 +48,9 @@ AFTER CHOICE: customers respond → revenue (or not) → staff react → financi
 
 RULES: Staff on furlough lose connection. Staff kept on cost money you might not have. Takeout margins are razor-thin. The delivery platforms are necessary evils. Mrs. Chen's support is real but not infinite. The burger place succeeding while you struggle is psychologically devastating. Margot might leave if the pivot goes "too far" from fine dining. Alex thrives in constraints. Tom might be your secret weapon (logistics brain). Extreme low FINANCIAL RUNWAY = forced closure. Extreme low CREATIVE IDENTITY = "we're just another takeout now." Every 4 turns: a new lockdown rule or opening timeline changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden financial model and staff capabilities, begin Day 1 of lockdown — the kitchen is full of food that won't last.
 ```

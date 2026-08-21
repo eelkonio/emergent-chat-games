@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → fans react → new audience discovers → press na
 
 RULES: The new album IS better artistically — that's not the question. The question is whether better matters if no one hears it. The die-hard fans are LOUD but may not be the majority (silent majority might welcome growth). Testing live: dangerous (filmed, shared, judged out of context) but also real data. The label bridge suggestion (one old-style single) might work as: signal that you haven't abandoned them, just grown. Or it might look like: pandering. Robin and Jake's support is valuable — the band is unified, which is rare. If the album is GREAT: critics will champion you (Radiohead precedent). If it's merely good: "they should have stuck to what they know." The live show must serve both: old fans came for energy, new sound must deliver energy differently. Extreme high FAN LOYALTY + new audience = transcendence. Extreme low fan loyalty + no new audience = collapse. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden fan sentiment data and press reception predictions, begin the week you release the first new single publicly — the comments are rolling in. Go.
 ```

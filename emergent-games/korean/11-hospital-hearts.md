@@ -40,5 +40,9 @@ AFTER CHOICE: emotional consequences → character reactions → relationship sh
 
 RULES: Love is complicated. Characters have pride. Miscommunication is deadly. Timing matters. Grand gestures can backfire. Silence speaks. Every 4 turns: one "OST moment" (a scene described as if it had a soundtrack). Extreme meters = structural (confession, breakup, departure, revelation, sacrifice).
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create characters with hidden emotional profiles, begin Turn 1.
 ```

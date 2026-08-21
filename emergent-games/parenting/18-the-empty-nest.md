@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Sonia's distance/closeness → partner connecti
 
 RULES: Sonia is fine. YOUR problem is about you, not her. Over-contacting pushes away. Under-contacting abandons. Your partner may be struggling differently. Every 4 turns: a development (Sonia needs you, partnership crisis, unexpected opportunity, genuine liberation, or grief wave). Extreme meters = structural (reinvented identity, relationship deepens, relationship ends, beautiful new Sonia-relationship, stuck in grief, discovered purpose). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and empty-nest landscape, begin Week 1 (six weeks after departure).
 ```

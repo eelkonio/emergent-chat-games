@@ -45,5 +45,9 @@ AFTER CHOICE: Casey's response → friend reaction → your honest feeling → m
 
 RULES: Real people don't match descriptions. Chemistry isn't obligation. Reporting back changes the experience. Extreme meters = structural (genuine unexpected spark, polite rejection, friend group drama, Casey surprises you completely). Every 3 turns: a moment of real connection OR real mismatch. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Casey's real profile (vs. described profile), begin at the restaurant.
 ```

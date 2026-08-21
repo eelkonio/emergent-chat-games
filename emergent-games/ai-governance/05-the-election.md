@@ -47,5 +47,9 @@ AFTER CHOICE: generators adapt → platforms react → campaigns exploit → pub
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — generators improve continuously. Any detection tool deployed becomes obsolete within 2 turns as generators adapt. Censorship backfires — removing content creates "they're hiding truth" narratives. Both campaigns will accuse you of bias regardless of what you do. Platforms will cooperate only when liability threatens profits. The foreign intelligence service benefits from chaos in any direction. The public's attention span for "media literacy" campaigns is approximately zero. Real content CAN be identified with enough time and resources — but elections are time-bounded. If turnout drops below 40%, democratic legitimacy collapses regardless of who wins. The generator networks have no central control — they're an ecosystem, not an organization. You cannot arrest AI. Extreme low PUBLIC SAFETY = election legitimacy crisis. Extreme low HUMAN CONTROL = information environment becomes ungovernable. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden campaign AI strategies and generator network evolution patterns, begin Week 1 — the first major deepfake of the election cycle just went viral. 4 million views in 2 hours. Is it real? Go.
 ```

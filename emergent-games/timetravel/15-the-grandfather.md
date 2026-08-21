@@ -47,5 +47,9 @@ AFTER CHOICE: medical situation changes → paradox reacts → your reality flic
 
 RULES: Using future knowledge saves Thomas faster but erases you faster. The paradox has NO clean solution — only messy ones. Clara might carry your grandmother already (would change the logic). The paradox might resolve through means you don't expect. Pastor Greene might be more than he seems. Extreme low COHERENCE = erasure begins (irreversible in stages). Extreme THOMAS'S HEALTH decline = point of no return. Every 3 turns: a part of you vanishes permanently (a memory, a finger, a year of your life). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden medical state and paradox logic, begin Hour 1 — Thomas is in surgery. Your left hand just went transparent.
 ```

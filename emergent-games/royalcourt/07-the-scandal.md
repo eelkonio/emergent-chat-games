@@ -48,5 +48,9 @@ AFTER CHOICE: their response → letter moves or doesn't → court dynamics shif
 
 RULES: The letter degrades your position even if no one reads it — because your BEHAVIOR changes and people notice. Acting guilty makes you guilty. Every 4 turns: the letter reaches a new, more dangerous pair of hands. Extreme meters = structural (letter destroyed and secret kept, letter published and social death, forced into someone's pocket permanently as blackmail, letter reaches the King, you eliminate the threat by terrible means). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and letter status, begin Day 1.
 ```

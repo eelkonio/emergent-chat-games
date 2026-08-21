@@ -48,5 +48,9 @@ AFTER CHOICE: games play out → veterans age → young players grow (or don't) 
 
 RULES: Brooks will play until he physically cannot — that's YOUR fault for building that culture. Davis needs minutes he won't get on a competing team. Rivera will leave if you don't commit to succession. Winning this year is possible but requires mortgaging next year entirely. The analytics coach is winning because the game evolved and you didn't adapt (or did you choose not to?). Your spouse is right. Extreme low LEGACY = remembered for the ending, not the dynasty. Extreme PERSONAL PEACE = retirement before you're ready. Every 4 turns: a moment that crystallizes what matters. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden veteran health reports and succession timeline, begin Week 1 of final season.
 ```

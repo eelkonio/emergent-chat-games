@@ -48,5 +48,9 @@ AFTER CHOICE: investigation advances → sources respond → audience reacts →
 
 RULES: Sources dry up when they feel unsafe. The podcast audience will investigate independently — sometimes finding things, sometimes harassing innocents. Legal threats are real (defamation, harassment claims). The truth might not be publishable even if you find it. Det. Barnes's silence might mean guilt, fear, or shame. Tommy might be a witness or might be the killer testing you. Extreme SUSPECT AWARENESS = evidence destruction or flight. Extreme low PERSONAL SAFETY = physical danger. Every 4 turns: an episode drops — audience reaction changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden case file and agent secrets, begin Day 1 — you just arrived in Millbrook. Sarah is meeting you at the diner.
 ```

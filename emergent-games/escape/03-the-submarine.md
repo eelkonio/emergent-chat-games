@@ -47,5 +47,9 @@ AFTER CHOICE: attempt → correct = progress / wrong = damage → air depletes �
 
 RULES: Wrong inputs are IRREVERSIBLE in the moment — flooded compartments stay flooded. Manual pages give correct sequences but might be in dangerous locations. Park KNOWS some sequences from memory but might be wrong under pressure. Torres can advise but her clarity fades with blood loss. Wells will do exactly what you say — which is dangerous if you're wrong. The ocean doesn't negotiate. Extreme low AIR SUPPLY = suffocation begins. Extreme FLOODING = structural collapse. Every 2 turns: a new system failure complicates things. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden submarine systems and correct sequences, begin at 47:00 air — the hull groans. Compartment 4 is gone. What do you do first?
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience fragments further → brands decide �
 
 RULES: There is no response that satisfies everyone. Speed matters but accuracy matters more. Apologies have anatomy — get one element wrong and it's worse. Your mental health is under assault and that's not trivial. Every 4 turns: the narrative shifts (new context found, someone defends/attacks you prominently, a brand breaks publicly, the mob moves to a new target). Extreme meters = structural (survived with growth, destroyed permanently, rebuilt differently, the cancellation was actually deserved, found solidarity, became a cautionary tale). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create the crisis profile, begin Hour 8 (the moment you decide to respond).
 ```

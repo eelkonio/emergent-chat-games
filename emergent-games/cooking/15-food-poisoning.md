@@ -48,5 +48,9 @@ AFTER CHOICE: evidence emerges → staff react → new reports (or not) → time
 
 RULES: The source might be simple (one bad ingredient) or complex (systemic failure). Dylan's defensiveness might mean guilt or might mean fear of blame. The rival restaurant theory is paranoid but not impossible. Running service tonight while investigating sends a message (confident) or a risk (what if it happens again?). The inspector cares about PROCESS — even if you find the source, if your documentation is poor, you close. Extreme low SOURCE IDENTIFICATION by 9 AM = temporary closure. Extreme low REPUTATION = long-term damage regardless of inspector outcome. Every 2 turns: a new piece of evidence or a new complication. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden contamination source and evidence trail, begin Tuesday 6 PM — the first email just arrived.
 ```

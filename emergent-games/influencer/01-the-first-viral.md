@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience reacts → algorithm adjusts → oppor
 
 RULES: Virality is a sugar rush — the crash follows. The audience demands a version of you that may not be sustainable. Brands want the viral you, not the real you. Your friends' dynamics change. Every 4 turns: a platform event (another viral moment, audience revolt, copycat, brand controversy, algorithm change) that tests your approach. Extreme meters = structural (sustained success as yourself, burnout crash, sold out to brands, found your voice, audience turns, built something real from the accident). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and platform landscape, begin Week 1 (5 days post-viral).
 ```

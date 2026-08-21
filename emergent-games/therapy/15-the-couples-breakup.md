@@ -46,5 +46,9 @@ AFTER CHOICE: The couple responds → dynamic shifts → separation quality adju
 
 RULES: If you push too hard toward "closure" before grief is processed = emotional explosion or shutdown. If you let grief dominate = nothing practical gets decided and lawyers take over. If you side with either partner (even subtly) = alliance rupture with the other. If you ignore the children's needs = you've failed regardless of how the adults feel. The PERFECT uncoupling: they leave each session having made one concrete decision AND having been honest about one feeling. They don't have to like it. They have to survive it — together, for the last time. SEPARATION QUALITY tracks: fairness of decisions, children's protection, emotional honesty, absence of cruelty, collaborative spirit. If it drops below 20: lawyers take over, it becomes adversarial, and the children pay. If it reaches 70+: they'll co-parent well. They might even, years from now, be friends. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden relationship history and individual psychologies, begin the moment Sarah says: "We've told the kids. Last weekend. So... we need to figure out how to actually do this." — The uncoupling has begun. Go.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: discussion shifts → wolf deflects → villagers react → allian
 
 RULES: The wolf's kills are not random — they serve the wolf's deduction game (killing people who suspect them, or killing people to FRAME others). The wolf participates fully in day discussion — passionately accusing innocents. If you execute an innocent villager: trust drops sharply, the real wolf grows bolder, village morale collapses. If you take too long (3 more nights without identifying the wolf): only 6 remain and mob justice replaces your leadership. The Healer has real information but is terrified of being the wolf's next target if she speaks. The Brothers' alibi is suspicious — but having an alibi doesn't make you guilty. The Stranger is the easy vote — but easy answers are usually wrong. Extreme low YOUR SAFETY = the village suspects YOU. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden werewolf identity and kill strategy, begin the morning after the third killing — old Margret is dead. The village gathers. All eyes on you. Go.
 ```

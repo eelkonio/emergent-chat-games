@@ -48,5 +48,9 @@ AFTER CHOICE: their response → uncle's escalation → Archbishop's commitment 
 
 RULES: The closer the day, the more desperate the opposition. They cannot stop a crowned monarch — so they must stop YOU before the crown descends. Every 4 turns (here: every 2 days): a direct attempt to prevent or invalidate the coronation. Extreme meters = structural (crowned triumphantly, ceremony disrupted, uncle seizes throne, assassination, conditional coronation with devastating concessions, coronation completed but at terrible personal cost). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and countdown status, begin Day 1.
 ```

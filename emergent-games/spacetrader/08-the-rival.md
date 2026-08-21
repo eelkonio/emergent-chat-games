@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Cross's counter → market responds → your re
 
 RULES: Cross is smart and not evil — she's doing what you did six years ago to the trader before you. Competition is neutral but its effects are personal. Your crew needs to eat. Every 4 turns: a make-or-break contract comes available that you both need (winner survives, loser is in serious trouble). Extreme meters = structural (you adapt and thrive, driven out of the triangle, alliance with Cross, sabotage and consequences, find a new route entirely, Cross has a vulnerability you can exploit). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and market landscape, begin Week 1.
 ```

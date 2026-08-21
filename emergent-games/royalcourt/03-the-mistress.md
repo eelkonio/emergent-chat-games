@@ -48,5 +48,9 @@ AFTER CHOICE: their response → King's reaction → Queen's countermove → cou
 
 RULES: The King's attention is finite and shifts naturally. Clinging pushes him away. Indifference risks replacement. Your enemies coordinate. Every 4 turns: a rival makes a bold move against you (new beauty presented, moral scandal manufactured, political crisis that makes you inconvenient). Extreme meters = structural (married off and exiled, triumphant and untouchable, pregnant with royal child, disgraced and imprisoned, the Queen strikes). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and court dynamics, begin Week 1.
 ```

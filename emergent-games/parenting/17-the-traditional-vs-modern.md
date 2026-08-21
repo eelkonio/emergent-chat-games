@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Priya's identity work → extended family press
 
 RULES: Culture isn't static — it's always been evolving. But evolution feels like loss to the generation before you. Your child needs roots AND wings. Your parents' hurt is real but can't dictate. Every 4 turns: a major cultural collision point (faith decision, relationship, community event, career path) that requires you to articulate your actual values. Extreme meters = structural (integrated identity for Priya, cultural rupture, three-generation harmony, Priya rejects heritage, you find your own synthesis, community embraces evolution). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and cultural landscape, begin Week 1 (the sleepover question).
 ```

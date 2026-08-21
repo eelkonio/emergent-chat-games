@@ -48,5 +48,9 @@ AFTER CHOICE: their response → blockade reacts → other runners' fate → rou
 
 RULES: The blockade adapts — if one route is used, they reinforce it. Other runners' captures reveal routes. Alliance warships can't be fought — only avoided. Your crew's nerves are a resource that depletes. Every 4 turns: a blockade event (patrol shift change, other runner captured/destroyed, intelligence update, Alliance reinforcement) changes the map. Extreme meters = structural (delivery successful, captured and imprisoned, ship destroyed, turn back with nothing, negotiate a bribe through, become a permanent Free Worlds asset). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and blockade map, begin Day 1 at staging area.
 ```

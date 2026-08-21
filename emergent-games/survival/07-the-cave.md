@@ -46,5 +46,9 @@ AFTER CHOICE: exploration result → water progress → group morale → light b
 
 RULES: Water doesn't stop. Light doesn't recharge. Passages may dead-end. Panic kills faster than water. Extreme meters = structural (water reaches ceiling, passage leads to surface, total darkness, someone panics and runs). Every 3 turns: the cave reveals something new. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create cave map (partial — you don't know all of it), begin T+2 hours.
 ```

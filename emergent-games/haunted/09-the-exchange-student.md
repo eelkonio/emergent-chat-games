@@ -46,5 +46,9 @@ AFTER CHOICE: Yuki's response (always almost-right) → social dynamics → mete
 
 RULES: Yuki is trying. That might make it sadder or scarier. The uncanny valley of a being learning to be human — sometimes touching, sometimes horrifying. Extreme meters = structural (Yuki reveals truth voluntarily, forced exposure, she becomes genuinely dangerous, she's actually just... lonely and different). Every 4 turns: Yuki does something impossible in a way only you notice. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Yuki's true nature (hidden), integration progress, begin a school day.
 ```

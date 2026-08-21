@@ -48,5 +48,9 @@ AFTER CHOICE: their response → River's trust level → partner's process → f
 
 RULES: Love is the foundation but action is the building. Getting pronouns wrong isn't failure — not trying is. Your partner's struggle is real but can't become River's problem. Extended family can be managed but not at River's expense. Every 4 turns: a social test (school situation, family gathering, medical decision, public incident) that reveals how far you've come. Extreme meters = structural (full supportive transformation, family fractured, River flourishes, River loses trust, you become an advocate, you lose relationships that matter but gain what matters more). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and family dynamics, begin Week 1 (three days after coming out).
 ```

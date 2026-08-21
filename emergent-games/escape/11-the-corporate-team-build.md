@@ -46,5 +46,9 @@ AFTER CHOICE: puzzle attempted → sabotage occurs (or doesn't) → boss observe
 
 RULES: Leading too aggressively looks desperate. Supporting too much looks weak. The saboteur has a MOTIVE that connects to office politics (identify the motive, identify the person). Chen will claim credit for everything they can. Priya will solve things nobody notices. Dave will stand in the corner unless directly engaged. The boss values different things than you think. Extreme low TIME with unsolved puzzles = team failure (everyone looks bad). Extreme SABOTAGE undetected = impossible to succeed. Every 2 turns: someone does something that's either sabotage or incompetence — which? No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden saboteur identity and boss evaluation criteria, begin at 60:00 — door locks. Boss smiles. "Okay team, show me what you've got."
 ```

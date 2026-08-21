@@ -48,5 +48,9 @@ AFTER CHOICE: their response → GenDyne adjusts → market shifts → community
 
 RULES: GenDyne is not evil — they're efficient. That's worse. Their offer is genuine. Their threat is genuine. Independence has a price measured in stress and lower income. Every 4 turns: GenDyne escalates (better offer, worse pricing, political pressure, another independent falls). Extreme meters = structural (sold and comfortable, fought and won, fought and lost, organized collective resistance, found a niche GenDyne can't fill, corporate sabotage exposed). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and market landscape, begin Week 1.
 ```

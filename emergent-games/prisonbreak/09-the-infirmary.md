@@ -46,5 +46,9 @@ AFTER CHOICE: medical evaluation → staff response → ward dynamics → opport
 
 RULES: Dr. Kelley WILL test you. Blood work reveals truth — some conditions can't be faked at the cellular level. But behavioral conditions, pain conditions, and intermittent conditions are harder to disprove. Committing too hard to the fake (actually injuring yourself, ingesting something) creates REAL medical problems. The infirmary bars are weak but not instant — you need 30+ minutes unobserved to work them. Marcus's smoking breaks are your window. Torres in the ward is a wildcard — befriend or neutralize. If Dr. Kelley suspects faking: she doesn't call you out immediately. She sets traps. Observation when you think no one is watching. Tests you didn't ask for. Extreme MEDICAL BELIEF = multi-day admission. Extreme low = back to your cell with a faker flag on your file. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden medical testing protocols and Dr. Kelley's faker-detection methods, begin your research phase — what illness will you choose to "have"? Go.
 ```

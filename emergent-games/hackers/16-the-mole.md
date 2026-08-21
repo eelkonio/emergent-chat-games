@@ -48,5 +48,9 @@ AFTER CHOICE: technical result → agent reactions → detection assessment → 
 
 RULES: Every action leaves traces. Speed vs. stealth is constant tradeoff. Agents learn from your patterns. Extreme meters = structural (caught, system crash, data exfiltrated, cover blown, ally betrays). Every 4 turns: 1 "packet capture" — intercepted communication revealing something about the other side. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents and system architecture, begin Turn 1.
 ```

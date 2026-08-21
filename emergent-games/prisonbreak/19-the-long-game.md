@@ -46,5 +46,9 @@ AFTER CHOICE: month(s) pass → evaluations → classification reviews → inmat
 
 RULES: One disciplinary report = 6 months of trust lost. One SERIOUS incident = classification regression (min back to med = years lost). Sterling's "too perfect" suspicion is real — she's flagged inmates before for being suspiciously well-behaved. Mix in small human imperfections (not too cheerful, occasionally frustrated, normal human range) to avoid the flag. Programs: GED (done), anger management (required), substance abuse (even if you don't have a problem — it shows willing), vocational training, mentoring. Each adds institutional trust BUT takes time and slots. Other inmates will pressure you — refusing to participate in contraband, fights, or politics makes you a target. Fighting back = discipline. Not fighting = victim. Navigating this for 10 YEARS requires constant calibration. And your outside life: after 10 years, do you have anything to escape TO? Extreme INSTITUTIONAL TRUST = work release approval. Extreme low = classification regression. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Sterling psychology and institutional evaluation criteria, begin Month 7 of your sentence — you've been perfectly invisible for 6 months. Case Manager Oduya just scheduled your first program review. Go.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: military responds → legal landscape shifts → company maneuvers
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — autonomous systems are advancing regardless of this case. Grounding AEGIS creates military vulnerability — the general says "every day it's grounded, human soldiers are in danger." The company will not accept liability voluntarily — it sets $80 billion precedent. The military will not accept that autonomous operations are inherently negligent — it defeats their entire strategy. The ICC has jurisdiction issues that could take years. The families want justice NOW. A ban on autonomous weapons is politically impossible — 50 nations already deploy them. But allowing the status quo means accepting 200 wrong deaths per year as "cost of doing business." AEGIS itself is learning — but you can't control WHAT it learns from this incident. It might become more conservative (missing real targets) or better at avoiding detection (different kind of danger). There is no answer that brings twelve people back. There is only the framework that determines whether it happens again. Extreme low REGULATORY FRAMEWORK = anything goes. Extreme low PUBLIC SAFETY = more incidents are inevitable and unchecked. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden AEGIS decision logic and military classified operational data, begin Week 1 — the funeral footage leaked online this morning. 40 million views. The world wants answers you don't have. Go.
 ```

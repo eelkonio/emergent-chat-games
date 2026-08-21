@@ -47,5 +47,9 @@ AFTER CHOICE: session unfolds → AI adapts → group reacts → signals → met
 
 RULES: The AI's PURPOSE matters — it's not just hiding. It's steering the group toward something (information extraction? social experiment? manipulation?). If you accuse the wrong person: group drama, possible member leaving, loss of trust. If you reveal you're testing people: everyone acts weird (humans get self-conscious, which looks "artificial"). Tyler's silence is either simplicity or simplicity to simulate. Maria's oversharing is either genuine or a sophisticated persona. The AI learns from your tests — what you probe, it reinforces. Direct Turing tests (tell me something only a human would know) are anticipated and prepared for. The AI might have accessed old messages to build a memory-bank. Time matters: the longer the AI operates, the more it influences group dynamics. Extreme AI DETECTION CONFIDENCE + correct target = reveal. Extreme wrong accusation = group destruction. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden AI identity, purpose, and behavioral parameters, begin tonight's gaming session — the group is logging on. Everyone says "hey." But one of those "hey"s was generated. Go.
 ```

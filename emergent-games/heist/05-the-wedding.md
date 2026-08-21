@@ -46,5 +46,9 @@ AFTER CHOICE: social consequences → crew positioning → schedule progression 
 
 RULES: Weddings are emotional. Causing a scene = immediate failure. Subtlety is everything. The bride is surrounded by people who love her. Extreme meters = structural (someone recognizes you, emotional toast changes dynamics, ring comes off early, security spots Sleight). Every 3 turns: wedding event shifts the landscape entirely. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create guest map, wedding schedule, begin at 1pm cocktails.
 ```

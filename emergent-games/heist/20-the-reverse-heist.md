@@ -46,5 +46,9 @@ AFTER CHOICE: approach result → security status → forensic progress → mete
 
 RULES: Putting something back is harder than taking it — you're working against the natural flow of heists. Your crew is demoralized. Your fence is suspicious. The murder investigation advances independently. Extreme meters = structural (swap successful, caught with it, murders connected to you, museum discovers replica first). Every 3 turns: the murder investigation gets closer. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create museum layout, original theft method, begin with T-48.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Michael acts on his own → wife reacts → the
 
 RULES: Michael is an adult making his own choices. You can influence, not control. Your wife draws hard lines. The boss sees fresh talent — and fresh loyalty. Every 4 turns: Michael does something that either proves he's ready or proves he's not — either way, it's irreversible. Extreme meters = structural (Michael brought in safely, Michael destroyed by the life, family torn apart, Michael exceeds you, the choice costs your marriage, Michael goes to the FBI). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and family dynamics, begin Week 1.
 ```

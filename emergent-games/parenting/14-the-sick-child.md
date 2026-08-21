@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Milo's adaptation → medical outcomes → fami
 
 RULES: Chronic illness is not a crisis that resolves — it's a permanent member of the family. Milo will have bad days. Management isn't perfect — lows happen, highs happen. The sibling is also affected. Every 4 turns: a medical or social event (first sleepover, hypo at school, sports challenge, Milo rebels against management). Extreme meters = structural (Milo thrives and self-manages, medical scare, burnout, sister feels seen, family finds balance, Milo's independence with diabetes grows beautifully). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and medical landscape, begin Week 1 (one month post-diagnosis).
 ```

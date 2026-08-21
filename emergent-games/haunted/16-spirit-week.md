@@ -46,5 +46,9 @@ AFTER CHOICE: manifestation progression → countdown → student behavior → m
 
 RULES: Thursday is coming unless you change the fundamental mechanism. Powers on Wednesday are escalating (fun → dangerous → out of control). The countdown is absolute. Extreme meters = structural (Fear Day manifests, theme redirected, mechanism understood and broken, evacuation before midnight). Every 3 turns: a new Wednesday manifestation AND Thursday grows closer. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create fear profiles for key students, manifestation rules, begin Wednesday morning.
 ```

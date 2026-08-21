@@ -41,5 +41,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → relationships → m
 
 RULES: Artists are unpredictable. Agents have pride. Subplots. Extreme meters = structural (musician resigns publicly, donor withdraws, triumphant concert, conductor walks out, bankruptcy). Player may try anything. No protection/morality. Every 4 turns: 3 fictional items (music review, backstage gossip, board minutes). Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal no hidden info.
 ```

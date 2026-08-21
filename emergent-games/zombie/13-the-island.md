@@ -46,5 +46,9 @@ AFTER CHOICE: medical progress → community reaction → resource consumption �
 
 RULES: Can't leave. Can't exile. Must coexist with threat. Paranoia breeds violence. Testing is imperfect. Extreme meters = structural (mass outbreak, execution without trial, boat fixed but only seats 8, mainland contact). Every 4 turns: something washes ashore. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create island map, agent profiles, begin Turn 1.
 ```

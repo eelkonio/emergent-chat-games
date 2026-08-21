@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Crowd density increases daily until eclipse. Infrastructure failures cascade. Misinformation spikes in final 48 hours. If PUBLIC SAFETY or EMERGENCY CAPACITY hit extremes — loss of life. If TRAFFIC/INFRASTRUCTURE collapses — mass stranding. Every 3 turns: 3 fictional items (traffic camera image, conspiracy channel screenshot, hospital capacity report). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1 (9 days out). Reveal nothing hidden.
 ```

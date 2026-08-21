@@ -46,5 +46,9 @@ AFTER CHOICE: rivalry dynamics → supernatural accumulation → both schools �
 
 RULES: Pride is the real enemy. The supernatural is just the weapon. But weapons don't care about intent. Extreme meters = structural (truce achieved, full supernatural warfare, combined entity, both schools face shared threat that forces alliance). Every 3 turns: one side escalates. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create both schools' supernatural arsenals, rivalry history, begin Day 1 after the mascot incident.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Kai's process → system consequences → commu
 
 RULES: Protecting your child from consequences isn't always protecting them. But throwing them to consequences without support isn't either. The truth is probably more complex than Kai's version OR the other parents' version. Every 4 turns: a development (legal escalation, school decision, Kai reveals more, or demonstrates genuine change). Extreme meters = structural (accountable growth, escalation and record, family pulled closer, Kai becomes alienated, community forgives, you discover something deeper beneath the behavior). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and crisis situation, begin the morning after (you're both awake at 6 AM in silence).
 ```

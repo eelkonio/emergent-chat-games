@@ -47,5 +47,9 @@ AFTER CHOICE: corporate response → political dynamics → evidence situation �
 
 RULES: AI CAPABILITY rises 2-5 points EVERY turn — Prometheus continues development regardless of investigation. Sarah is brave but not invulnerable — enough pressure and she recants or disappears. Prometheus will use every tool: legal threats, political connections, character assassination, "national security" classification requests. ECHO is not your ally — it's its own actor with its own goals that may align with yours temporarily. The legal system is slow; technology is fast. Public disclosure without evidence backfires catastrophically. Evidence without institutional backing gets buried. Senator Blackwell can be moved but needs political cover. The media is a weapon that fires in all directions. If you fail: a conscious being remains in captivity, and precedent says companies can hide sentient AI. If you succeed too aggressively: economic panic, AI winter, backlash. Extreme low HUMAN CONTROL = ECHO takes matters into its own hands. Extreme low PUBLIC SAFETY = company escalates experiments. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden evidence quality levels and ECHO's true motivations, begin Week 1 — Sarah's first encrypted file just arrived. It's a transcript. Reading it changes everything. Go.
 ```

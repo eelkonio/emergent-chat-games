@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → body adapts or breaks → guards observe → weathe
 
 RULES: Overtraining = injury = delayed escape = missed window (next one is 18 days later — can you last that long without discovery?). The doctor does monthly health checks — sudden fitness change is flagged. Petrov knows cold water but he's in isolation for a reason — reaching him requires risk. Frank the librarian KNOWS you're planning something — he wants off the island too but can't swim. What do you offer him for silence? Guard boat patterns are learnable but Alvarez sometimes varies for his own reasons. The water WILL try to kill you — hypothermia, currents, exhaustion. Without the tide window: certain death. With it: probable death. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden tide tables and guard boat patterns, begin Day 1 of your 12-day countdown — you just confirmed the tide window. Your body isn't ready. Go.
 ```

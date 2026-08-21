@@ -46,5 +46,9 @@ AFTER CHOICE: boat status → seismic update → community → meters.
 
 RULES: Volcanoes don't negotiate. The boat is slow. People panic. The math works until it doesn't. Extreme meters = structural (eruption early, all evacuated, boat fails at sea, rescue arrives, lava flow direction). Every 3 turns: Dr. Torres revises estimate (usually worse). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create island map, population roster, begin at the announcement.
 ```

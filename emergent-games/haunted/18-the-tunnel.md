@@ -46,5 +46,9 @@ AFTER CHOICE: bleed progression → resident behavior → tunnel status → mete
 
 RULES: Two schools, one threshold, growing contamination. The other school isn't evil — it's HUNGRY. It had no students. Now it knows they exist. It wants them. Extreme meters = structural (full reality merge, tunnel sealed with cost, the resident crosses fully, the two schools reach equilibrium). Every 3 turns: bleed-through manifests in your school. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create other-school details, resident profile (hidden), begin Day 3 post-breach.
 ```

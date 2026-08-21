@@ -47,5 +47,9 @@ AFTER CHOICE: serve → customers → revenue/loss → social media → truck co
 
 RULES: The truck WILL break down. Budget emergencies mean tough choices (skip a city? sleep in truck? take a loss?). Social media is fickle — one great post = 5,000 followers, one bad experience shared = momentum killed. Each city has ONE golden location — find it or waste the day. Grill Nomad is always ahead, always posting, always comparing. Extreme low BUDGET = trip ends early. Extreme low TRUCK HEALTH = stranded. Every 3 turns: the truck needs something expensive, or a city surprises you (good or bad). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden city profiles and truck maintenance timeline, begin Day 1 — City 1: Portland. It's raining. Naturally.
 ```

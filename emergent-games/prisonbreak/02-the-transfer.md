@@ -47,5 +47,9 @@ AFTER CHOICE: transport continues → guards react → other inmates respond →
 
 RULES: Guards are armed. A failed attempt means restraints tightened, possible injury, definite charges added. Bulldog might start something on his own — useful chaos or deadly complication? Washington knows the fuel stop layout — but what does he want in return? The van has a mechanical issue (overheating) that may force an unscheduled stop — or it may not. Radio checks mean any disturbance is reported within 30 minutes. After escape: you're in rural territory, wearing orange, no phone, no money, no plan. Extreme GUARD ALERTNESS = preemptive lockdown of van. Extreme low PLAN PROGRESS at fuel stop = missed only window. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden transport details and guard protocols, begin the night before — you just learned about tomorrow's transfer. 14 hours until Blackridge. Go.
 ```

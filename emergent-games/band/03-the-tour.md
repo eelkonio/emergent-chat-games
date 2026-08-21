@@ -46,5 +46,9 @@ AFTER CHOICE: show happens → quality determined by state → aftermath → bus
 
 RULES: Jake's substance use escalates every 5-7 shows — starts social, becomes dependency, eventually affects performance. Robin's withdrawal: if not given some alone time solution, she'll snap at show 20 (public meltdown). Mia's relationship: her partner issues an ultimatum around night 15. Leo's burnout: if you don't take something off his plate, he quits mid-tour around night 22. Shows CAN be cancelled (illness, emergency) but each cancellation costs $5-8K and damages reputation. The audience feeds on energy — a band in conflict often plays with MORE intensity (pain = art). But a band in collapse plays with none. Night 30 is the big finale show — the one the label sends people to, the one that determines whether tour 2 happens. Extreme low MENTAL HEALTH for any member = crisis intervention needed. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden band psychology breaking points and tour logistics, begin Night 1 — the first show went beautifully. Everyone is high on adrenaline. This is going to be incredible. Right? Go.
 ```

@@ -45,5 +45,9 @@ AFTER CHOICE: Avery's response → chemistry update → your real feelings → m
 
 RULES: No information means no assumptions — but humans can't help assuming. Avery is a complete person you know nothing about. Surprise is the mechanic. Extreme meters = structural (instant chemistry, polite disaster, unexpected connection 2 hours in, they're someone you know). Every 3 turns: a revelation that changes your assessment. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Avery's full profile (hidden until revealed through conversation), begin you at the table, waiting.
 ```

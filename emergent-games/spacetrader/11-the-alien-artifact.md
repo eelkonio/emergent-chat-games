@@ -48,5 +48,9 @@ AFTER CHOICE: their response → artifact reacts → buyers escalate → pursuit
 
 RULES: The artifact is the most important thing in this sector and everyone is willing to kill for it. But its behavior suggests it may be more than cargo — it may be a passenger. Or a message. Every 4 turns: the artifact does something dramatically new that changes what you think it is. Extreme meters = structural (sold for fortune, delivered to its destination, taken by force, artifact activates fully, becomes a weapon, first contact through commerce). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and artifact status, begin Day 1.
 ```

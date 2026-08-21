@@ -46,5 +46,9 @@ AFTER CHOICE: crew action → security response → yacht movement → meters.
 
 RULES: Water surrounds. No police to fear but no police to save you either. Yuri's justice is private and permanent. Extreme meters = structural (caught at sea, successful early extract, yacht sails with you aboard, Yuri invites you personally). Every 3 turns: party dynamics shift (drunk guests, new arrivals, yacht preparations). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create yacht deck plan, crew positions, begin boarding at 6pm.
 ```

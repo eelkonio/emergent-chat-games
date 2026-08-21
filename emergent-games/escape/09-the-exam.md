@@ -47,5 +47,9 @@ AFTER CHOICE: puzzle progress → scores tracked → dynamics shift → friendsh
 
 RULES: Max solving everything alone risks team failure (some puzzles REQUIRE multiple inputs — one person literally cannot solve them alone). Ben failing is both personally sad and a group problem (cameras show he did nothing — Crane will notice). The meta-puzzle might BE recognizing the game theory lesson — but Crane might also just be a sadist. Extreme YOUR GRADE optimization = moral cost. Extreme FRIENDSHIP preservation = grade cost. Every 3 turns: a puzzle that structurally requires collaboration — or one that rewards solo work. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden puzzle set and scoring algorithm, begin at 3:00:00 — the door locks. 10 puzzles await.
 ```

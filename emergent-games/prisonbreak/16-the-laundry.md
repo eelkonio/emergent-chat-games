@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → routes studied → allies tested → physical prepa
 
 RULES: The 2x4x3 space is TIGHT — you need to fit with zero excess. That means: no bag, minimal extra clothing, nothing that makes noise. You'll be in there for 45 minutes minimum, then the drive to the first stop (20 minutes more). Cramps, panic, claustrophobia — real threats. The truck backs up with engine running — covers small sounds. Loading is loud — covers entry sounds. But the exit search happens in silence with engine off. One breath too loud, one shift to relieve a cramp — the mirror sweep guard is 3 feet away. Vickers can distract the loading crew for your entry but he needs motivation and timing. Kitchen absence: Holt notices within 30 minutes — 7:15 AM. The gate search is 7:25 AM. If Holt reports before you clear the gate, elevated search. The headcount gap: counted at 4:30, missing at earliest 7:15 = 2 hour 45 minutes of being a ghost. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden guard schedules and exit search protocols, begin one week before your chosen Tuesday — you need this to be perfect. Go.
 ```

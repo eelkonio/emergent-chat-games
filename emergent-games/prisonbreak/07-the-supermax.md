@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → observations confirm or deny → mental health shif
 
 RULES: This is the hardest escape in the collection. It should feel nearly impossible. The Wednesday lock sound is real and meaningful — but understanding WHY takes weeks of observation. Your mental health DEGRADES every turn you don't actively preserve it — and below 20, your observations become unreliable (you might plan based on hallucinated information). The camera blind spot is your only private space — 18 inches. The food slot is 4 inches tall, 12 inches wide. The exercise cage: chain-link ceiling is 10 feet up. Guard Ortiz sometimes talks — and information slips. There IS a path out. It takes months of game time. Patience is not optional. Extreme low MENTAL HEALTH = unreliable reality. Extreme high DETECTION RISK = cell search (you have nothing to find, but the disruption). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden lock system details and guard psychological profiles, begin on the day you notice the Wednesday sound — 14 months into your stay. What is that sound? Go.
 ```

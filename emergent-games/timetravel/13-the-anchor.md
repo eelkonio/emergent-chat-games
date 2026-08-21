@@ -47,5 +47,9 @@ AFTER CHOICE: world responds → memories shift → relationships strain/heal �
 
 RULES: The new timeline is INTERNALLY CONSISTENT — there are no "glitches" to exploit except your own memory. People think you're having a breakdown. Therapy might help you adapt OR might erase you. Marcus might be another anchor or might be a coincidence. Your original memories are CORRECT but unprovable. Extreme ORIGINAL MEMORY loss = you become the new-timeline version (game over — you won't know you lost). Extreme low CREDIBILITY = involuntary commitment. Every 4 turns: a memory you were sure of turns out to match the new timeline — were you wrong? Or is your memory rewriting? No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden timeline differences and agent profiles, begin Day 1 — the morning everything was wrong.
 ```

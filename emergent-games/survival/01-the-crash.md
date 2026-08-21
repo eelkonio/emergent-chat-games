@@ -46,5 +46,9 @@ AFTER CHOICE: survivor outcomes → environment response → group dynamics → 
 
 RULES: Island is indifferent. Weather changes. Injuries worsen. People panic, help, hinder. Extreme meters = structural (critical survivors die, water found, rescue plane spotted, group splits). Every 4 turns: something about the island surprises. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create survivor roster with injuries, begin 3 hours post-crash.
 ```

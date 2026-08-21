@@ -48,5 +48,9 @@ AFTER CHOICE: their response → team dynamics → audience notices or doesn't �
 
 RULES: You can't do everything. But everything you delegate carries risk. Good hires are rare. Training someone in "your voice" takes months. Audience trust is fragile. Every 4 turns: a team crisis (hire doesn't work out, audience notices change, DM response goes wrong, or team member exceeds expectations). Extreme meters = structural (well-oiled team, control freak burnout, hired perfectly, audience rejected team-voice, became a media company, returned to solo with boundaries). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create workload assessment and candidate profiles, begin Week 1.
 ```

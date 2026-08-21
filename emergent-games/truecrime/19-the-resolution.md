@@ -48,5 +48,9 @@ AFTER CHOICE: legal implications → family reacts → audience anticipates → 
 
 RULES: There IS no legal resolution available. The system worked as designed — insufficient evidence for charges IS the correct legal threshold. But the moral threshold is different. Min-Jun's pain is real and ongoing. Hollister's impunity is real and visible. Your audience's demand for resolution is understandable but dangerous. Some cases DON'T resolve — and that truth might be the most important thing to say. Extreme TRUTH COMMUNICATED without legal proof = defamation exposure. Extreme low TRUTH COMMUNICATED = betrayal of audience and family. Every day: the finale approaches and you're not closer to a clean answer. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden legal landscape and Hollister's defense strategy, begin Day 1 — 5 days until the finale records.
 ```

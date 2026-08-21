@@ -48,5 +48,9 @@ AFTER CHOICE: recruitment succeeds/fails → prep advances → time ticks → qu
 
 RULES: Agency temps might be great or might be disasters — you won't know until they're in your kitchen. Daphne helping you means she hurts her own service — the favor has weight. Marcus MIGHT come back if you swallow your pride — or might laugh. Sam in the kitchen is loving but clumsy. Tomás can rise to the occasion IF you believe in him out loud. The bride's mother cannot know. Simplifying 1 course saves 30 minutes. Simplifying 3 courses saves your sanity but signals failure. Extreme low STAFF LEVEL = service collapse (courses not served). Extreme low PERSONAL STAMINA = you break during service. Every 2 turns: a new crisis on top of the existing one. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden staff capabilities and menu complexity, begin 6 hours before service — Marcus's text: "Done. Taking Jay and Leo. Good luck."
 ```

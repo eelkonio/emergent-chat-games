@@ -48,5 +48,9 @@ AFTER CHOICE: training results → media coverage → federation responds → cl
 
 RULES: Classification disputes can disqualify athletes WEEKS before competition. The prosthetic controversy has no clean answer — the technology IS better, but the athlete IS elite regardless. Guide runner relationships are partnerships with power dynamics. The media will ALWAYS default to "inspiring" unless actively redirected. Funding follows stories not results. The rival coach's approach works financially but degrades athletes' dignity. Extreme low FUNDING = can't travel to Games. Extreme CLASSIFICATION dispute = Dayo can't compete. Every 4 turns: a media moment that could reframe the narrative — or entrench it. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden athlete profiles and classification files, begin 16 weeks from Games.
 ```

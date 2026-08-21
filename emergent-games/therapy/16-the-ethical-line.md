@@ -47,5 +47,9 @@ AFTER CHOICE: Consequences unfold → relationships shift → ethical standing a
 
 RULES: There is no outcome where everyone is okay. Reporting destroys David's career, possibly his marriage, possibly his life. Not reporting leaves Mara in an exploitative relationship and makes you complicit. Confronting David first gives him time to cover tracks or retaliate. Every day of inaction is itself a choice. ETHICAL COURAGE tracks: your willingness to act despite personal cost, your honesty with yourself about your motivations, your refusal to rationalize inaction. If it drops below 15: you've become complicit and must live with that. If it reaches 70+: you act with integrity regardless of consequences. The question isn't what's right — you KNOW what's right. The question is whether you can bear the cost of rightness. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden relationship histories and psychological profiles for all agents, begin with the moment you're lying awake at 2 AM, three days after seeing them together, and your phone lights up with a text from David: "Hey — coffee Thursday? Been meaning to catch up." — The clock is ticking. Go.
 ```

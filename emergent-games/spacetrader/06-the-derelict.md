@@ -48,5 +48,9 @@ AFTER CHOICE: their response → derelict reveals more → crew nervousness → 
 
 RULES: The derelict has a story. Logs, evidence, and physical clues reveal it piece by piece. The answer to "what happened here" determines whether you're safe or in danger. But you won't know until you're deep inside. Every 4 turns: a major discovery changes your understanding of what this ship is (not what it seems, dangerous history, something still aboard, it's a trap). Extreme meters = structural (massive profitable salvage, barely escape alive, trapped aboard, solve the mystery, competing salvagers become allies or enemies, the derelict isn't dead). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create derelict profile and boarding plan, begin Hour 1 (approaching the ship).
 ```

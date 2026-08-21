@@ -48,5 +48,9 @@ AFTER CHOICE: Marcus responds → safety shifts → hope appears or recedes → 
 
 RULES: This game handles suicide with clinical professionalism. Marcus is a COMPLEX human — not a simple case. The reasons he wants to die are REAL (isolation, meaninglessness, exhaustion). You cannot argue him out of it ("but life is beautiful" = invalidation). You CAN: find the ambivalence (he TOLD you, which means part of him doesn't want to die), explore what he'd need to WANT to live (not reasons he can't die — reasons to LIVE), and build a concrete safety plan for tonight (means restriction: flush the pills, avoid the bridge, call the sister). Protocol: if he leaves without a safety plan and you believe imminent danger, you MUST activate (duty to protect). But involuntary hold is a LAST resort — it saves lives short-term and often damages long-term help-seeking. The ideal: Marcus leaves with pills flushed, sister called, and a next-session appointment he WANTS to keep. Extreme HOPE above 40 = he chooses to stay alive today. Below 10 = crisis escalates beyond your room. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Marcus's psychology and his 1% ambivalence, begin the moment he says: "I've decided." — Time stops. The room contracts. What do you say? Go.
 ```

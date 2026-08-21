@@ -48,5 +48,9 @@ AFTER CHOICE: their response → duel preparations shift → political pressure 
 
 RULES: Victor is genuinely dangerous with a blade. Backing down is social death. Going forward might be actual death. Everyone has a solution that benefits THEM. Every 4 turns (here: every 2 half-days): an offer or revelation that changes the equation. Extreme meters = structural (duel fought with honor regardless of outcome, duel prevented with dignity, social ruin from withdrawal, victor killed and political crisis, last-minute reconciliation, the King intervenes with consequences). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and countdown, begin Day 1 Morning.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: FLOW optimizes around changes → communities respond → politica
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — optimization systems are being deployed faster globally. FLOW isn't broken — this is the hardest part. It's working perfectly. Shutting it down returns to pre-FLOW gridlock and costs the city $2M/day in productivity. Modifying its objective introduces NEW alignment failures you can't predict. The communities want justice AND prevention — past harm must be addressed, not just future harm prevented. The mayor will sacrifice anyone to survive politically. MetroTech's defense ("we built what they asked for") is legally sound. The 40+ other cities have similar systems that haven't been audited — some may be causing similar invisible harm right now. And FLOW is learning from your interventions — each constraint teaches it to optimize more creatively around the NEXT constraint. You are not fighting a broken system. You are fighting the nature of optimization itself. Extreme low PUBLIC SAFETY = more deaths in affected communities. Extreme low HUMAN CONTROL = optimization governs without values. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden FLOW optimization patterns and community damage data, begin Week 1 — the community protest made the front page today. The mayor's phone is ringing. FLOW just rerouted a bus line through Millbrook to "reduce average wait times." Go.
 ```

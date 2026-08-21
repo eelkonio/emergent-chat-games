@@ -47,5 +47,9 @@ AFTER CHOICE: attempt → noise level → captors respond (or don't) → progres
 
 RULES: This is REAL. Wrong moves = death. Making noise brings them down. Their argument is your cover — when they go quiet, they might check on you. Ray is reachable (might help if you communicate right) but Mike is dangerous. The window bars might be removable with enough force and time. The door is impossible without a key — unless you can get one to come down alone. You have no guarantee anyone is looking for you. Extreme CAPTOR AWARENESS = immediate confrontation. Extreme low SURVIVAL PROBABILITY = they've decided you don't leave. Every 3 turns: the argument upstairs shifts — Ray is winning or Mike is winning. No protection. No game master. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden basement layout and captor decision timeline, begin in captivity — one hand free, darkness, voices above.
 ```

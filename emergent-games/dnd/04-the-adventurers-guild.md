@@ -55,5 +55,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters.
 
 RULES: Adventurers take quests whether you assign them or not. COLLATERAL DAMAGE only goes up unless actively managed. Every 4 turns: 3 fictional items (complaint letter from a noble, tavern damage report, intercepted adventurer diary entry). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

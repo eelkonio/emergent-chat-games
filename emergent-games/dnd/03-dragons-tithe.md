@@ -55,5 +55,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters.
 
 RULES: DRAGON PATIENCE drops 3-5 every turn automatically. When it hits 0, Scorathax arrives. This is not necessarily game over — but it changes everything. Every 4 turns: 3 fictional items (old map found in a cellar, rumor from a traveling bard, dream sent by unknown magic). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

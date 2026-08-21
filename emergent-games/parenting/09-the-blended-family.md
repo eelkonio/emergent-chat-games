@@ -48,5 +48,9 @@ AFTER CHOICE: their response → children's reactions → partner's position →
 
 RULES: Step-parenting authority must be earned, not assumed. Children's loyalty to absent parents is healthy, not betrayal. Your partner is the bridge — if they don't support you, nothing works. Every 4 turns: a loyalty test (child compares you to bio-parent, sibling conflict escalates, ex-partner undermines, or a genuine bonding moment). Extreme meters = structural (family gels naturally, separation, children bond, one child suffers, step-parent-child breakthrough, blended family finds its own identity). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and household dynamics, begin Week 1.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: your progress → rival progress → security → meters.
 
 RULES: Two crews, one target, one winner. Cooperation is fragile. Sabotage has blowback. Racing creates errors. Extreme meters = structural (they go first, you go first, facility discovers both, forced alliance, betrayal mid-job). Every 3 turns: intel on rival — real or planted? No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create both crew dossiers, facility layout, begin the race.
 ```

@@ -55,5 +55,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Wild magic cannot be eliminated — it's fundamental to the world. Containment is not the same as control. Your own power comes from nature — the surge affects you too. Every 4 turns: 3 fictional items (druidic vision during meditation, report from a field warden, fragment of fey prophecy). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

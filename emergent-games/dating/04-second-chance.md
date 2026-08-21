@@ -45,5 +45,9 @@ AFTER CHOICE: Morgan's reaction → pattern check → friend/therapist input →
 
 RULES: Chemistry doesn't mean compatibility. Growth is real but rare. Your body remembers before your brain decides. Extreme meters = structural (full reconciliation, definitive closure, pattern repetition crisis, Morgan reveals ulterior motive). Every 4 turns: a piece of new information about what really happened. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Morgan's hidden profile (real vs. presented self), begin with the first text.
 ```

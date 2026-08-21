@@ -47,5 +47,9 @@ AFTER CHOICE: FBI responds → killer adapts → audience finds things → clock
 
 RULES: If someone dies and you had information that could have prevented it — that's on you. If you broadcast and the killer changes pattern — that's also on you. The FBI will arrest you if you obstruct. The audience will riot if you go silent. Reeves MIGHT share FBI data if you cooperate — or might feed you disinformation. DataHound's travel pattern theory might be right (predicting the next city). Extreme low PUBLIC SAFETY = someone dies. Extreme FBI hostility = arrest for obstruction. Every 4 turns: the killer does something that changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden killer profile and victim selection pattern, begin Day 1 — 42 days until the pattern predicts another victim.
 ```

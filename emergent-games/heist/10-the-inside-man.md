@@ -46,5 +46,9 @@ AFTER CHOICE: workplace dynamics → external crew pressure → guilt trajectory
 
 RULES: You are both worker and thief. The better the worker, the guiltier the thief. People are not props. Extreme meters = structural (conscience crisis, cover blown, moved up by crew, colleague discovers something, the perfect moment). Every 2 turns: a moment of genuine human connection that makes this harder. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create office map, colleague profiles, begin Monday.
 ```

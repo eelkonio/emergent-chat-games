@@ -46,5 +46,9 @@ AFTER CHOICE: couple responds → pattern shifts or reinforces → meters.
 
 RULES: Taking sides (even subtly — leaning forward to one, more eye contact with one) will be NOTICED by the other partner. Daniel will shut down if pushed to express feelings directly (needs to be approached sideways). Sarah will flood (overwhelm with words) if given space — which drowns Daniel, who withdraws further, which confirms her fear. The pattern must be interrupted IN SESSION: make it visible, name it kindly, and help both see their role. Neither is the villain. Both are scared. Daniel's withdrawal protects him from his cold family pattern — he goes away because "going away" was the only safe option as a child. Sarah's pursuit comes from her father's infidelity — if she doesn't WATCH, people leave. When they understand WHY they do what they do: space opens. But understanding isn't enough — they must also CHOOSE differently. Extreme COUPLE DYNAMIC above 60 = relationship has a chance. Below 20 = separation likely. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden attachment histories and relationship timeline, begin minute 1 — Daniel and Sarah sit on opposite ends of the couch. She starts: "Tell her what you told me last night." He says nothing. Go.
 ```

@@ -56,5 +56,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: The prophecy cannot be simply disproven — it's old and respected. You cannot simply fulfill it either — its meaning shifts. Running doesn't work — you've tried. Every 4 turns: 3 fictional items (ancient scroll fragment, overheard prayer about you, coded message between factions). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

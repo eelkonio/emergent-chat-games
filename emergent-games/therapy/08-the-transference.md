@@ -47,5 +47,9 @@ AFTER CHOICE: Elena responds → alliance shifts → boundary tested → her pat
 
 RULES: Boundary violations are IRREVERSIBLE — even small ones (a touch, a personal disclosure, a returned compliment) cannot be undone and cascade. Elena will TEST the boundary: "Don't you feel anything?" / "Am I not attractive to you?" / "You're just saying that because you're paid to." Each test is really asking: "Am I safe here?" Shaming responses collapse alliance immediately (-30). Over-intellectualizing ("This is just transference") makes her feel reduced to a case study (-20 alliance). The therapeutic sweet spot: warm, boundaried, curious, non-shaming. You MUST document this session carefully — your notes protect both of you. If BOUNDARY CLARITY drops below 40: you need to seek supervision or refer. Your countertransference is real: notice it, name it internally, use it as data. You may feel flattered, uncomfortable, protective, or anxious. All valid. None actionable. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden attachment history and transference pattern, begin the moment Elena says: "I think I have feelings for you. Real feelings." — She's trembling slightly. Her eyes are wet. She looks terrified. This is the bravest thing she's ever done — and it's a repetition of the oldest pattern she has. Go.
 ```

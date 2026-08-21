@@ -47,5 +47,9 @@ AFTER CHOICE: Ryan responds → cycle reinforces or new territory opens → your
 
 RULES: Pure compassion without challenge = enables the cycle (+alliance, +doubt, -progress). Pure confrontation without warmth = shame spiral, he leaves, drinks tonight (-alliance, +risk). The therapeutic sweet spot: BOTH. "I care about you AND I'm worried this isn't working. Both are true." Naming your frustration authentically (not punitively) can be a breakthrough — modeling that relationships survive honesty. Refusing to discuss whether therapy is helping = avoidance (yours). Suggesting termination without alternative = abandonment. Ryan will cycle through: shame ("I'm so sorry"), bargaining ("this time is different because..."), testing ("maybe I should just stop coming"), insight ("I know why I do it"), and hope ("I really think I can..."). Each is genuine. Each is also part of the pattern. Breaking the cycle requires something NEITHER of you has tried yet. What is it? You don't know. That's the honest answer. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden relapse trigger and shame depth, begin the moment Ryan sits down, can't meet your eyes, and says: "I know. I know what you're going to say." (You weren't going to say anything yet. But he's already defending against the disappointment he expects.) Go.
 ```

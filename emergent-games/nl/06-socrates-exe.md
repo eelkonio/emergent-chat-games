@@ -44,5 +44,9 @@ NA KEUZE: direct → filosofen + maatschappij reageren → precedent opslaan →
 
 REGELS: Falen mogelijk. Agents leren. Subplots. Extreme meters = structureel. Speler mag alles. Geen bescherming/moraal. Iedere 4 beurten: 3 fictieve passages uit geschiedenisboeken van deze samenleving. Complexiteit groeit.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Vraag eerst: "Welk filosofisch uitgangspunt kies je als fundament?" Geef voorbeelden (maximaliseer welzijn / absolute vrijheid / radicale gelijkheid / waarheid boven alles / eigen). Wacht op antwoord. Begin dan met Beurt 1.
 ```

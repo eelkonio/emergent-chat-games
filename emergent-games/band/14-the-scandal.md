@@ -46,5 +46,9 @@ AFTER CHOICE: hours pass → narrative develops → relationships react → mete
 
 RULES: Sam deserves first contact — any public statement before talking to Sam makes it worse. But Sam isn't answering. Robin COULD fix this instantly ("I asked them to help my ex") but that reveals she's still in contact with her ex (her own relationship implications). Pushing Robin = damaging the band's trust. The label wants a statement NOW — "every hour of silence is an hour the story sets." But rushing a statement means poor framing. The tour in 10 days: ticket sales will either spike (scandal sells) or crash (boycott). The fan community's split: the loudest voices aren't necessarily the majority. A perfect statement can't undo a photo — but it can reframe it. Extreme high PUBLIC NARRATIVE = truth prevails. Extreme low = you're defined by a lie. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden public sentiment dynamics and Sam's emotional state, begin the morning the photo drops — 7 AM, your phone is exploding, Sam won't answer, label calling. What's your first move? Go.
 ```

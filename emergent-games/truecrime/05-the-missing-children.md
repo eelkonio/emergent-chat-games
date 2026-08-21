@@ -48,5 +48,9 @@ AFTER CHOICE: investigation progresses → community reacts → perpetrator (if 
 
 RULES: You are NOT law enforcement. You cannot arrest. You cannot officially surveil. But you CAN broadcast to 500K listeners. You CAN pressure the school to change routes. You CAN connect families to share information. The parent group might take vigilante action that ruins legal cases. Det. Rivera's involvement in two cases is either coincidence or key. Extreme low CHILD SAFETY = another child at risk. Extreme COMMUNITY panic = vigilantism. Every 4 turns: a connection that changes the theory. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden perpetrator and pattern truth, begin Day 1 — you just received the map from the listener.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: entity response → witness status → mirror proximity → meters
 
 RULES: Urban legends are simplified versions of real things. The undoing is usually in the story itself — if you can find the right version. Mirrors are EVERYWHERE. Extreme meters = structural (Olivia found, entity confronted, you do the dare yourself, the original legend has a solution). Every 3 turns: someone else is affected. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create entity rules (hidden), urban legend lore, begin Thursday investigation.
 ```

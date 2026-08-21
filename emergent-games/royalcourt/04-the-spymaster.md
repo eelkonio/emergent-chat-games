@@ -48,5 +48,9 @@ AFTER CHOICE: their response → intelligence proven/disproven → King's trust 
 
 RULES: Information decays — sit on it too long and it becomes useless or dangerous. The Shadow Network adapts to your methods. Trust no single source. Every 4 turns: one of your agents is compromised or killed, forcing you to restructure. Extreme meters = structural (traitor unmasked, you're exposed, the King turns on you, coup prevented, you become the most powerful person at court). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and intelligence network, begin Week 1.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → solo develops → band observes → reactions → 
 
 RULES: Hiding the solo work makes it worse when revealed (betrayal). Revealing too early makes it worse too (before the band can see it's not a threat). The IDEAL: bring the band into your confidence early, frame it as growth not departure, invite them to participate (Mia play bass on a track? Robin guest guitar?). But: Robin might REFUSE (insulted to be "guest" on something her bandmate made). Jake might disengage from band rehearsals ("if you're doing solo stuff, why bother?"). Mia might be supportive but quietly devastated. The label's interest in solo work complicates: if they sign you solo, the band contract becomes awkward. And the fans: announcing a solo album WILL be read by music press as "band splitting up" regardless of your framing. Extreme high BAND STABILITY = the band survives your solo era. Extreme low = it doesn't. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden band insecurity levels and solo album quality trajectory, begin the week you decide to tell the band — you've been working in secret for 3 months. It's time. How do you say it? Go.
 ```

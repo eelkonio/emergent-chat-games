@@ -35,5 +35,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Each superpower reacts to perceived movement toward rivals. Hedging works until someone forces a binary choice. Energy leverage declines as renewables accelerate. If US ALLIANCE collapses — security vacuum. If CHINA RELATIONS sour — infrastructure deals collapse. If SOVEREIGNTY erodes — you become a client state. Every 4 turns: 3 fictional items (diplomatic cable, sovereign wealth fund report, Al Jazeera exclusive). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

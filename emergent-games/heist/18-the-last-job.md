@@ -46,5 +46,9 @@ AFTER CHOICE: crew assessment → physical reality → job progress → past cat
 
 RULES: Age is honest. Legends fade. But experience is irreplaceable. The universe tests "last jobs" harder than any other. Extreme meters = structural (body fails at critical moment, daughter discovers, Moreau gets close, perfect execution despite everything). Every 3 turns: the past sends a reminder that you can't outrun yourself. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create career history, physical profile, begin planning.
 ```

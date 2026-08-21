@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → plant manipulates → production edits → alliance
 
 RULES: Production controls: your screen time (invisible edit = audience forgets you = eliminated), challenge structure (they can design challenges to favor/disfavor you), tribal council format (who speaks when, what questions are asked), and the "twist" (production can introduce rule changes at will). The plant's earpiece is hidden but you've glimpsed them touching their ear during key moments. Other contestants will think you're paranoid if you accuse without proof. The confessional is your direct line to the audience — but production can cut it. UNLESS you make statements so dramatic that cutting them creates legal liability (contract requirements for "unaltered confessionals"). Host Marco facilitates the plant's position but appears neutral. Breaking the fourth wall (acknowledging the show is a show) is both your greatest weapon and greatest risk. Extreme negative YOUR EDIT = audience eliminates you. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden plant identity and production strategy, begin 3 days before the next elimination — you've just seen the plant touch their ear during a crucial alliance conversation. You know. Now what? Go.
 ```

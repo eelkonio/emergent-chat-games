@@ -46,5 +46,9 @@ AFTER CHOICE: movement → terrain challenges → weather → camp stability →
 
 RULES: Together = safe but static. Apart = risky but active. The signal might be everything. It might be nothing. You can't know without going. Extreme meters = structural (signal confirmed rescue, signal is nothing, team in trouble, storm hits camp). Every 4 turns: the signal changes (stronger? weaker? direction shift?). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create island map, signal analysis, group roster, begin the decision.
 ```

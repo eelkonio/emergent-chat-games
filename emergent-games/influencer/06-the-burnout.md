@@ -48,5 +48,9 @@ AFTER CHOICE: their response → algorithm reacts → audience mood → health t
 
 RULES: You cannot produce indefinitely. The body fails eventually. But stopping has real financial consequences. The audience has attention span limitations. Every 4 turns: a breaking point or turning point (collapse, audience compassion, brand deadline, health crisis, or unexpected grace). Extreme meters = structural (sustainable pace found, total collapse, audience waited, audience left, monetized the burnout meta-content, quit and found peace). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create health profile and content schedule, begin Week 1 (today you couldn't film).
 ```

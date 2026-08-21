@@ -48,5 +48,9 @@ AFTER CHOICE: their response → court reaction → sibling countermove → fore
 
 RULES: Your siblings are not idle. Every move you make, they make one too. Alliances are rented, never owned. The king could die any turn. Every 4 turns: a crisis forces all factions to reveal their hand. Extreme meters = structural (crowned, exiled, imprisoned, civil war, assassination attempt, foreign invasion). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and political landscape, begin Week 1.
 ```

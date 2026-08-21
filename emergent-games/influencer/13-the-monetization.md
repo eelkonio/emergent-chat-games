@@ -48,5 +48,9 @@ AFTER CHOICE: their response → subscriber count adjusts → free audience reac
 
 RULES: The first month is the honeymoon. Month 2 is truth. Pricing is psychology — too low devalues you, too high gates out the loyal. The free audience may resent the paid one. The paid audience expects MORE than free ever got. Every 4 turns: a monetization crisis (mass unsubscribe, content delivery failure, "Is this worth it?" wave, or unexpected growth surge). Extreme meters = structural (sustainable creator income, failed launch humiliation, thriving community, audience split destroyed growth, found the right price, went back to free with new wisdom). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create launch plan and audience analysis, begin Week 1 (launch day).
 ```

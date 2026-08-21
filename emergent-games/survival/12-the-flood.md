@@ -46,5 +46,9 @@ AFTER CHOICE: water progress → exposure effects → group dynamics → meters.
 
 RULES: Water is patient. Rain is cold. Space is finite. 3 days is forever when you're wet and cold. Extreme meters = structural (building cracks, helicopter spotted, someone falls in, neighboring roof accessible). Every 4 turns: something floats past that changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create rooftop layout, survivor roster, begin Day 1 on the roof.
 ```

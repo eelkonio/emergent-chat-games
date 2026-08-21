@@ -46,5 +46,9 @@ NA KEUZE: wat actie oplevert (kan ook niets zijn) â†’ agents reageren op druk â†
 
 REGELS: Bewijs niet altijd eenduidig. Agents merken dat je ze volgt. Subplots. Extreme meters = structureel (verdachte vlucht, getuige overlijdt, verkeerde arrestatie). Speler mag alles. Geen bescherming (je kunt de verkeerde beschuldigen). Iedere 4 beurten: 3 fictieve knipsels (1987 + nu). Complexiteit groeit.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Genereer intern volledige waarheid. Maak agents. Begin met Beurt 1: zaak wordt heropend. Verraad NOOIT de oplossing.
 ```

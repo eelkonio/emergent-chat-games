@@ -47,5 +47,9 @@ AFTER CHOICE: adversary adapts → social effects compound → platforms respond
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — generation capabilities outpace detection permanently. Every detection tool deployed, the adversary's AI learns to evade within weeks. Censorship backfires — it confirms "they're hiding truth" narratives. Counter-narratives require trust you don't have. Offensive cyber risks escalation (Nation-State X has nuclear weapons). Platform cooperation is slow and self-interested. The public WANTS simple answers ("just ban fake news") but the problem is definitional — what IS fake when synthesis is perfect? Media literacy campaigns take years; the timeline is months. International coalition building is essential but allies are also being targeted (and some suspects are allies). Every day of inaction, social cohesion degrades further. Some fragmentation is irreversible — once trust networks break, they don't reassemble easily. The adversary doesn't need to win. They just need you to lose. Extreme low PUBLIC SAFETY = social breakdown, potential violence. Extreme low HUMAN CONTROL = information environment becomes ungovernable. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden adversary AI capabilities and social fragmentation map, begin Month 1 — today's intelligence briefing: a synthetic video of the President and a foreign leader is going viral. It looks completely real. It may BE real. You have 2 hours before press conference. Go.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: Daniel responds → authenticity shifts → testing intensifies or
 
 RULES: Being starstruck (asking about films, showing recognition, being charmed into passivity) = you become audience, not therapist (-30 authenticity). Being overly casual ("you're just a regular person") = they feel unseen, their reality dismissed (-20 alliance). The SWEET SPOT: acknowledging the reality of their life without making it the entire frame. They are a person who happens to be famous. Not a famous person trying to be human. Daniel will test: charm (can you resist being entertained?), power ("my schedule is very demanding" = control), vulnerability-as-performance (watch for rehearsed emotional moments vs. genuine ones), and withdrawal (if you get close, they'll pull back — testing if you'll pursue). Confidentiality is paramount: if they suspect any risk of disclosure, they leave permanently. Their phone is a threat — publicist texts during session. Privacy concerns are clinical material, not just logistics. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden identity wound and performance patterns, begin the moment Daniel sits down, removes their cap, and says: "So. I don't really do this. I don't really do... real." They smile — and even the smile has craft in it. Go.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: world responds to your choices → people from past react → bure
 
 RULES: The future is not a fantasy — it's a lived-in world with its own problems. People are sympathetic but also move on. Your knowledge of "history" makes you valuable AND threatening to those who rewrote it. Alex having Alzheimer's means they sometimes know you — and sometimes don't. The AI Ghost of you has relationships with people. Extreme low ADAPTATION = institutional care. Extreme low IDENTITY COHERENCE = you become the person 2074 wants you to be. Every 4 turns: something from 2024 resurfaces that changes your situation. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden future-world and agent profiles, begin Week 1 — you materialized yesterday. The museum is closed for "the event."
 ```

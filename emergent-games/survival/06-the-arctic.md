@@ -46,5 +46,9 @@ AFTER CHOICE: station systems → team psychology → mystery progression → me
 
 RULES: Darkness is relentless. Isolation degrades rationality. Trust erodes without information. Something is happening that no one can explain. Extreme meters = structural (station system failure, someone leaves and doesn't return, the thing outside enters, spring arrives). Every 3 turns: the mystery deepens. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create station layout, team profiles, begin the long night.
 ```

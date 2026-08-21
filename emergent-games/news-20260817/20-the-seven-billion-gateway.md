@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Deadline is real. Zhongzhi is making progress you can't see. Conceding on IP sets precedent for all future deals. Walking away gives rival nation strategic foothold. Partial compliance may satisfy no one. If COMPETITOR THREAT maxes — deal lost. If IP PROTECTION collapses — technology exposed globally. If SHAREHOLDER VALUE drops — board fires you. Every 4 turns: 3 fictional items (board email thread, leaked Zhongzhi term sheet rumor, Commerce Department classified briefing). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

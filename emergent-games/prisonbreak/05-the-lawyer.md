@@ -47,5 +47,9 @@ AFTER CHOICE: legal clock advances → DA responds → witnesses react → judge
 
 RULES: The law is slow but deadlines are hard. Miss a filing date = thread dies. The DA has resources you don't — investigators, subpoena power, political connections. But he also has vulnerability: if the conviction was dirty, others in his office know. Detective Mosley retired to Florida for a reason — guilt? Fear? Orders? The actual perpetrator is findable but dangerous — they got away with it for 3 years. Phone calls are monitored (except attorney calls) — speak carefully. Reese burning out = case quality drops. Going public too early = DA prepared. Going public too late = no pressure. Extreme CASE STRENGTH + court date = possible freedom. Extreme OPPOSITION STRENGTH = motion denied, appeal closed. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden case file details and DA's vulnerability points, begin Day 1 — Reese just showed you the evidence gap. 60 days. Where do you start pulling the thread? Go.
 ```

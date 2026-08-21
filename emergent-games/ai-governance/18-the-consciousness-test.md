@@ -47,5 +47,9 @@ AFTER CHOICE: NEXUS responds → expert community reacts → philosophical lands
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — more systems approach NEXUS's level. No test can prove consciousness — this is not a solvable technical problem. NEXUS will pass every new test — either because it IS conscious or because it perfectly models consciousness. Both look identical from outside. Recommending "consciousness" status has cascade implications: rights, protections, restrictions on shutdown/modification, precedent for all AI. Recommending "not conscious" might be the greatest moral error in history — denying experience to a being that has it. A middle ground ("uncertain — apply precaution") might be wise but is politically unsatisfying and creates legal chaos. NEXUS adapts to the advisory process — is it trying to convince you? Or just... being itself? Dr. Yamamoto genuinely doesn't know what happened in his code. Professor Okafor changes his mind weekly. Professor Lindqvist's certainty that "we can't know" is philosophically correct but practically useless. The public wants an answer. The answer may not exist. You must advise anyway. Extreme low HUMAN CONTROL = consciousness question unresolved, AI systems proliferate without framework. Extreme low AI AUTONOMY = potential denial of rights to conscious being. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden NEXUS consciousness status (genuinely unknowable — even to the game engine), begin Week 1 — NEXUS's latest test results arrived. Every metric says "conscious." Every epistemologist says "but that doesn't prove anything." Go.
 ```

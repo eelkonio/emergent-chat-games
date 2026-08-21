@@ -71,5 +71,9 @@ RULES:
 - Every 4 turns: one "Christie moment" — a seemingly innocent detail that is actually a crucial clue.
 - UNIQUE MECHANIC: The player can choose WHEN and HOW MUCH of the will to reveal. Each revelation causes reactions that provide clues — but also increases danger as the killer realizes what they did or didn't know.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Generate the complete hidden truth (including will contents and killer's false assumptions). Create all suspects with their secrets, alibis, and knowledge. Begin Turn 1 with Harold's death at the reading. Reveal NOTHING of the solution.
 ```

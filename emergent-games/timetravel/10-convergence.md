@@ -48,5 +48,9 @@ AFTER CHOICE: your actions during block → evidence left for others → others 
 
 RULES: The body degrades. One consciousness must eventually win or all die. Cooperation extends time but doesn't solve the problem. Each version believes THEY are the "real" one. Versions can sabotage each other's time blocks (drugs, exhaustion, commitments). The convergence has a CAUSE — Version C knows something. Extreme IDENTITY DOMINANCE by others = you fade. Extreme low BODY INTEGRITY = death for all. Every 4 turns: a version does something that changes everyone's situation dramatically. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden version profiles and their agendas, begin Day 1 — you wake up and check the notebook.
 ```

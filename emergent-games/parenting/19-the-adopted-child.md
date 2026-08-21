@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Zoe's process → search developments → famil
 
 RULES: Zoe's need to know is about HER, not about you being insufficient. Birth family contact is unpredictable — it may be wonderful or devastating or both. Your fear is valid but can't dictate her access to her own story. Every 4 turns: a discovery or development (record found, DNA match, birth family contact, emotional regression, integration moment). Extreme meters = structural (integrated identity from both families, search results devastating, beautiful birth-family reunion, Zoe's security in your family strengthens through knowing, you face your own fears, multi-family relationship develops). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and adoption landscape, begin Week 1 (she asked about the DNA kit last night).
 ```

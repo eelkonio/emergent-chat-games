@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Lady Isla's desperation → Ambassador's observ
 
 RULES: Vivienne is a complete person with her own feelings about this arrangement. She may be terrified, furious, strategic, or genuinely open. You won't know until she arrives — and first impressions are political events. Every 4 turns: a revelation changes what you know about your betrothed. Extreme meters = structural (love grows genuinely, political marriage with cold dignity, elopement with Isla, diplomatic incident and war, Vivienne refuses, surprise and grace). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and countdown, begin Day 1.
 ```

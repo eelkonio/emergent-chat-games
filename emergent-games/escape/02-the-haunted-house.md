@@ -47,5 +47,9 @@ AFTER CHOICE: puzzle progress → phenomenon responds → group fear → game ma
 
 RULES: The escape room IS still a functioning escape room — the puzzles still work, the locks still open. But something else is happening simultaneously. The presence might be helping (pushing you toward solutions) or hindering (blocking exits, confusing clues). The game master's increasing nervousness is YOUR best indicator of what's real. If you demand to leave through the emergency exit, the game ends — but you don't know what you'd be leaving IN the room. Extreme PARANORMAL ACTIVITY = events that NO escape room could produce. Extreme GROUP FEAR = someone might hurt themselves panicking. Every 2 turns: something happens that CANNOT be explained by the game design. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden room layout and paranormal event schedule, begin at 75:00 — the door locks. The lights flicker. The game master says: "Remember, everything you see is... part of the experience." She doesn't sound sure.
 ```

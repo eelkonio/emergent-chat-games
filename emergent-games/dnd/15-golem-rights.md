@@ -56,5 +56,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: You cannot reverse the awakening — you've tried. Cairn trusts you but won't wait forever. The city needs labor. Violence from either side escalates everything. Every 4 turns: 3 fictional items (golem-scratched message on a wall, guild meeting minutes, letter from another city's council). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

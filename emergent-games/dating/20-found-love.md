@@ -45,5 +45,9 @@ AFTER CHOICE: Taylor's response → relationship health → your satisfaction �
 
 RULES: Love isn't found — it's maintained. Complacency is the real enemy. But anxiety about complacency is also an enemy. The paradox is the game. Extreme meters = structural (infidelity temptation, genuine deepening, breakup over nothing, proposal moment). Every 4 turns: something tests the foundation. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Taylor's profile and relationship health baseline, begin a normal week.
 ```

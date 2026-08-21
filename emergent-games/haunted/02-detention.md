@@ -46,5 +46,9 @@ AFTER CHOICE: school transforms → group dynamics → sanity effects → meters
 
 RULES: The school is alive and has rules — bizarre rules that can be learned. The Shadow Students aren't aggressive unless... something. Room 104 shrinks. Time is wrong. Extreme meters = structural (Room 104 vanishes, exit found, someone absorbed by building, the rules become clear). Every 3 turns: a new room appears that shouldn't exist. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create transformed school layout, student profiles, begin at 5:15pm.
 ```

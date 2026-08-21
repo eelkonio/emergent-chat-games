@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → album develops → bodies remind → creativity fl
 
 RULES: This album doesn't need to sell. It needs to be TRUE. The band's chemistry after 30 years is deep — they finish each other's musical sentences. But the unspoken knowledge (this is the end) sits in every room. Jake KNOWS his hands are failing — addressing it directly either liberates him or destroys him. Robin's hearing: telling her risks her confidence. Not telling her risks the album's sonic integrity. The engineer must navigate this with respect. Mia is your anchor — her clarity and acceptance is the album's emotional foundation. Your voice: the crack, the roughness, the limited range — these ARE the instruments of a life lived. Don't fight them. The ghost of Album 3: if one reviewer writes "not as good as Signal Fire," does it matter? After 30 years, who are you making this for? Extreme LEGACY STATEMENT = a worthy farewell. Extreme low = "they should have stopped sooner." No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden physical limitation details and band emotional dynamics, begin Week 1 — four people in a studio, instruments in hand, looking at each other with 30 years of love and the knowledge that this is the last time. What's the first song about? Go.
 ```

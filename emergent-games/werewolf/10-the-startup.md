@@ -47,5 +47,9 @@ AFTER CHOICE: day passes → traitor acts → company operates → evidence surf
 
 RULES: The traitor communicates with Apex through channels you can monitor IF you know where to look. Each co-founder has legitimate reasons to be frustrated (Priya: technical debt ignored, Marcus: operational chaos, Jordan: credit for innovations). The poached employees signed NDAs — but NDAs don't stop ideas leaving in heads. The board meeting in 10 days: if the traitor isn't identified by then, Apex makes a public acquisition offer — forcing a vote you might lose. The company valuation drops with each leak — making the acquisition offer look better. Williams (board chair) is "neutral" but has his own financial incentives. An acqui-hire at the right price benefits HIM even if it destroys you. Extreme low COMPANY VALUATION + acquisition offer = board votes to sell. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden traitor identity and Apex negotiation timeline, begin the morning after the third engineer was poached — your inbox has a message from Apex CEO "requesting coffee." Coincidence? Go.
 ```

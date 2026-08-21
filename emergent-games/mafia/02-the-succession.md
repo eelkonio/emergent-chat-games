@@ -48,5 +48,9 @@ AFTER CHOICE: their response → factions react → FBI pressure → external fa
 
 RULES: Each candidate is building support by making promises. Promises made now must be honored later — or not. The FBI is watching for the transition to create chaos they can exploit. Rival families smell blood. Every 4 turns: the Don's condition worsens and the timeline compresses. Extreme meters = structural (peaceful transition, civil war, FBI sweeps during chaos, you become boss, you're killed as a loose end, exile). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and faction map, begin Week 1.
 ```

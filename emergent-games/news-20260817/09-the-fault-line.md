@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Aftershocks are semi-random and destructive. Disease outbreak begins if sanitation isn't established within 72 hours. Local trust is fragile — heavy-handed coordination backfires. If LIVES SAVED collapses — preventable death spiral. If COORDINATION collapses — parallel aid systems waste resources. Every 4 turns: 3 fictional items (satellite damage image, radio intercept from field team, WHO situation report). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1 (36 hours post-quake). Reveal nothing hidden.
 ```

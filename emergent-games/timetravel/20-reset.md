@@ -48,5 +48,9 @@ AFTER CHOICE: if reset → echo adds → person shifts subtly → if not reset �
 
 RULES: You cannot un-echo someone. The damage is cumulative and permanent. People with high echo exposure will eventually have breakdowns, leave you, or become hostile — with no "logical" reason anyone can identify. NOT resetting is hard — you're addicted to perfection. Noor (0 resets) shows you what a natural relationship feels like — but one bad moment and you'll be tempted. Extreme ECHO ACCUMULATION = people around you start connecting their feelings to YOU without proof. Extreme RESET ADDICTION = you can't stop even when you see the damage. Every 4 turns: an echo-crisis where someone confronts you with something they can't explain. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden echo profiles and reset history, begin Day 1 — Jamie just said "we need to talk about why I feel this way around you."
 ```

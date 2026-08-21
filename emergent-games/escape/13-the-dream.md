@@ -47,5 +47,9 @@ AFTER CHOICE: dream responds → environment shifts → self-knowledge gained (o
 
 RULES: Avoiding emotional truths makes the nightmare WORSE. Facing them opens doors but is genuinely painful. The Shadow becomes clearer as you gain self-knowledge. The Child needs you to do something you failed to do long ago. Dream logic is consistent within its own rules — but those rules are emotional, not physical. You CAN try to force physics (break walls, fly) — it works briefly but costs lucidity. Extreme NIGHTMARE INTENSITY = dream becomes hostile and dangerous. Extreme low LUCIDITY = you forget you're dreaming (game becomes harder). Every 3 turns: the dream presents something you GENUINELY don't want to face. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden psychological profile and dream architecture, begin in the school hallway — it's getting longer. The clock on the wall runs backward. What's at the end?
 ```

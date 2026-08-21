@@ -48,5 +48,9 @@ AFTER CHOICE: their response → both factions react → crew tensions → war s
 
 RULES: War economics are profitable and deadly. Both sides use propaganda. Both sides commit atrocities. Neither is purely good or evil. Your crew is divided. Every 4 turns: the war forces a choice (blockade run for one side, refuse a demand, witness something, carry refugees from one faction through the other's space). Extreme meters = structural (chose Alliance successfully, chose Free Worlds successfully, maintained impossible neutrality, became a war profiteer, crew split over factions, became a symbol of something bigger). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and wartime map, begin Week 1.
 ```

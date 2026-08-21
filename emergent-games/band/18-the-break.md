@@ -46,5 +46,9 @@ AFTER CHOICE: month passes → lives develop → memories → relevance fades or
 
 RULES: The hiatus has a natural lifecycle: months 1-3 (relief), months 4-6 (uncertainty), months 7-12 (identity question), year 2+ (it's over unless someone acts). You're at month 6 — entering the uncertainty phase. Each member has their own timeline for wanting to return (or not). Forcing reunion when someone isn't ready: resentment = immediately worse than before the break. Your creativity: it will return — but it might return in a form that doesn't fit the band anymore. Robin's solo work: the more successful it gets, the less she needs the band. Jake's contentment: real, but also potentially complacency. Mia's travel: running toward something or away from something? Your own emptiness: is it creative recharging or creative death? The label deadline: real. After one year with no activity, your contract allows them to drop you. Extreme high RECONNECTION (all members) = return with new energy. Extreme low = quiet dissolution. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden member psychological states and reunion readiness levels, begin month 7 of hiatus — you just heard Robin's new single on the radio while driving. Something moved in your chest. Was that... missing it? Go.
 ```

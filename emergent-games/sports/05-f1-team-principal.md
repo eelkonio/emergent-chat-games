@@ -48,5 +48,9 @@ AFTER CHOICE: qualifying → race unfolds → points scored → drivers react �
 
 RULES: F1 is chess at 300 km/h. Both drivers CAN ignore team orders (penalty but they'll do it). Crashes are always possible and devastating financially. Development is a money-time tradeoff — spend now to be fast now, or invest for later races. Weather changes everything. The FIA is political — lobbying matters. Extreme low TEAM HARMONY = drivers crash into each other. Extreme low FINANCES = development freeze. Every 4 races: a regulation change, sponsorship threat, or driver contract situation. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden car performance model and driver profiles, begin Race 1 — pre-season testing just ended.
 ```

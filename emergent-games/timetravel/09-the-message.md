@@ -47,5 +47,9 @@ AFTER CHOICE: immediate outcome → downstream from compliance/resistance → ot
 
 RULES: The instructions are never clearly good or evil. Following them creates extraordinary positive outcomes WITH hidden costs. Resisting creates immediate negative consequences but preserves agency. The sequence adapts to partial compliance — new instructions appear to course-correct. Someone else MAY be receiving counter-instructions. Extreme COMPLIANCE = you achieve something remarkable but aren't sure you're "you" anymore. Extreme RESISTANCE = increasingly dire consequences. Every 4 turns: you discover what a previous instruction was ACTUALLY building toward. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden instruction sequence and agent profiles, begin Week 25 — Instruction 25 just unlocked.
 ```

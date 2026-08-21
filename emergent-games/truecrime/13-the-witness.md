@@ -48,5 +48,9 @@ AFTER CHOICE: verification advances/fails → DA pressures → Rachel wavers or 
 
 RULES: Rachel MIGHT be telling the truth (coerced lineup) OR might have other motives (guilt, manipulation, money). 48 hours isn't enough to fully verify but might be enough for partial verification. The DA reaching Rachel could be legitimate ("protecting a witness") or intimidation. Okafor's lawyer wants formal proceedings — a podcast isn't legally binding. If you air and she's wrong: you might have freed a killer via public pressure. If you don't air: the system buries it. Extreme DA PRESSURE = injunction attempt. Extreme low WITNESS CREDIBILITY = you can't ethically air. Every 2 turns: new information that changes whether Rachel is believable. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden truth about the original lineup and Rachel's motivations, begin 48 hours out — Rachel just left your office. She'll be back for recording.
 ```

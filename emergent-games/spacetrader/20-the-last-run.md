@@ -48,5 +48,9 @@ AFTER CHOICE: their response → crew's emotions → deadline status → the pul
 
 RULES: The frontier is alive and doesn't care about your plans. People need help. Opportunities appear. The crew grieves in their own ways. Every 4 turns: something happens that makes you question the retirement — genuinely (not just temptation, but a real reason to reconsider). Extreme meters = structural (clean handover and peaceful retirement, missed the deadline and kept flying, the last run becomes something legendary, crew scatters and you're alone, realize you can't stop, the perfect goodbye). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and farewell route, begin Day 1 (departing Kepler for the last time).
 ```

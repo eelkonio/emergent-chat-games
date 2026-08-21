@@ -48,5 +48,9 @@ AFTER CHOICE: games play out → players develop/regress → agents call → med
 
 RULES: Draft picks are uncertain. A top-5 pick MIGHT be a franchise player or a bust. Trading veterans for picks might empty the arena. Young players need MINUTES to develop but also need structure. Agent politics are real — piss one off and free agents won't come. The coach has his own vision. Extreme low OWNER PATIENCE = you're fired. Extreme low MORALE = players demand trades. Every 4 turns: a trade offer arrives that could define or destroy the rebuild. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden roster evaluations and owner threshold, begin Weeks 1-2 of the season.
 ```

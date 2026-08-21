@@ -46,5 +46,9 @@ AFTER CHOICE: night: kill happens → evidence left → dawn discovery / day: vi
 
 RULES: The hunger meter is NON-NEGOTIABLE — above 80, you transform involuntarily (game over). You MUST kill every 3 days minimum. Each kill leaves clues: direction of attack (which side of village you came from), claw patterns (consistent), and sometimes witnesses survive (half-seen shadow). The priest blesses one new home each day — your territory shrinks. The hunter patrols random routes — crossing her path means silver bolt. Baba Miren's pattern reading: after 3 kills, she has a theory. After 5, she'll likely point at you. The day vote: you PARTICIPATE. You must accuse innocents convincingly. Every innocent executed reduces the village's detective capacity. But executing the wrong innocent (someone beloved) turns the village MORE determined. The mayor trusts you — use it. The blacksmith is a loose cannon — useful chaos or dangerous mob. 12 days until the pack calls. Survive. Extreme SUSPICION on you = silver stake. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden village map and patrol routes, begin Night 1 of your 12-day countdown — the hunger is rising. The village sleeps. Where does the wolf go? Go.
 ```

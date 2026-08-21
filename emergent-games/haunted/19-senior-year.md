@@ -46,5 +46,9 @@ AFTER CHOICE: school response → record status → senior morale → meters.
 
 RULES: The school has been doing this for decades. Every graduated class is smaller than it should be. Nobody remembers the missing ones. Extreme meters = structural (mass resistance works, school's nature exposed, Kyle is erased, you graduate AND free others). Every 3 turns: the school attacks someone new. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create school's history (hidden), record vulnerabilities, begin Day 1.
 ```

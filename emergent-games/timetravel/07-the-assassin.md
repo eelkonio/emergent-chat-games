@@ -47,5 +47,9 @@ AFTER CHOICE: investigation progresses → Eraser responds → potential erasure
 
 RULES: Erased people cannot be restored (yet). The Eraser has temporal technology superior to yours. Your chrono-sensitivity is your only edge. People you warn think you're insane — the erased never existed to them. If YOUR safety drops too low, you might be next. The pattern connects to something Project Lighthouse discovered. Extreme ERASURE RATE = mass erasure event. Extreme TIMELINE INTEGRITY loss = reality becomes unstable. Every 4 turns: someone you know vanishes. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent profiles and erasure pattern, begin Day 1 — you just felt another disorientation wave.
 ```

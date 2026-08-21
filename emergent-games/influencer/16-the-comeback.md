@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience perception → old history surfaces or
 
 RULES: You can't control the narrative — only contribute to it. Addressing the past directly is risky but powerful. Ignoring it leaves others to fill the gap. Growth is real but not everyone will believe it. Every 4 turns: the past resurfaces (old controversy, former collaborator speaks, archived content goes viral, or someone from your break period tells their story). Extreme meters = structural (bigger than before, permanently haunted, fresh start succeeded, old patterns returned, community forgave and elevated, accepted smaller and happier). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create comeback profile and history, begin Week 1 (3 weeks into the return).
 ```

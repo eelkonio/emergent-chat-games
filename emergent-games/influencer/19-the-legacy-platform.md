@@ -48,5 +48,9 @@ AFTER CHOICE: their response → platform evolution → your relevance → audie
 
 RULES: Youth platforms favor youth. That's not personal — it's architecture. But experience, craft, and perspective have audiences too — possibly not here. Chasing trends you don't understand looks desperate. Ignoring them looks stubborn. Every 4 turns: a generational moment (trend participation goes viral or cringe, younger creator acknowledges you, platform deprioritizes your format, or your maturity becomes your superpower). Extreme meters = structural (found relevance through experience, left platform with dignity, became an elder statesman, audience moved with you, adapted authentically, platform changed and brought you back). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create generational landscape, begin Week 1.
 ```

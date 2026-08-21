@@ -47,5 +47,9 @@ AFTER CHOICE: life unfolds → system evaluates → subtle feedback → you appr
 
 RULES: September 3rd always comes. If you haven't changed enough, you'll find yourself in similar circumstances even if you avoid THAT specific night. Marcus is a real person — befriending him under false pretenses has its own moral weight. Your wife falls in love with you every January and you break up every December (or do you?). The system MIGHT be unfair. Other prisoners exist — you might find one. Extreme MENTAL HEALTH loss = loop psychosis. Extreme REHABILITATION = early release (maybe). Every 3 months: a moment where your old self would have done X — what do you do? No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent profiles and system evaluation criteria, begin Loop 7, January 2019.
 ```

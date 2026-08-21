@@ -48,5 +48,9 @@ AFTER CHOICE: problem resolves or worsens → new problems emerge → clock adva
 
 RULES: You cannot do everything yourself. Delegating to overwhelmed staff risks failure. NOT delegating means something else burns. Andre arriving changes everything — if he arrives. The critics will write about tonight regardless of how it goes. Your investor understands chaos but has a THRESHOLD. Tomás will break if you don't acknowledge him. The extraction hood MUST be finished before service (fire code). Extreme READINESS by service time = manageable chaos. Extreme low READINESS = don't open (but people are already outside). Every 2 turns: something you thought was handled comes back wrong. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden problem queue and staff breaking points, begin 4 hours before service — the morning produce just arrived. It's wrong.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: supernatural response → social consequences → knowledge gained
 
 RULES: High school doesn't stop for horror. You still have homework, social obligations, parents. The supernatural escalates whether you engage or not. Extreme meters = structural (locker opens fully, Dani communicates clearly, school shuts down locker wing, you go inside). Every 4 turns: the locker does something new. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create school map, Dani's history, friend profiles, begin Wednesday morning.
 ```

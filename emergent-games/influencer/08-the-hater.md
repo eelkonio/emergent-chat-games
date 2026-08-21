@@ -48,5 +48,9 @@ AFTER CHOICE: their response → harassment adjusts → platform responds or doe
 
 RULES: Harassers adapt. Block one channel, they open another. Legal threats sometimes escalate. Platform moderation is inconsistent. Your mental health is a real meter that affects decision-making quality. Every 4 turns: escalation or shift (doxx update, Drew's content goes mainstream, platform acts, legal development, or Drew finds a new target). Extreme meters = structural (harassment ended through legal/platform, you left the internet, Drew was deplatformed, built resilience and thrived, physical safety compromised, turned it into advocacy). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create threat profile and support network, begin Week 1 (6 weeks into the campaign).
 ```

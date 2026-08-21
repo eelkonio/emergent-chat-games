@@ -45,5 +45,9 @@ AFTER CHOICE: Robin's response → friendship math → tension build → meters.
 
 RULES: Silence has a cost. Confession has a cost. Both are irreversible. Robin is a real person with their own timeline. Extreme meters = structural (they confess first, you confess badly, they start dating someone, tension explodes in public). Every 4 turns: a moment alone together that could be everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Robin's hidden profile (what they actually feel), begin with a regular hangout.
 ```

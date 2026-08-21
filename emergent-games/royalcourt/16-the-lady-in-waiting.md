@@ -48,5 +48,9 @@ AFTER CHOICE: their response → King's patience → Queen's suspicion → court
 
 RULES: The King is not a villain but he is a king — refusal has consequences. The Queen is not a fool — she will notice eventually. Your family sees opportunity in your position. Every 4 turns: the King escalates (a private summons, a public honor, an ultimatum). Extreme meters = structural (become the mistress with all its power and peril, preserve loyalty and be removed from court, the Queen discovers everything, escape the trap entirely, your family sacrifices you for advancement). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and court dynamics, begin Week 1.
 ```

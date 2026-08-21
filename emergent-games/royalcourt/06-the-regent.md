@@ -48,5 +48,9 @@ AFTER CHOICE: their response → noble reactions → boy-king's evolving opinion
 
 RULES: Nobles test boundaries constantly. Give ground and they take more. Stand firm and they unite against you. The Queen Mother poisons the boy's ear. Every 4 turns: a crisis threatens the realm that tests whether you'll prioritize the kingdom or the king. Extreme meters = structural (stable transition to adult rule, deposed by nobles, the boy dismisses you, civil war, assassination, you become what you swore to prevent). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and political landscape, begin Week 1.
 ```

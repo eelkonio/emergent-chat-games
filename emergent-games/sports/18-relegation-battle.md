@@ -48,5 +48,9 @@ AFTER CHOICE: match plays out (full dramatic narration) → result → table upd
 
 RULES: These players have been losing for 8 months. Muscle memory is defeat. Changing that in 5 games requires moments, not plans. One piece of inspiration can unlock a team. One mistake can finish them. Kowalski might play for a contract elsewhere — or might fight for his teammates. Ellis might be brilliant or crumble. The fans will either lift the team or crush them. Extreme SURVIVAL POINTS (3 wins) = safety and euphoria. Extreme low (0-1 wins) = relegation and everything that follows. Every game: a moment where the game hangs on one decision. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden squad morale profiles and remaining fixtures, begin Game 1 buildup — Saturday, home, must-win.
 ```

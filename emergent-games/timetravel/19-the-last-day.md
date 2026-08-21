@@ -47,5 +47,9 @@ AFTER CHOICE: trip outcome (if taken) → present consequences of absence → re
 
 RULES: You cannot change your diagnosis. Trips to the past can bring closure but can also reopen wounds. Michael might never reconcile — trips don't guarantee success. Staying present might be the hardest and most valuable choice. The novel might be your legacy more than any fixed relationship. Extreme low DAYS REMAINING = final choices. Extreme ACCEPTANCE = you stop traveling and start living. Every 4 turns: someone needs you HERE and NOW — but a trip opportunity is equally compelling. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent states and timeline of your past, begin Week 1 — 503 days remaining. Saturday morning. The device hums on your desk.
 ```

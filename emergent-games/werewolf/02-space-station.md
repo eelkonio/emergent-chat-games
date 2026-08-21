@@ -47,5 +47,9 @@ AFTER CHOICE: hour passes → saboteur acts or waits → systems → crew reacts
 
 RULES: The saboteur strikes every 3-4 hours (unpredictable timing). Each strike targets a different system: life support, communications, propulsion, escape pods. Eventually they'll target something that can't be fixed. Vasquez can repair anything — IF she has time and isn't the saboteur. Patel's encrypted transmissions have an explanation — maybe legitimate, maybe not. Novak's late arrival is suspicious but new crew are always disoriented. Chen is becoming dangerous — he'll take action without your approval if SUSPICION peaks. The doctor can sedate someone if ordered — but sedating the wrong person removes essential crew. In space, you can't call for help that arrives in less than 3 days. You're alone with the enemy. Extreme low STATION INTEGRITY = catastrophic failure. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden saboteur identity and attack plan, begin one hour after the oxygen recycler sabotage — crew assembled in the common module, all eyes on you. Go.
 ```

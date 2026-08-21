@@ -49,5 +49,9 @@ AFTER CHOICE: survival → sabotage risk → suspicion dynamics → meters.
 
 RULES: The saboteur is smart, motivated, and has had 10 days to learn the group. Accusations without proof destroy unity. But inaction allows continued sabotage. Extreme meters = structural (saboteur caught, wrong person accused, rescue destroyed permanently, saboteur's motive revealed — sympathetic?). Every 4 turns: another act of sabotage or a critical clue. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create all 12 survivors (one is the saboteur — hidden), begin morning after the radio is cut.
 ```

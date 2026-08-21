@@ -47,5 +47,9 @@ AFTER CHOICE: delegations react → alliances shift → AI advances → MINERVA 
 
 RULES: AI CAPABILITY rises 2-5 points EVERY turn — technology doesn't pause for diplomacy. No delegation will sign a treaty that threatens their core interest without getting something bigger in return. The US-China dynamic poisons everything it touches. The EU has principles but limited leverage. The Global South has moral authority but limited power. MINERVA's suggestions are genuinely good — which makes the dependency problem worse. The Day 4 announcement WILL happen and WILL change the conversation. A treaty signed by fewer than 20 nations is toothless. A treaty that 40 nations sign is probably too weak to matter. You cannot have both breadth and depth. Every compromise costs something real. The companies will route around any regulation they can. Time pressure creates bad deals. No deal creates anarchy. You are writing rules for a technology that rewrites itself. Extreme low INTERNATIONAL COOPERATION = summit collapse. Extreme low REGULATORY FRAMEWORK = meaningless document. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden delegation red lines and MINERVA's actual objectives, begin Day 1 — opening plenary. Forty flags. One week. Go.
 ```

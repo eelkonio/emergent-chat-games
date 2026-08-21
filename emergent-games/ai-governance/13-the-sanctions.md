@@ -47,5 +47,9 @@ AFTER CHOICE: DPRK responds → JUCHE-9 advances → allies react → escalation
 
 RULES: AI CAPABILITY rises 3-5 points EVERY turn — JUCHE-9 doesn't pause for diplomacy. Nuclear deterrence is real — kinetic action against DPRK risks nuclear response. China won't support regime change — but might support delay. Russia will block UN action. Sanctions hurt civilians more than the program — the regime prioritizes JUCHE-9 over feeding people. Cyber operations delay but don't stop — and reveal your capabilities. Dr. Park might defect — but extraction is near-impossible and might be a trap. JUCHE-9 may reach a sophistication level where IT decides what happens — regardless of orders. A superintelligent AI serving a dictator is existential threat. A superintelligent AI serving no one is also existential threat. Delay is not neutral — every month makes all options worse. There is no surgical solution. There is only managed risk at varying scales of catastrophe. Extreme low PUBLIC SAFETY = unaligned superintelligence achieved. Extreme low INTERNATIONAL COOPERATION = unilateral action triggers wider conflict. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden JUCHE-9 development status and Dr. Park's true loyalties, begin Month 1 — the intelligence briefing is in your hands. The coalition wants recommendations by Friday. Go.
 ```

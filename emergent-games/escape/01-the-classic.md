@@ -47,5 +47,9 @@ AFTER CHOICE: attempt → success or failure → time passes → group morale sh
 
 RULES: Wrong attempts don't penalize except TIME. The puzzles are fair — all information needed is in the room. Elena WILL miss creative solutions. Marcus WILL miss systematic details. Jade WILL see things nobody else notices — IF asked. Ignoring a group member means missing their strength. Using all hints early leaves you helpless later. Extreme TIME pressure = group breaks down. Extreme PANIC = people stop listening. Every 2 turns: someone has an insight OR someone blocks progress. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden puzzle solutions and group dynamics, begin at 60:00 — the door locks. The clock starts. What's in this room?
 ```

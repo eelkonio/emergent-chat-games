@@ -47,5 +47,9 @@ AFTER CHOICE: crew reactions → security response → timeline adjustment → m
 
 RULES: Plans survive until execution begins. Crew members have personal agendas. The casino fights back. Extreme meters = structural (crew member flips, security upgrade, inside contact blown, plan must change fundamentally). Every 4 turns: intercepted communication or discovered intelligence. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create crew dossiers, casino layout, begin planning Day 1.
 ```

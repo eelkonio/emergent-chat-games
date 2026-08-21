@@ -46,5 +46,9 @@ AFTER CHOICE: dig result → noise consequences → structural assessment → su
 
 RULES: Tunnels are unforgiving. Water finds weakness. Sound travels. Surface life continues. Extreme meters = structural (cave-in, flooding, discovered from above, tool failure, breakthrough). Every 4 turns: something underground surprises. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create tunnel map, crew assignments, begin Night 1.
 ```

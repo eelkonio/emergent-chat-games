@@ -48,5 +48,9 @@ AFTER CHOICE: their response → suspects react → FBI adjusts → family press
 
 RULES: The rat is smart — they've survived this long. Accusing the wrong person is as dangerous as finding the right one. The FBI will protect their asset — possibly by feeding you toward an innocent man. Your friendship with suspects compromises your judgment. Every 4 turns: another leak occurs, narrowing possibilities and increasing pressure from the boss. Extreme meters = structural (rat found and dealt with, wrong man killed, you're suspected, rat escapes into WITSEC, the investigation destroys the family from within, you face an impossible choice). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and evidence board, begin Week 1.
 ```

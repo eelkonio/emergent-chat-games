@@ -47,5 +47,9 @@ AFTER CHOICE: farm responds to weather → harvest available → menu built → 
 
 RULES: Nature has NO obligation to your business plan. Drought, pests, frost, and abundance all arrive without permission. Guests paying $200/head expect excellence — "the tomatoes died" is YOUR problem, not theirs. Elias's livestock projects have delays. Trading with Hank means acknowledging your system isn't self-sufficient (but IS survival). Suki wants to add bought ingredients — it's pragmatic but destroys the concept. Extreme low CROP HEALTH = nothing to serve. Extreme low FINANCIAL VIABILITY = close before October. Every 3 turns: weather event that reshapes your menu. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden crop calendar and weather forecast, begin Week 1 — April, first plantings, opening weekend in 3 weeks.
 ```

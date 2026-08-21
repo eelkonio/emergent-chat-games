@@ -47,5 +47,9 @@ AFTER CHOICE: time passes → guests interact → secrets emerge → killer adju
 
 RULES: You have no warrant, no authority, no forensic lab. You have your eyes, your experience, and your ability to read people. The guests will cooperate to a point — but everyone has secrets beyond the murder. Marcus's will is changing; that information will emerge. The affair is real; someone in the room knows with whom. The killer is maintaining composure — but composure cracks with pressure. The poison: available in the house (rat poison in the garden shed — who knew about it?). If you accuse the wrong person, the group loses faith in you and the real killer relaxes. If you get too close, the killer might target you — or another guest to create confusion. The storm lifts at dawn — 8 hours away. Extreme high KILLER'S ANXIETY = dangerous action. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden killer identity and murder method, begin 15 minutes after the body is discovered — the guests are gathered in the drawing room. Brandy glasses are still on the table. You've just told them: "No one leaves this room." Go.
 ```

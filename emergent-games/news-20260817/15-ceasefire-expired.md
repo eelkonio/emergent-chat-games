@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Mobilization is a ratchet — each turn without de-escalation makes reversal harder. Trust is fragile and asymmetric. One leaked conversation can collapse everything. If WAR PROBABILITY maxes — shooting starts. If DIPLOMATIC CHANNELS hits zero — no one takes your call. If PERSONAL CREDIBILITY collapses — you're replaced. Every 4 turns: 3 fictional items (intercepted military order, draft communiqué, UN staff WhatsApp message). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

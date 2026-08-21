@@ -46,5 +46,9 @@ AFTER CHOICE: dream response → attendance progress → waking effect → meter
 
 RULES: Dream logic rewards belief and punishes doubt. But waking up is the real escape — if you can. The entity is methodical and patient. "Called" students: their EEGs flatline for 3 seconds then restart (what happened?). Extreme meters = structural (everyone wakes, you're last on the list, the entity is defeated in dream, called students return... different). Every 3 names called: dream shifts. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create dreamscape map, attendance list, lucid dreamers, begin the dream.
 ```

@@ -45,5 +45,9 @@ AFTER CHOICE: Jordan's reaction to any pushback → your chemical response → e
 
 RULES: Love bombing looks like love. That's what makes it work. It might ALSO just be love. The ambiguity is the horror. Extreme meters = structural (mask drops when challenged, genuine love confirmed, isolation begins, you set a boundary and they vanish). Every 3 turns: a moment where the mask slips — or what looks like vulnerability. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Jordan's hidden profile (real motivation), begin in the whirlwind.
 ```

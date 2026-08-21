@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Ria's development → work demands → your res
 
 RULES: You can't pour from an empty cup. But you also can't stop pouring. The system isn't designed for single parents. Help requires asking, which requires energy and vulnerability. Every 4 turns: a crisis that tests the whole fragile system (illness, work emergency, childcare collapse, financial hit, Ria needs something expensive). Extreme meters = structural (sustainable rhythm found, burnout collapse, asked for help and it came, work conflict, Ria thrives regardless, you find unexpected support). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and daily reality, begin Week 1.
 ```

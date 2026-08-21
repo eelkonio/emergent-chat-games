@@ -48,5 +48,9 @@ AFTER CHOICE: their response → investigation advances/retreats → poisoner ad
 
 RULES: The poisoner is intelligent and adapts to your investigation. Question the wrong person and the poisoner knows your direction. The court is terrified beneath its composure — fear breeds accusation. Every 4 turns: another death (or near-death) raises the stakes and the pressure. Extreme meters = structural (poisoner caught, you're poisoned, wrong person accused, mass paranoia collapses the court, poisoner escapes, you become the prime suspect). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and investigation board, begin Week 1.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: training continues → fighters react → promoter pressures → m
 
 RULES: Marcus WILL NOT retire voluntarily — pride won't allow it. Devin WILL fight Marcus — this is his dream. The promoter doesn't care about safety. You are the only person who can stop this fight — and nobody will thank you for it. If the fight happens and goes badly, you'll carry it. If you stop it and Marcus loses the belt to someone else who REALLY hurts him, you'll carry that too. Extreme low FIGHT SAFETY = potential tragedy. Extreme FINANCIAL PRESSURE = the gym needs fight purse money to survive. Every 3 turns: a sparring session reveals something that scares you. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden fighter medical profiles and secret decline data, begin Week 1 — the fight was just announced.
 ```

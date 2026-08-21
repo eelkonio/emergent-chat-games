@@ -48,5 +48,9 @@ AFTER CHOICE: their response → content performs or doesn't → your integrity 
 
 RULES: The audience probably won't find out. Probably. But "probably" is doing a lot of work. Other creators fake content and thrive. But other creators aren't YOU — your brand is honesty. Every 4 turns: a test of your decision (evidence surfaces or doesn't, similar opportunity appears, someone else gets caught, or your honest content surprises you with success). Extreme meters = structural (faked it and succeeded, faked it and got caught, stayed honest and thrived, stayed honest and stagnated, found a creative middle path, the ethical line moved permanently). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create ethical landscape and opportunity assessment, begin Week 1.
 ```

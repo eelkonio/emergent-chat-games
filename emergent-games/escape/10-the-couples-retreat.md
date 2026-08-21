@@ -48,5 +48,9 @@ AFTER CHOICE: biometric check → lock opens or doesn't → Alex responds → re
 
 RULES: The biometric system is imperfect (5% false readings) which creates DOUBT even on truth. Some truths strengthen relationships. Some truths destroy them. The room escalates — each lock demands MORE vulnerability than the last. Alex has truths too — some will hurt you. Refusing a lock = staying trapped. Escaping requires BOTH of you to be vulnerable. If one partner shuts down, nobody leaves. Extreme HONESTY LEVEL = everything said, for better or worse. Extreme CONFLICT RISK = the truths break the relationship. Every lock: something neither of you expected to face tonight. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden relationship truths and biometric logic, begin at 60:00 — the room locks. A screen lights up: "Welcome, lovers. Let's see how well you really know each other."
 ```

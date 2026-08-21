@@ -48,5 +48,9 @@ AFTER CHOICE: their response → more people flip or hold → FBI case advances 
 
 RULES: The first to flip gets the best deal. But flipping destroys everything you are. Holding may mean prison. The boss sends contradictory orders from custody. Rival families smell blood. Every 4 turns: someone flips (a name you didn't expect) and the case strengthens. Extreme meters = structural (organization saved in diminished form, everyone flipped, you go to prison with dignity, you flip and enter WITSEC, the family is destroyed completely, you build something new from the ashes). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and crisis map, begin Day 1.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: debrief continues → subject responds → time passes → tactica
 
 RULES: You CANNOT reveal to anyone that you're looking for a plant — if the plant knows they're suspected, they'll trigger their communication device immediately. Your debriefing must look like standard trauma assessment. David's military background makes him LOOK like a plant (calm, controlled, organized) — but that's also how veterans handle crisis. Linda's hysteria is genuine BUT also matches what a plant might choose to fake. Frank knows the bank layout — his information is valuable for the tactical team, but a plant would ALSO know the layout (they were inside). The communication device: likely a phone set to auto-transmit, or a radio trigger. Finding it requires physical search — but searching "traumatized hostages" breaks every protocol and tips off the plant. Briggs needs your call in 120 minutes. Wrong call = dead hostages. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden plant identity and cover story details, begin with all six in separate rooms — you'll see them one at a time. First door opens. Go.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: preparation builds (or over-builds) → Thursday arrives → criti
 
 RULES: Webb has eaten at 2,000 restaurants. He can taste the difference between "we always cook like this" and "we cooked like this for you." Over-preparation is worse than under-preparation in his world. But under-preparation risks genuine failures (wrong seasoning, slow ticket, cold plate). Your team knowing he's there changes their behavior — some for better, some for worse. The regular customer on the same night ALSO deserves excellence. Extreme AUTHENTICITY = he tastes truth. Extreme low = he tastes performance. The review publishes Sunday. Every 2 turns: a moment where natural and prepared diverge. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden critic preferences and your restaurant's current level, begin Monday morning — 3 days to Thursday.
 ```

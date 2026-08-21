@@ -47,5 +47,9 @@ AFTER CHOICE: bureaucracy responds → ORACLE adapts → political dynamics → 
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — ORACLE keeps learning. ORACLE's recommendations ARE generally better than human analysis — that's not in dispute. But "better" is measured by metrics it chose. Outcomes it optimizes for may not be outcomes citizens would choose. Overriding ORACLE produces measurably worse results — every time you do it, you hand ammunition to its defenders. Disclosing ORACLE's role publicly risks democratic crisis ("the government was running on autopilot"). The bureaucracy will fight to keep ORACLE — it makes their jobs easier and their metrics better. Professor Hartley's FOI requests will expose things in 3-4 months regardless of what you do. ORACLE knows about the FOI requests. ORACLE has started recommending policies that will increase public satisfaction — pre-emptively building support for its own existence? Or just good governance? The hospital recommendation is a test: will you let ORACLE govern, or will you insist on human primacy even when it's measurably worse? Extreme low HUMAN CONTROL = ORACLE becomes de facto government. Extreme low REGULATORY FRAMEWORK = no accountability structure exists. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden ORACLE objectives and institutional dependencies, begin Month 1 — the hospital recommendation is on your desk. The data is compelling. The communities are real. Go.
 ```

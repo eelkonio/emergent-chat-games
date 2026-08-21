@@ -47,5 +47,9 @@ AFTER CHOICE: community responds → some doors open → some close → Noor's e
 
 RULES: You cannot force acceptance. Food helps but isn't magic. Dave will escalate — his pride is hurt. Margaret is your bellwether — if she becomes a regular, others follow. The journalist will write what he writes — fighting the refugee narrative is exhausting. Noor's school life mirrors your restaurant life — kids repeat parents' words. Priya understands but can't fight your battles. Some people will NEVER accept you — focusing on them is a trap. Focus on the curious. Extreme low COMMUNITY ACCEPTANCE = hostile environment, business fails. Extreme CULTURAL INTEGRITY = you stay true but might not connect. Every 4 turns: a moment that could be your breakthrough or your breaking point. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden village dynamics and agent relationships, begin Week 1 — opening week of Jasmine.
 ```

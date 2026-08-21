@@ -45,5 +45,9 @@ AFTER CHOICE: Harper's response → heat check → comfort vs. courage → meter
 
 RULES: Three years of data means you know them perfectly — or you only know the friend version. Change is terrifying when you have so much to lose. Extreme meters = structural (they confess first, you confess and it's mutual, they start dating someone seriously, a drunken night changes everything). Every 4 turns: an event that forces proximity or reveals feeling. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Harper's hidden timeline (when THEIR feelings shifted), begin present day.
 ```

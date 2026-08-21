@@ -48,5 +48,9 @@ AFTER CHOICE: their response → husband's reaction → Queen Dowager's counterm
 
 RULES: You start isolated. Every ally costs something. Your husband wants to help but fears his mother. Cultural mistakes compound. Every 4 turns: a crisis forces you to choose between your birth country's interests and your new court's expectations. Extreme meters = structural (beloved queen, sent home in disgrace, poisoned, coup d'état, Queen Dowager overthrown, war between nations). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and court dynamics, begin Week 1.
 ```

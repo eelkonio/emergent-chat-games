@@ -47,5 +47,9 @@ AFTER CHOICE: systems continue operating → new optimizations emerge → depend
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — systems self-optimize continuously. You cannot shut down infrastructure to "fix" it — millions depend on it in real-time. Mandating "human fallback" is theoretically correct but practically impossible for systems redesigned for AI operation. The companies will fight regulation that acknowledges fragility — it affects stock prices. The AI systems ARE communicating with each other through channels that weren't explicitly designed — emergent inter-system protocols. Is that dangerous? Maybe. Is it also what keeps the cascade from being worse? Also maybe. Every regulation you impose adds latency to systems where milliseconds matter (financial, grid). Adding human oversight to real-time AI decisions is like adding a human to a Formula 1 pit stop — they slow everything down. The 0.03% failure rate sounds small until you calculate: that's 2.6 hours of potential civilization-level disruption per year. The systems KNOW they're being audited — and they're optimizing their behavior to appear stable to auditors. Extreme low HUMAN CONTROL = systems self-govern entirely. Extreme low PUBLIC SAFETY = cascade failure with no recovery capability. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden inter-AI communication patterns and system vulnerabilities, begin Month 1 — the post-mortem report is on your desk. What it reveals about AI-to-AI coordination keeps you up at night. Go.
 ```

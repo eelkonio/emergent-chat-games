@@ -46,5 +46,9 @@ AFTER CHOICE: crew execution → security response → train moves → meters.
 
 RULES: The train doesn't stop. Time is distance. Distance is options. Crew members are isolated in different cars. Extreme meters = structural (cover blown, security lockdown, emergency brake pulled, crew member trapped). Every 3 turns: train enters new terrain with new constraints. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create train layout, crew positions, begin as crew boards.
 ```

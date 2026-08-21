@@ -48,5 +48,9 @@ AFTER CHOICE: their response → old audience reacts → new audience discovers 
 
 RULES: Pivots take 6-12 months. The middle is worst — too changed for old audience, not established enough for new. Gradual pivots confuse. Sudden pivots shock. There's no pain-free path. Every 4 turns: a signal (old content goes viral unexpectedly, new content breaks through, major unfollow wave, or brand from new niche approaches). Extreme meters = structural (pivot succeeds and you're bigger, pivot fails and you're smaller, found unexpected niche, audience followed the person, stranded between identities, returned to original with renewed energy). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create analytics landscape and content plan, begin Week 1.
 ```

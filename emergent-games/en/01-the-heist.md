@@ -42,5 +42,9 @@ AFTER CHOICE: direct → agents react → indirect → delayed → relationships
 
 RULES: Plans fail. Agents learn/betray. Subplots simmer. Extreme meters = structural (crew member flips, police raid, security upgrade, inside contact disappears). Player may try anything. No protection. No morality. Every 4 turns: 3 fictional intercepted messages/police reports/news items. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents with hidden profiles, begin Turn 1. Reveal no hidden info.
 ```

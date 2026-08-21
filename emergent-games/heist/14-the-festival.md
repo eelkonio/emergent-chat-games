@@ -46,5 +46,9 @@ AFTER CHOICE: crew status → crowd physics → target movement → meters.
 
 RULES: Chaos is freedom and prison simultaneously. People move like water. Targets wander. Crew gets lost. Extreme meters = structural (manuscript moved, crew member caught, crowd surge separates everyone, rain turns site to mud). Every 3 turns: something at the festival changes the landscape. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create festival map, crew positions, begin Saturday night.
 ```

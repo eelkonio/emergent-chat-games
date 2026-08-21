@@ -46,5 +46,9 @@ AFTER CHOICE: system response → temperature → guest reaction → meters.
 
 RULES: Cold is slow but certain. Luxury guests are unprepared. Staff have limits. The building itself becomes a survival tool (or a coffin). Extreme meters = structural (generator dies completely, roof collapse from snow weight, someone leaves, road cleared). Every 4 turns: the blizzard changes intensity. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create lodge map, guest/staff roster, begin as generator first stutters.
 ```

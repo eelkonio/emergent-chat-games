@@ -48,5 +48,9 @@ AFTER CHOICE: their response → relationships evolve or don't → your peace wi
 
 RULES: You can't fix what's done. You can acknowledge it. Apology without behavior change is performance. Jake's distance is self-protection — respecting it is loving him. Naomi's anger is trust — she believes you can hear it. Every 4 turns: a moment of potential repair or acceptance (family gathering, honest conversation, grandparenting moment, health scare that clarifies). Extreme meters = structural (genuine repair with both, acceptance without repair, family gathering with real connection, health crisis that mobilizes love, learned to forgive yourself, one relationship deepens while another stays at distance). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and family landscape, begin Month 1.
 ```

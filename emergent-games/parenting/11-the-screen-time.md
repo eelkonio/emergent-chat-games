@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Juno's compliance or resistance → peer dynami
 
 RULES: Technology is not inherently evil or good — context and dosage matter. Hard limits create sneaking. No limits create dependency. Juno's social world IS digital — that's a fact, not a failure. Every 4 turns: a screen-related discovery or crisis (worrying content, online conflict, gaming spending, or surprisingly positive digital experience). Extreme meters = structural (healthy digital balance, total restriction backfires, online incident, Juno self-regulates, family finds shared screen joy, addiction-level problem). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and digital landscape, begin Week 1.
 ```

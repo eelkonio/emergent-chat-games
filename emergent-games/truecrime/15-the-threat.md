@@ -48,5 +48,9 @@ AFTER CHOICE: investigation continues (or pauses) → threats respond → family
 
 RULES: The threats will escalate until you stop OR until you expose who's making them. Going public about being threatened might deter OR might provoke. Relocating your family costs money and stability. The police MIGHT take it seriously if a threat becomes specific enough. Jordan has a threshold — pass it and they take Lily and leave (for everyone's safety). Quitting and resuming later is an option — but evidence degrades and the Reeds will cover their tracks. Extreme FAMILY SAFETY threat = Lily in danger. Extreme PERSONAL RESOLVE loss = you quit and a killer walks. Every 3 turns: an escalation OR a breakthrough. No protection. The irony is total. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden threatener identity and Reed family strategy, begin Day 1 — the photo of Lily arrived 2 hours ago.
 ```

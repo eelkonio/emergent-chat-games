@@ -48,5 +48,9 @@ AFTER CHOICE: police investigate → media writes → copycat observes → your 
 
 RULES: You are NOT legally responsible (almost certainly). You ARE morally implicated (clearly). The difference between those two things is where this game lives. The copycat might contact you — cooperating with police to catch them is obvious but means your show becomes a trap. The media will frame you as villain regardless of your response. Silence looks guilty. Speaking looks defensive. The original case details WERE public — but you made them accessible. Extreme low MENTAL HEALTH = breakdown. Extreme COPYCAT activity = another victim. Every 3 turns: the copycat communicates (directly or through action). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden copycat profile and responsibility assessment, begin Day 1 — the police just left. The note is evidence. Episode 7 is being cited in every news article.
 ```

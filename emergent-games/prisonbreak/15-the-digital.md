@@ -46,5 +46,9 @@ AFTER CHOICE: session progresses → system responds → IDS evaluates → Garci
 
 RULES: Digital forensics are real — every action leaves traces somewhere. The AI monitoring watches for patterns, not individual actions — behave normally for long enough and anomalies blend in. Chen patches quarterly — a vulnerability you find today might be gone in 3 weeks. The library terminal: screen faces a wall (good) but Garcia walks behind twice per session (bad — need a hotkey to swap to "legal" screen). The RFID: you can't remove your wristband without triggering alert. You need to either clone it, spoof it, or make the system think you're somewhere else when you're not. Ramos knows social engineering — could get credentials through human manipulation while you do technical exploitation. Parallel paths. The system audit in 6 weeks will find your traces if you haven't erased them — or haven't escaped yet. Extreme SYSTEM ACCESS = lock control. Extreme IDS ALERT = lockout + investigation. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden network topology and CMS vulnerabilities, begin your first library session with new eyes — you just noticed the network bridge. The prompt blinks. Go.
 ```

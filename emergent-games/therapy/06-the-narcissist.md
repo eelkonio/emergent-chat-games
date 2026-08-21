@@ -46,5 +46,9 @@ AFTER CHOICE: Marcus responds → mask holds or slips → diagnostic data → me
 
 RULES: DO NOT diagnose in session 4 — NPD takes months to confirm. Early diagnosis leads to bias. Instead: test gently. A genuine client welcomes gentle challenge ("you mentioned being distant — what does your wife experience?"). A narcissistic client deflects, charms, or subtly punishes. If you challenge too directly too early: idealization flips to devaluation ("maybe this isn't working"), and he leaves (possibly to another therapist he can control). Your countertransference is your best tool: if you feel flattered, special, or uniquely good at your job with THIS client — that's data about HIM, not you. The wife's perspective cannot be shared directly (confidentiality) but it informs your clinical stance. Extreme DIAGNOSTIC CLARITY = you know what you're working with and can plan accordingly. Extreme low = you're being managed without knowing it. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Marcus's personality structure and manipulation patterns, begin Session 4 — he walks in smiling: "I had an insight this week that I think you'll find interesting." — Does that sentence feel like therapy or performance? Go.
 ```

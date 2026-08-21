@@ -48,5 +48,9 @@ AFTER CHOICE: their response → debt changes → family pressure → your optio
 
 RULES: The debt only goes one direction unless you act. Legal solutions (bankruptcy, police) carry their own dangers — you don't inform on the mob and keep your knees. Doing "work" solves the debt but creates new obligations. Every 4 turns: the Marchettis escalate their pressure (from friendly to threatening to dangerous). Extreme meters = structural (debt cleared legitimately, fully absorbed into the life, killed as an example, FBI protection in exchange for testimony, escape and disappear, do something terrible to clear the balance). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and debt status, begin Week 1.
 ```

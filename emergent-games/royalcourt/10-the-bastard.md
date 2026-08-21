@@ -48,5 +48,9 @@ AFTER CHOICE: their response → court reads your actions → siblings react →
 
 RULES: Excellence threatens. Humility is read as cunning. The court sees what it expects. Prince Aldric has allies who would solve "the bastard problem" permanently. Every 4 turns: the King does something that changes your status — an honor, a slight, a test — and the court reshuffles around it. Extreme meters = structural (legitimized, exiled, assassinated, self-made power independent of the crown, rebellion against the legitimate line, the King dies and everything is decided). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and court dynamics, begin Week 1.
 ```

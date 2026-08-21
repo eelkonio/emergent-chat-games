@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Jake's true intentions clarify → audience rea
 
 RULES: Bigger creators didn't get big by being generous. Collaboration is a transaction — know what's being traded. Your audience knows when you're not being yourself. But exposure IS valuable — the question is the exchange rate. Every 4 turns: Jake reveals more of his agenda (takes credit, controls release, audience reaction surprises, or genuine connection forms). Extreme meters = structural (audience exploded, lost yourself, collab revealed Jake's exploitation, found genuine creative partnership, audience rejected the crossover, renegotiated the power dynamic). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and collab landscape, begin Week 1 (Jake DM'd 3 days ago).
 ```

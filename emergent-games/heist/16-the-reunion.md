@@ -46,5 +46,9 @@ AFTER CHOICE: crew dynamics shift → planning progress → Milan truth progress
 
 RULES: You need all of them. They need the money. But need isn't trust. Every collaboration moment risks a eruption. Extreme meters = structural (crew walks out, Milan truth unifies, mid-job betrayal, someone's working for the other side). Every 3 turns: a Milan revelation that changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create crew history (Milan truth), relationship map, begin Day 1 reunion.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → air supply changes → pursuit adjusts → pass
 
 RULES: The refugees are people, not cargo — they have opinions, fears, skills, and needs. Children get sick first. The old sacrifice for the young. Your crew bonds with passengers and that makes hard decisions harder. Every 4 turns: a crisis (medical emergency, air system failure, pursuit gains significantly, internal conflict among refugees). Extreme meters = structural (all delivered safely, some lost to the math, captured and refugees returned, ship fails but passengers survive in pods, crew mutiny over risk, you become a permanent refugee runner). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and survival math, begin Day 1 (departure from Kepler-7 orbit).
 ```

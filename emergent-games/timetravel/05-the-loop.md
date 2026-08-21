@@ -47,5 +47,9 @@ AFTER CHOICE: world reacts → Kira adjusts → patterns reveal → knowledge ga
 
 RULES: The day is deterministic unless a looper intervenes. Kira is not evil but IS dangerous — her goals may conflict with yours. She lies strategically. Breaking a pattern reveals information but alerts her. There IS an exit condition — neither of you has found it yet. Extreme PSYCHOLOGICAL STABILITY loss = loop psychosis. Extreme KIRA'S ADVANTAGE = she controls the entire day. Every 3 loops: you discover something that changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent routines and Kira's knowledge base, begin Loop 15, 6:00 AM — you wake up again.
 ```

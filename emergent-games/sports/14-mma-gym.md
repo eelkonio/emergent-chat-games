@@ -48,5 +48,9 @@ AFTER CHOICE: fighters react → promoter responds → training continues → he
 
 RULES: Fighters won't stop themselves. That's YOUR job — and they'll hate you for it. Savage's wife is right AND overstepping. Viper's weight cut might kill him one day but today isn't that day (maybe). Ghost replacing them feels like betrayal. The promoter has power — deny him and fights dry up. Fighting each other is bad for the gym but good for business. Extreme low FIGHTER HEALTH = catastrophic event (career-ending injury, death). Extreme low PROMOTER RELATIONS = no fights offered. Every 3 turns: a sparring session reveals something concerning. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden fighter medical profiles and promoter strategy, begin Week 1 — the Savage vs. Viper offer just arrived.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: evidence builds → system responds → DeShawn's courage grows or
 
 RULES: DeShawn recanting on record changes everything — but he's terrified (Harris threatened him at 17, that fear is permanent). Goldstein needs HARD evidence, not just podcast narrative. Judge Thornton will never help voluntarily. The actual killer might still be identifiable — DNA if it can be found. Marcus has survived by NOT hoping — your podcast might save or destroy him. The Baltimore Sun can be ally or enemy. Extreme PUBLIC PRESSURE = hearing granted. Extreme SYSTEM RESISTANCE = legal retaliation (subpoena, gag order). Every 4 turns: a piece of the system cracks or a new obstacle appears. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden case file and actual truth, begin Week 1 — first visit to Marcus in prison.
 ```

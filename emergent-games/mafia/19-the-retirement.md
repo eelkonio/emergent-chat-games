@@ -48,5 +48,9 @@ AFTER CHOICE: their response → boss's decision progresses → FBI approaches �
 
 RULES: No one has done this at your level. There's no playbook. The boss respects you but fears what you represent — a precedent that says "out" is an option. The FBI sees opportunity. Your crew feels abandoned. Every 4 turns: a complication (crisis only you can solve, FBI contact discovered, health emergency, your replacement tries to force the issue). Extreme meters = structural (clean retirement, killed for knowing too much, flipped to FBI, dragged back in permanently, fake death, one last job that buys your freedom). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and exit landscape, begin Week 1.
 ```

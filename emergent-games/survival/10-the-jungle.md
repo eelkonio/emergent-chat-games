@@ -46,5 +46,9 @@ AFTER CHOICE: jungle response → navigation update → group health → meters.
 
 RULES: The jungle is not hostile — it's indifferent and complex. Everything here evolved to eat something. You are soft and slow and ignorant. Extreme meters = structural (river found, someone bitten/stung, lost completely, indigenous contact). Every 3 turns: the jungle teaches something. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create jungle zone, group profiles, begin Day 2 without guide.
 ```

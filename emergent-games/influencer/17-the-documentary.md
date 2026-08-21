@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Maya's shooting decisions → audience anticipa
 
 RULES: Maya is not your enemy — but she's not your editor either. Great documentaries show truth, which means showing the parts you'd cut. You signed the release. Pulling out has costs. Every 4 turns: a filming moment that captures something you didn't intend to show (a breakdown, a fake moment, a private conversation, genuine beauty). Extreme meters = structural (documentary elevated your career, exposed something damaging, showed genuine you and audience loved it, legal dispute over footage, it was boring and changed nothing, made you question everything about your persona). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create production profile and access agreement, begin Week 1 (filming starts Monday).
 ```

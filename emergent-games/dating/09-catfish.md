@@ -45,5 +45,9 @@ AFTER CHOICE: Riley's response → truth/lie tracker → your emotional state �
 
 RULES: Connection can be real even if identity isn't. But it might also be manipulation. The truth will either free you or destroy something beautiful. Extreme meters = structural (confirmed fake, confirmed real, confrontation, they ghost, the real person behind Riley contacts you). Every 4 turns: one piece of evidence that tilts the scale. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Riley's true hidden profile, begin with latest conversation.
 ```

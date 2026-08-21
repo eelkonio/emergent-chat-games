@@ -48,5 +48,9 @@ AFTER CHOICE: evidence builds → Harris responds (if aware) → institution pro
 
 RULES: The DNA is inadmissible (illegally obtained via discarded cup by private PI — chain of custody issues). You need ADMISSIBLE evidence to trigger IA. Harris WILL become aware — he has access to surveillance systems, informants, and can check who's asking about his cases. The police union will protect him until criminal charges are filed. Internal Affairs has a "blue wall" problem. Other officers know things but won't talk against one of their own. Extreme low PERSONAL SAFETY = Harris makes a move. Extreme INSTITUTIONAL RESISTANCE = IA actively blocks you. Every 4 turns: Harris does something that reveals how aware he is. No protection. No protection at all. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Harris crime history and institutional protection map, begin Day 1 — you have the DNA report. Now what?
 ```

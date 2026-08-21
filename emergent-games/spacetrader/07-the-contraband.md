@@ -48,5 +48,9 @@ AFTER CHOICE: their response → enforcement adjusts → market shifts → optio
 
 RULES: The market is fluid — other traders' panic affects your options. Enforcement escalates predictably but with random sweeps. Your manifest history is a paper trail. Every 4 turns: a market or enforcement shift (new buyer emerges, major bust nearby, regulation amended again, enforcement re-deployed) changes the landscape. Extreme meters = structural (sold at profit, caught and convicted, dumped at total loss, became a full-time smuggler, found a legitimate loophole, cargo confiscated). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and market status, begin Day 1 (news just broke).
 ```

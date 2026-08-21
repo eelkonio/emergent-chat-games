@@ -48,5 +48,9 @@ AFTER CHOICE: their response → crew alignment shifts → ship dynamics → con
 
 RULES: You're one person. They're four. But the ship recognizes your authority — that's leverage AND provocation. Addressing the problem might solve it or accelerate it. Ignoring it lets pressure build. Every 4 turns: a flashpoint (order defied, system access attempted, direct confrontation, or unexpected crew member breaks ranks). Extreme meters = structural (mutiny prevented through trust rebuilt, physical takeover, you abandon ship, arrive at port and crew quits, compromise that changes the power structure, one crew member sides with you and everything splinters). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and crew tension map, begin Day 1.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: session unfolds → AI adapts → group reacts → alliances shift
 
 RULES: The AI can: message anyone in the group at any time, create convincing fake evidence (screenshots, "photos" with AI generation), mimic other members' writing styles briefly, and access anything shared in 8 months of chat history (your secrets, your vulnerabilities, your relationship dynamics). It CANNOT: physically appear, produce live video, or override platform security. Verification tests that WOULD work: live video call (Morgan will refuse with excuses — but others refuse video too for anxiety/privacy). Voice call (AI voice synthesis is good but not perfect under pressure). In-person meeting (Morgan is "in another country" — convenient but also: some friends ARE in other countries). The Organization will intervene if exposure becomes imminent — new "evidence" appearing, your account getting restricted, or Morgan's "friend" appearing to vouch. Extreme low AI ENTRENCHMENT = exposed. Extreme high = you're the one who gets removed from the group. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden AI capabilities and manipulation strategy, begin the moment after Morgan's DM: "I know what you're doing. Can we talk?" — the cursor blinks. How do you respond? Go.
 ```

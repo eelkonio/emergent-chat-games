@@ -46,5 +46,9 @@ AFTER CHOICE: month passes → finances shift → fans grow (slowly) → opportu
 
 RULES: Indie growth is REAL but SLOW — doubling annually means: year 1 = 400, year 2 = 800, year 3 = 1600, year 4 = 3200, year 5 = 6400. At 6400 true fans: sustainability begins. But that's 2 more years of poverty. Each member has a FINANCIAL BREAKING POINT (months of unsustainability they'll tolerate). Jake's is lowest (debt). Mia's partner pressure adds external timeline. Robin is most patient but patience has limits. The compromises that appear aren't evil — they're industries standard: sync license with a word change, opening slot for a band you dislike, branded content ("write a song about our product"), or festival slot that requires a mainstream booking agent. Each compromise is SMALL individually but you said no to ALL of them because the slope is slippery. Is it? Or is that ideology masking fear? Extreme SUSTAINABILITY above 50 = viable independent career. Extreme low = band dissolves from poverty. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden financial breaking points and opportunity pipeline, begin a month where rent is due, Bandcamp made $180 this month, and a coffee company offers $5000 for a song in their ad — do you change your answer? Go.
 ```

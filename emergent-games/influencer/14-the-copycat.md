@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Spark reacts or doesn't → audience positions 
 
 RULES: There is no legal remedy for format copying. Confrontation can backfire. Innovation means abandoning what you built. The internet has a short memory — but screenshots are forever. Every 4 turns: the situation escalates (Spark copies something new, brands confuse you, someone writes about it, or Spark acknowledges you — or doesn't). Extreme meters = structural (innovated past them, public callout worked, callout backfired, Spark became bigger, community supported you, found peace with it). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create evidence profile and strategy options, begin Week 1.
 ```

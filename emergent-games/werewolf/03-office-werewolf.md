@@ -47,5 +47,9 @@ AFTER CHOICE: day passes → mole acts → company reacts → evidence accumulat
 
 RULES: The mole strikes every 2-3 days. Each strike does different damage — financial, reputational, operational. Revoking someone's access without cause = HR complaint + lawsuit risk. Surveilling without proper authorization = legal liability. Interviewing people makes them nervous — the innocent AND the guilty. The mole will FRAME others if threatened — plant evidence, redirect suspicion. Your hiring is public — the mole knows you're hunting them. They had 3 weeks before you arrived to prepare. Digital forensics take time — rushing them produces incomplete results. The CEO wants results fast but you need thoroughness. Wrong accusation = you're fired + lawsuit + company still compromised. Extreme low COMPANY HEALTH = investors pull out, company folds regardless. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden mole identity and sabotage plan, begin your first day — CEO gives you badge access and a suspect list. One of these 12 people is destroying this company. Go.
 ```

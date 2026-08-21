@@ -46,5 +46,9 @@ AFTER CHOICE: faction reactions → resource math → external response → legi
 
 RULES: Politics is survival now. Factions maneuver. Alliances shift. External threats are human-shaped. Extreme meters = structural (coup, war with Eastbrook, exile return, food crisis forces unity). Every 4 turns: election cycle or diplomatic event. Complexity grows. Zombies remain as environmental pressure, not primary threat.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create faction map, agent profiles, settlement layout, begin Turn 1.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: power dynamics → faction reactions → infected pressure → sup
 
 RULES: Inmates scheme, ally, betray. Guards fragment. Food is power. Keys are ultimate leverage. Extreme meters = structural (wall breach, full riot, generator dies, faction seizes control). Every 4 turns: message from outside (radio/note/survivor at gate). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create faction map and agent profiles, begin Turn 1.
 ```

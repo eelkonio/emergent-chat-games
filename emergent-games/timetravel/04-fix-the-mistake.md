@@ -47,5 +47,9 @@ AFTER CHOICE: Jake reacts → night unfolds → 10 years cascade → 2024 snapsh
 
 RULES: There is no perfect version. Every fix creates new damage somewhere. Jake has agency in every timeline — he might make worse choices even without the argument. Your memories fragment with each attempt. Agents in 2024 feel wrong when their timeline shifts. Extreme PARADOX RISK = timelines bleed together. Extreme low ATTEMPTS REMAINING = permanent lock-in. Every 3 attempts: a consequence you never considered emerges. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent profiles across timelines, begin Attempt 1.
 ```

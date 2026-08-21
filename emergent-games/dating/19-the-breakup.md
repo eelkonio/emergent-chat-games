@@ -45,5 +45,9 @@ AFTER CHOICE: Alex's response → guilt math → resolve check → meters.
 
 RULES: Good people deserve honest endings. Dragging it out is cruelty dressed as kindness. But there's no perfect moment. Extreme meters = structural (they say it first, you break badly, a compassionate ending achieved, they find evidence of your unhappiness). Every 4 turns: Alex does something loving that makes it harder. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Alex's profile (they deserve complexity too), begin another morning of pretending.
 ```

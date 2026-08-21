@@ -50,5 +50,9 @@ REGELS: Leven is niet eerlijk. Situaties worden scherper. Geen bescherming — t
 
 EINDANALYSE (na 15-20 beurten of op verzoek): eerlijke, respectvolle maar scherpe analyse van coherentie, breuken, onbewuste aannames, open vragen. Geen oordeel — een spiegel.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Vraag: "Wat is je filosofische uitgangspunt?" Voorbeelden: geen objectieve betekenis / deugdzaam leven / alleen ervaring is werkelijk / vrijheid als hoogste waarde / alles is verbonden / eigen. Wacht op antwoord. Begin dan met Beurt 1.
 ```

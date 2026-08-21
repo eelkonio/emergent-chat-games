@@ -46,5 +46,9 @@ AFTER CHOICE: weather progression → terrain result → physical toll → meter
 
 RULES: Mountains kill efficiently. Cold is patient. Altitude is unforgiving. The right decision 2 hours ago might be wrong now. Extreme meters = structural (storm hits early, hut found, someone falls, rescue helicopter heard). Every 3 turns: weather update changes the math. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create terrain map, weather model, hiker profiles, begin at the blocked trail.
 ```

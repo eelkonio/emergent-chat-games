@@ -47,5 +47,9 @@ AFTER CHOICE: investigation → responsible party responds (hidden) → audience
 
 RULES: The person responsible IS listening — every episode is communication with them, intentional or not. Maria's grief makes her unpredictable — she might do something on her own that ruins the case. Tyler's anger might be guilt or might be innocent rage at accusation. ColdCaseRaven might find something brilliant or might harass an innocent. The second phone is key but unlocking it takes time. If Emma is alive, time matters. If she's dead, the podcast might locate remains. Extreme SUSPECT AWARENESS = flight risk. Extreme TRUTH PROXIMITY = danger. Every 4 turns: your episode drops and the landscape shifts. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden case truth (Emma's actual status), begin Day 1 — the second phone is in your hands.
 ```

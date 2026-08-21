@@ -48,5 +48,9 @@ AFTER CHOICE: their response → preparations advance → wormhole status shifts
 
 RULES: The wormhole is a natural phenomenon — it doesn't care about your schedule. Preparation genuinely improves odds but guarantees nothing. Your crew's consent matters — forcing them through damages everything, even if you survive. Every 4 turns: the wormhole shifts (stability improves dramatically, or crashes, or does something unprecedented). Extreme meters = structural (successful transit and fortune, ship destroyed in transit, crew refuses, perfect preparation and smooth crossing, arrive to find contract gone, the wormhole takes you somewhere else entirely). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and wormhole data, begin Day 1 (arrival at the anomaly).
 ```

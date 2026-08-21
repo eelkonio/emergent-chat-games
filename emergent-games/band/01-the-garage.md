@@ -46,5 +46,9 @@ AFTER CHOICE: rehearsal unfolds → music develops → chemistry builds or strai
 
 RULES: Robin will miss rehearsals (average: attends 8 of 12). Each absence sets you back. Forcing Robin = Robin quits. Mia's insecurity manifests as silence — she won't say when something sounds bad because she doesn't feel she has "standing." But she's RIGHT when she feels it. Jake means well but his energy overwhelms — the loudest one in the room sets the ceiling. Your songs aren't precious — some need to be killed, rewritten, or given to the band to reshape. The magic won't happen in rehearsal 1 or 2. It might happen in 5 or 6 — if you've built the trust. The gig: 15 minutes, 4 songs, a bar full of indifferent drinkers. But those 15 minutes could be the start of everything. Or the end of nothing. Extreme low GIG READINESS at gig day = humiliation. Extreme high = you leave the stage knowing something was BORN tonight. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden personality profiles and musical skill levels, begin Rehearsal 1 — four people in a garage, tuning up, nobody quite making eye contact. The first song you want to try: "Falling Static." Count it in. Go.
 ```

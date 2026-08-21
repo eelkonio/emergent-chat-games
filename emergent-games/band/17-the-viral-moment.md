@@ -46,5 +46,9 @@ AFTER CHOICE: days pass → algorithm shifts → audience converts or leaves →
 
 RULES: The ATTENTION WINDOW decays 5-10 points per turn naturally (virality is temporary by definition). Converting attention to fans requires: more music (but rushed music might be bad), more content (but content factory kills art), live performance (proves you're real — but one bad show kills it). The late-night appearance is 10 days away — if the window closes before then, the booking cancels. The label meeting: if you sign now, you sign from strength but in a rush (bad terms possible). If you wait: leverage disappears. Your existing 5K fans: some feel invaded, some feel vindicated. The new 195K: 80% will leave within 2 weeks regardless. Your job: convert even 20% into real fans (40K genuine fans = career-changing). "Paper Chains" is your calling card — but you need to show depth beyond one moment. Extreme high ATTENTION WINDOW maintained = career transformation. Extreme low = "whatever happened to that band?" No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden algorithm behavior and opportunity timelines, begin Day 1 of virality — you woke up to 47 missed calls and your clip has 2 million views since midnight. What do you do first? Go.
 ```

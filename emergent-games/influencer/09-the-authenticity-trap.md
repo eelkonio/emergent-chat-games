@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience interprets → your actual wellbeing �
 
 RULES: The audience is not evil — they responded to what you offered. But their need for your pain is now a structural force. Healing privately while performing struggle publicly creates cognitive dissonance. Every 4 turns: a breaking point where performance and reality collide (breakdown that's real not content, good week you hide, audience calls out inconsistency, or you crack the format open). Extreme meters = structural (found authentic balance, audience accepted growth, performed yourself sick, quit the "real" brand, audience revolt when you healed, created something new from the wreckage). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create identity landscape and audience dynamics, begin Week 1.
 ```

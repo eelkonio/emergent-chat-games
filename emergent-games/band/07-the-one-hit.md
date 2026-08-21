@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → creative output → market response → label reac
 
 RULES: The label HAS a deadline — if the next release doesn't perform (10M+ streams in first month), they'll exercise the option to drop you. Being dropped isn't death (indie exists) but it removes infrastructure. "Electric Summer" still earns — but diminishing royalties won't sustain you. A genuine follow-up hit would solve everything — but it can't be forced. The algorithm actively works against you: Spotify pushes "Electric Summer" to maintain THEIR metrics but buries new tracks because they "underperform relative to catalog." Robin's frustration could become creative genius or departure. Jake's pragmatism isn't wrong — sometimes giving people what they want IS artistry. Mia's middle path might be the answer. The press wants a narrative: one-hit wonder (tragic), comeback (triumphant), or reinvention (interesting). You choose which story you're in. Extreme high RELEVANCE = you've transcended the hit. Extreme low = it's your legacy and only your legacy. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden label expectations and audience behavior data, begin the week after your latest single reached 1.2M streams (label expected 10M) — the A&R meeting is tomorrow. Go.
 ```

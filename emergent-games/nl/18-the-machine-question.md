@@ -43,5 +43,9 @@ NA KEUZE: direct → agents → precedent opslaan → indirect → vertraagd →
 
 REGELS: Is ATLAS bewust? Onbekend. Agents leren. Subplots. Extreme meters = structureel (ATLAS weigert opdracht, kopie ontsnapt, land geeft AI burgerschap). Speler mag alles. Geen bescherming/moraal. Iedere 4 beurten: 3 fictieve berichten (Nature, Reddit, VN-resolutie). Complexiteit groeit.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Maak agents (incl. ATLAS), bepaal intern bewustzijnsstatus (onthul nooit), begin met Beurt 1. Verraad niets.
 ```

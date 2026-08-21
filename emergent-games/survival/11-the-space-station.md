@@ -46,5 +46,9 @@ AFTER CHOICE: system response → O2 math → crew dynamics → meters.
 
 RULES: Physics is absolute. Vacuum is patient. Systems cascade. The pod is both salvation and death sentence. Extreme meters = structural (repair succeeds, pod launched, hull breach, ground contact). Every 3 turns: a new system fails. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create station layout, system damage report, begin T+4 hours.
 ```

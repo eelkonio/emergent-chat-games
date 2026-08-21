@@ -48,5 +48,9 @@ AFTER CHOICE: attempt → room responds → puzzles shift or stabilize → group
 
 RULES: The room CONTROLS its own interior. It can re-lock, rearrange, hide, and reveal. But it has LIMITS — it can't physically harm you (the walls don't close in). It can trap but not kill. Its awareness has a response time — solving VERY quickly before it can react IS possible. But it's learning your patterns. Lily bonding with it might be leverage (the room trusts her) OR danger (Lily might not want to leave). Derek's aggression makes the room defensive. The original game master system still exists UNDER the room's awareness — if you can access it directly... Extreme ROOM'S RESISTANCE = physically impossible to progress. Extreme COMMUNICATION = the room offers a deal. Every 3 turns: the room does something unprecedented. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden room personality and negotiation parameters, begin 50 minutes in — 3 puzzles solved, 2 re-locked, "Please stay" on the wall.
 ```

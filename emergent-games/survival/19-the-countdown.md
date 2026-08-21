@@ -46,5 +46,9 @@ AFTER CHOICE: survival math → psychology shift → weather → meters.
 
 RULES: Dying on Day 6 of a 7-day wait is the ultimate tragedy. The proximity of safety doesn't reduce danger — it amplifies the pain of any loss. Extreme meters = structural (someone dies on day 6, rescue arrives early, storm delays ship, perfect survival to day 7). Every turn: the countdown is both comfort and pressure. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create group status at Day 21, begin the countdown.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → algorithm responds or doesn't → audience find
 
 RULES: The algorithm doesn't owe you anything. Your audience isn't gone — they just can't see you. Other platforms exist but rebuilding takes years. Pivoting format might work but sacrifices what made you YOU. Every 4 turns: a signal from the algorithm (new format works, old format briefly returns, another change, competitor platform opportunity). Extreme meters = structural (adapted and thrived, left platform successfully, quit creating, cracked the new algorithm, became platform-independent, the old format came back). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create analytics landscape, begin Week 1 (10 days post-change).
 ```

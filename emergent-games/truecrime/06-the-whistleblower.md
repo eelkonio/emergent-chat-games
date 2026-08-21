@@ -48,5 +48,9 @@ AFTER CHOICE: verification continues → NovaCure moves → source status → le
 
 RULES: Phoenix can withdraw at ANY time — her courage is not infinite. NovaCure's lawyers can get emergency injunctions in 24 hours. The NYT reporter might publish first (with less proof, but more legal protection). Victim families are pressuring for speed — their grief doesn't wait. If Phoenix is identified, she loses everything. If you DON'T publish, 47 deaths go unacknowledged and more people take Lexavol. Extreme low SOURCE SAFETY = Phoenix identified. Extreme CORPORATE AWARENESS = injunction and legal warfare. Every 4 turns: NovaCure makes a move (internal audit, PR campaign, legal threat). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden corporate strategy and source vulnerability, begin Day 1 — Phoenix just sent the first batch of documents.
 ```

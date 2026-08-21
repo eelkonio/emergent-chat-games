@@ -46,5 +46,9 @@ AFTER CHOICE: approach viability → resource cost → security learning → met
 
 RULES: The impossible demands imagination. Brute force = instant failure. The solution is something nobody has thought of — including the security designers. Extreme meters = structural (novel approach works, resources depleted, rival offers alliance, the architect reveals a flaw). Every 4 turns: a new piece of information that makes one impossible thing possible. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create freeport security layers, known failures, begin Day 1.
 ```

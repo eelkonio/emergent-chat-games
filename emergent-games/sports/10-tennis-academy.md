@@ -48,5 +48,9 @@ AFTER CHOICE: players develop/regress → parents react → tournament results �
 
 RULES: Richard Chen will escalate. Sandra Webb will email every day. Lily might lose her love of tennis. Marcus might never be great but will always be good. Jake's pro transition will define your academy's reputation. Kids who burn out sue. Kids who succeed credit themselves. The rival academy is offering Lily a full scholarship. Extreme BURNOUT RISK = player breakdown. Extreme low PARENT SATISFACTION = mass withdrawals. Every 4 turns: a parent crosses a line that requires confrontation. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden player profiles and parent psychology, begin Month 1 — new term starts.
 ```

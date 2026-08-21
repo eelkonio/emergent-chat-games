@@ -48,5 +48,9 @@ AFTER CHOICE: their response → security adjusts → boss's patience → your o
 
 RULES: The Marshals are good — direct assault is near-impossible. Indirect approaches take time you don't have. Eddie isn't a bad guy — he's scared and the feds offered protection for testimony. Your friendship might be leverage — or it might be the thing that makes this unbearable. Every 4 turns (every 2 days): the boss checks in with increasing impatience. Extreme meters = structural (Eddie silenced by any means, Eddie testifies and RICO drops, you refuse and face consequences, find a third way, Eddie disappears himself, the moral cost breaks something in you permanently). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and timeline, begin Monday Morning.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: Jordan responds → new layer emerges (truth? lie? performance of 
 
 RULES: If you confront too directly = Jordan feels caught, shamed, leaves therapy. If you never address it = you collude with the defense and therapy becomes theater. If you become a detective = you've lost the therapeutic stance. If you accept everything = you've abandoned clinical rigor. The PERFECT approach: work with the lying as communication. What does it TELL you that they need to construct these narratives? What are they protecting? What would happen if they told you the truth? NARRATIVE RELIABILITY tracks: not just "how honest are they being" but "how well do you understand the function of their dishonesty." It can rise even when they're lying — if you understand WHY. If it reaches 70+: you understand the architecture of their deception, which IS understanding them. If it drops below 15: you're lost in the narrative with no clinical ground to stand on. The question isn't what's real. The question is what's NEEDED. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden true history and the architecture of Jordan's lies (what's real, what's fabricated, what's partially true, and WHY), begin the moment Jordan says: "Actually, a lot of what I've told you might not be... exactly how things were." — Something is being offered. But what? Go.
 ```

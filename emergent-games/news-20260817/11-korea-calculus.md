@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: North Korea will test boundaries as exercises decrease. US may further reduce commitment. Pursuing autonomy too aggressively triggers US withdrawal threats. Japan coordination could become alternative — or provoke China. If ALLIANCE STRENGTH collapses — US withdraws. If NORTH KOREA THREAT maxes — provocation or strike. Every 4 turns: 3 fictional items (Blue House memo, intercepted Pyongyang broadcast, Pentagon background briefing). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

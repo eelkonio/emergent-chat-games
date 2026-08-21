@@ -47,5 +47,9 @@ AFTER CHOICE: attempt → success or predicted failure → modifier responds →
 
 RULES: Your first instinct is ALWAYS wrong (the modifier designed for it). Your second instinct might also be wrong (a good modifier predicts the pivot). You must go DEEP into alternative thinking to escape. The modifier's messages reveal their psychology — understanding WHO they are helps predict their changes. The original design memory is useful for identifying WHAT was changed — the change itself contains information. Extreme MODIFIER'S ADVANTAGE = they're always one step ahead. Extreme YOUR ASSUMPTIONS = stuck in your own logic. Every 2 turns: a modifier message that's either a clue or misdirection. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden modified puzzle set and modifier identity, begin — you wake up in YOUR room. Everything looks right. Until you look closer.
 ```

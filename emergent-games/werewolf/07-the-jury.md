@@ -47,5 +47,9 @@ AFTER CHOICE: deliberation continues → jurors shift → corrupted juror adjust
 
 RULES: You CANNOT accuse a juror of being corrupted without extraordinary evidence — that would mistrial the whole case. Your tools are procedural: directing discussion, calling votes, managing breaks. The corrupted juror is SMART — they don't vote acquittal alone (that's suspicious). They build a coalition with genuine doubters so their vote is camouflaged. Victor's aggression might be personality or corruption. Helen's civil libertarianism is real — she'd vote "not guilty" with or without corruption (she's not the target). Marcus is genuinely confused and REACHABLE — if the corrupted juror reaches him first. The judge imposes a deadline: 3 days. A hung jury = retrial = defendant goes free on bail = possible witness intimidation = justice delayed permanently. Extreme VERDICT PROGRESS near unanimous = conviction. Extreme stall = hung jury (corruption wins). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden corrupted juror identity and influence strategy, begin Deliberation Round 1 — the first informal vote just came back 8-3-1. The room feels wrong. Go.
 ```

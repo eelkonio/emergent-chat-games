@@ -45,5 +45,9 @@ AFTER CHOICE: their reaction → your assessment → energy cost → meters.
 
 RULES: Their comfort is not your responsibility but their reaction affects you. Some people are better than you expect. Some are worse. The right person makes access feel easy. Extreme meters = structural (perfect acceptance, rejection that stings, activism-as-attraction, genuine partnership where it's not the focus). Every 3 turns: an accessibility failure that forces the issue. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Ask player to define their disability, create Reese's hidden reaction profile, begin.
 ```

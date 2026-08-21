@@ -47,5 +47,9 @@ AFTER CHOICE: Consequences unfold → wellbeing shifts → client quality affect
 
 RULES: YOUR WELLBEING below 15 = you make a clinical error (missed suicide risk, boundary violation, harmful intervention). Below 10 = you are ethically obligated to stop practicing immediately. COMPASSION CAPACITY below 15 = clients notice your absence (they feel unseen, alliance drops). Pushing through without rest NEVER restores capacity — it only depletes faster. Each session you conduct below 30 WELLBEING costs double depletion. Taking a sick day: -income, +guilt, +recovery. Referring a client out: -attachment, +ethical standing, -identity. Seeking your own therapy: +insight, +modeling, -time, -vulnerability terror. Your partner will not wait forever. You cannot help others from an empty vessel — but try telling that to someone who has made helping their entire identity. The game can end in: ethical crisis, relationship breakdown, health collapse, OR recovery — through the hardest act in therapy: asking for help yourself. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden depletion level and breaking point, begin Monday morning. Your alarm went off at 5:30. You were already awake. First client at 8. The day stretches ahead like a demand. Go.
 ```

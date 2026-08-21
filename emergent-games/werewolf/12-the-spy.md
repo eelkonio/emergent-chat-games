@@ -47,5 +47,9 @@ AFTER CHOICE: hours pass → mole acts (or waits) → officers interact → trad
 
 RULES: Every officer here is trained in deception — "suspicious behavior" is BASELINE. They all have encrypted notebooks. They all leave the safe house for "personal reasons." They all have communication equipment for their own agencies. The mole's communication to Moscow must be physical (dead drop or meeting) — radio would be detected by Patel's sweep equipment. Following someone in 1963 Berlin requires skill — they'll know. The information trap (canary trap): give different details to different officers and see which version reaches Moscow — requires a channel to Moscow Station for verification (24-hour delay). Direct confrontation: professional spies don't confess. They might defect, fight, suicide, or frame you. Krause's Wehrmacht background: is ideological conversion ever complete? Beaumont: France under de Gaulle plays both sides. Harris: the CIA had Kim Philby visiting for years. Extreme low OPERATION SECURITY = mission abort + assets burned. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden mole identity and communication method, begin the first evening in the safe house — all six gathered around a map of East Berlin. The operation is 48 hours away. Go.
 ```

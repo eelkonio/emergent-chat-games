@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → departments work → Germans search → tunnel adv
 
 RULES: Historical grounding — this is 1944, these are real stakes. The seismographic microphones WILL detect shallow tunneling — depth must be maintained (25 feet). Sand dispersal is the logistics nightmare — tons of yellow sand must disappear into a compound of gray soil (trouser-leg dispersal, hidden under theater stage). The ferrets are GOOD — they tap walls, watch behavior, bribe orderlies. Hendricks going solo risks everyone (one American wandering the countryside leads Germans to tighten security for all). Kessler WILL find one tunnel — the question is which one (you have three as insurance). The 76th man through may exit at dawn — visible. Escape night: 1 man every 2 minutes. Any delay cascades. The moral weight: you write the list. You assign the order. You may be sending friends to their deaths. Extreme GERMAN SUSPICION = camp-wide search. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden German intelligence reports and tunnel status details, begin 8 weeks before planned escape night — Harry is at 60 meters. The spring thaw is coming. Go.
 ```

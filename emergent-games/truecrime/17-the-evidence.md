@@ -48,5 +48,9 @@ AFTER CHOICE: evidence integrity shifts → legal landscape responds → police 
 
 RULES: Every hour the evidence is in your possession makes it LESS admissible. Your DNA is now on the bag. Your consultant testing it might taint it. Broadcasting before police have it = obstruction charges possible. Handing it to police who bungled it once means TRUSTING them not to "lose" it. The defense attorney WILL argue you planted it. Your financial interest (podcast success) is a motive they'll cite. Extreme low EVIDENCE INTEGRITY = inadmissible. Extreme low LEGAL STANDING = you face charges. Every 2 turns: your possession of the evidence becomes more problematic. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden evidence forensics and legal landscape, begin Hour 0 — you just got home. The shirt is in your freezer bag. Now what?
 ```

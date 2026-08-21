@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Jamie's adaptation → Sasha's cooperation or e
 
 RULES: Jamie loves both of you. Using them as a messenger is tempting and devastating. Your feelings about Sasha must not become Jamie's feelings about Sasha. The system (legal, school, social) has opinions. Every 4 turns: a conflict point (schedule dispute, Jamie's behavior escalation, Sasha makes a decision you hate, holiday planning). Extreme meters = structural (healthy co-parenting, bitter war through Jamie, Jamie flourishes despite it, legal crisis, new stability, one parent disappears). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and co-parenting arrangement, begin Week 1 (two months post-separation).
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → candidates reveal more → clock ticks → comp
 
 RULES: Perfect candidates don't exist on frontier stations. Everyone is running from something. The best crews aren't built from resumes — they're built from complementary damage. Every 4 turns: a candidate's past catches up (someone looking for them, a lie exposed, or an unexpected display of competence/incompetence). Extreme meters = structural (perfect crew assembled, departed understaffed, wrong hire nearly kills you, crew bonds into family, a candidate's enemy follows you into the black, Mara rejoins). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create detailed candidate profiles and station atmosphere, begin Day 1.
 ```

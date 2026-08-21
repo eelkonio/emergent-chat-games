@@ -46,5 +46,9 @@ AFTER CHOICE: execution → timeline update → security status → meters.
 
 RULES: 85 minutes. Exactly. No extensions. No second chances. The airport doesn't care about your plan. Flights don't wait. Extreme meters = structural (pouch accessed successfully, seal fails, courier arrives early, security locks facility). Every 3 turns: something at the airport disrupts the clockwork. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create airport facility map, timeline, crew positions, begin at T-85.
 ```

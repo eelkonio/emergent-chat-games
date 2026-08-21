@@ -46,5 +46,9 @@ AFTER CHOICE: days pass → Robin's addiction progresses → band reacts → tou
 
 RULES: Addiction is not a choice problem — it's a disease. Robin doesn't WANT to use. She can't stop. This game treats addiction with respect and realism — no "just choose to quit" simplification. Robin's HEALTH drops without intervention — the disease progresses. With intervention (professional help, rehab): it stabilizes but requires WEEKS minimum. The tour is in 6 weeks. The math doesn't work. Marcus (fill-in) is available but the band's sound IS Robin. Jake's anger masks fear. Mia's compassion masks denial. You're carrying everyone. Carol (sponsor) gives truth: "You can't love someone into sobriety." If Robin goes on tour: stress + availability + road life = acceleration. If Robin doesn't go on tour: isolation + shame + free time = also acceleration. There is no safe answer. Only answers with different risks. Extreme low ROBIN'S HEALTH = overdose (game changes entirely). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden addiction trajectory and Robin's internal state, begin the morning after she nodded off during the writing session — she doesn't know you saw. The phone rings: tour promoter needs final confirmation by end of week. Go.
 ```

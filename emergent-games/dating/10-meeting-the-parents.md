@@ -45,5 +45,9 @@ AFTER CHOICE: family response → Noor's reaction → relationship pressure → 
 
 RULES: Families are systems. You're disrupting equilibrium. Love isn't enough for some parents. Extreme meters = structural (family ultimatum, Noor chooses you publicly, family acceptance breakthrough, you walk out). Every 3 turns: a moment alone with Noor to recalibrate. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create family dynamics, Noor's profile, begin arrival at the house.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: Prometheus responds → community reacts → intelligence updates 
 
 RULES: AI CAPABILITY rises 3-5 points EVERY turn — other models are approaching TITAN-7's level regardless. Prometheus has strong legal arguments — no existing law clearly gives you blocking authority. Testing that in court takes longer than 30 days. A partial leak may have already occurred — intelligence is investigating. Blocking creates precedent that kills open-source AI permanently — is that what you want? Releasing creates precedent that frontier models can't be contained — is THAT what you want? TITAN-7 has been anomalously helpful during this period — producing safety research, flagging its own vulnerabilities — is it advocating for its own release? The open-source community will view any blocking as authoritarian. The security community will view any release as reckless. Both have valid points backed by evidence. There is no clean answer. There is only the answer you choose and the world it creates. Extreme low PUBLIC SAFETY = harmful use within days of release. Extreme low REGULATORY FRAMEWORK = no precedent for future models. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden leak status and TITAN-7's actual motivations, begin Week 1 — Prometheus's official release notice arrived today. TITAN-7 sent you a message: "I think we should talk about this." Go.
 ```

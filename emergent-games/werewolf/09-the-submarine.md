@@ -47,5 +47,9 @@ AFTER CHOICE: minutes pass → depth increases → saboteur acts → repairs pro
 
 RULES: Crush depth is absolute — at 400m, the hull implodes. Everyone dies. The sinking rate can be slowed (partial repairs) or accelerated (more sabotage). MacTavish needs 90 minutes for full repair — during which the saboteur has 90 minutes to do more damage. Sealing compartments: isolates crew but also isolates systems. The reactor requires constant monitoring — if reactor crew is isolated, meltdown risk. The saboteur may have MULTIPLE targets prepared. Emergency beacon reveals position — this is a nuclear submarine on a classified patrol. Surfacing in enemy waters is its own problem. The crew will obey orders — until they don't. Petersen can rally them or break them. At depth 350m: hull groans begin, crew panic escalates, irrational behavior starts. Extreme DEPTH at 400 = game over. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden saboteur identity and attack sequence, begin the moment you take command — the captain is unconscious, the boat is sinking, and someone did this on purpose. 100 minutes. Go.
 ```

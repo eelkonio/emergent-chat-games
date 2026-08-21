@@ -46,5 +46,9 @@ AFTER CHOICE: DeLuca responds → power dynamics shift → protection needs chan
 
 RULES: DeLuca is NOT stupid. He'll verify before acting — which gives you a window. Once he knows you know: immediate isolation attempt (solitary for "disciplinary" reasons). Your protection is the evidence outside — but he'll try to find and neutralize Miguel. Mr. Greer solves problems permanently — if DeLuca calls him, you're in physical danger. Internal Affairs is an option but slow and uncertain — and whistleblowers in prison have accidents. Davis wants DeLuca gone for his own power play — useful but his endgame isn't your freedom. The deal structure: simultaneous exchange (freedom for evidence deletion) requires trust neither has. Extreme high POWER BALANCE = DeLuca cooperates. Extreme low = DeLuca eliminates the threat. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden DeLuca psychology and his network capabilities, begin the day you decide to act — evidence is secured outside. How do you open? Go.
 ```

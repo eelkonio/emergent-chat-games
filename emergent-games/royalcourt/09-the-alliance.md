@@ -48,5 +48,9 @@ AFTER CHOICE: their response → both courts react → Princess's countermove �
 
 RULES: The Princess is a full agent — she acts in her own interest. Both courts have factions that want war. Trust between delegations is fragile. Every 4 turns: a provocation (border incident, assassination attempt, leaked insult) threatens to collapse everything. Extreme meters = structural (wedding and peace, war resumes, Princess flees, Prince withdraws, you're scapegoated, alternative alliance emerges). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and negotiation status, begin Week 1.
 ```

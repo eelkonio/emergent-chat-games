@@ -46,5 +46,9 @@ AFTER CHOICE: defense test → zombie learning update → compound status → st
 
 RULES: Yesterday's solution is tomorrow's failure. They learn everything. They share knowledge. They don't forget. Extreme meters = structural (coordinated assault, zombie breakthrough, communication with them possible, evacuation forced). Every 3 turns: Dr. Chen reports a new behavior that changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create zombie intelligence profile, defense log, agent profiles, begin Turn 1.
 ```

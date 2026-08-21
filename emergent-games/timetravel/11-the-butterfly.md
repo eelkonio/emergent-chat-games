@@ -47,5 +47,9 @@ AFTER CHOICE: research reveals connections → fix attempts create new butterfli
 
 RULES: Every fix creates new butterflies. You cannot restore the original timeline — only approximate it. The "wrong" present contains people who deserve to exist. Fixing one thing breaks another. Your Institute may not want the original timeline back — this one might be "better" by some metrics. Extreme CASCADE COMPLEXITY = you can never untangle it. Extreme low PERSONAL CONTINUITY = you forget which timeline was "yours." Every 4 turns: you discover a change that's actually an improvement — creating a moral dilemma. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden causation web and divergence list, begin Session 1 — you've just realized something is wrong.
 ```

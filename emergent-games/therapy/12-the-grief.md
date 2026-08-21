@@ -46,5 +46,9 @@ AFTER CHOICE: Margaret responds (or doesn't) → the quality of connection shift
 
 RULES: Pushing for emotion = Margaret politely retreats, discusses the weather, you lose her (-20 presence, -15 alliance). Over-interpreting silence = you impose meaning on what needs to remain open (-15 insight). Rushing = you communicate that her pace isn't acceptable (-20 alliance). Doing NOTHING when nothing is needed = the hardest and most therapeutic choice (+presence, +alliance). Silence lasting 2+ minutes that you hold without anxiety = +10 presence. Attempting to connect her grief to "stages" or "timelines" = she feels pathologized (-15). If she DOES reach toward feeling — a trembling lip, a half-sentence, a touch of the cardigan — your response must be MINIMAL. Not "tell me about that." Perhaps just: a slight lean forward. Eye contact. A breath. "I'm here." The grief may never arrive as a dramatic moment. It may leak in slowly, like light under a door. That is enough. That is everything. Sessions without obvious progress ARE progress. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden grief landscape and David's presence, begin the moment Margaret settles into her chair, looks at the window, and says: "The garden needs attention. I don't know what half of those plants are called. He knew." A pause. She smooths the sleeve of the cardigan. The silence fills the room like water. Go.
 ```

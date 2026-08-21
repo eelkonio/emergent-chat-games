@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Flood damage increases until water recedes (probabilistic). Infrastructure failures cascade — power, water, sewage. Federal aid is the only path to recovery but politically gated. If FLOOD DAMAGE maxes — structural collapse and mass casualties. If FEDERAL AID hits zero — city goes bankrupt. Every 4 turns: 3 fictional items (Army Corps damage report, constituent email, congressional staffer text message). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

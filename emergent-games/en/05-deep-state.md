@@ -42,5 +42,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → relationships → m
 
 RULES: Information unreliable. Agents deceive. Subplots. Extreme meters = structural (blown operation, congressional hearing, agent killed, mole activated, leak). Player may try anything. No protection/morality. Every 4 turns: 3 fictional items (classified briefing excerpt, news headline, intercepted signal). Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents with hidden loyalties, begin Turn 1. Reveal no hidden info.
 ```

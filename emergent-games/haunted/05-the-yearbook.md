@@ -46,5 +46,9 @@ AFTER CHOICE: erasure progress → memory check → social isolation (nobody bel
 
 RULES: You can't prove what no one else remembers. Fighting alone is terrifying. The yearbook is both clue and threat. Extreme meters = structural (you start forgetting, someone else remembers, the pattern makes sense, you're next on the erasure list). Every 3 turns: someone else vanishes from reality. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create the erasure pattern (hidden logic), memory anchors, begin Tuesday.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: survival progress → group belief shift → mystery progression �
 
 RULES: Performance kills. Reality saves. But some TV skills (social manipulation, alliance-building) actually help. The mystery of what happened to production matters. Extreme meters = structural (everyone accepts reality, someone "plays the game" and gets hurt, rescue arrives, truth about production revealed). Every 4 turns: evidence of what happened to the crew. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create contestant profiles (TV personas vs. real people), begin Day 18.
 ```

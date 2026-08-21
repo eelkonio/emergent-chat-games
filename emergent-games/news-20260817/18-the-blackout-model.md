@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: TIME REMAINING drops 8-12 points each turn automatically. Once below 20, evacuation becomes impossible. Models will converge — but possibly too late. If TIME REMAINING hits zero without evacuation order and storm hits — mass casualties. If evacuation ordered and storm misses — career over, public trust in warnings collapses. If CREDIBILITY collapses — future warnings ignored. Every 4 turns: 3 fictional items (model comparison graphic, DeepCast confidence update, emergency management readiness report). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

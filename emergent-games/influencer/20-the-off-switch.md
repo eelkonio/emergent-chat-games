@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience senses something → your peace increa
 
 RULES: The creator economy has no retirement plan. Leaving means leaving income, identity, and community simultaneously. But staying past your time means becoming what you hate. The exit is content regardless — it will be watched, analyzed, praised, and criticized. Every 4 turns: a reason to stay or go (massive opportunity appears, perfect clarity returns, someone says exactly what you needed to hear, or doubt creeps in). Extreme meters = structural (beautiful farewell, quiet disappearance, pulled back in, left and thrived, left and mourned, the exit video became your best content). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create exit landscape and emotional state, begin Week 1 (3 weeks into the decision).
 ```

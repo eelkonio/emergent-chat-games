@@ -46,5 +46,9 @@ AFTER CHOICE: regression check → memory progress → school's response → met
 
 RULES: The school waited. The deal is real. You all agreed to something at 17 that your adult selves forgot. Coming back was the trigger for collection. Extreme meters = structural (full regression, deal revealed and broken, escape as adults, the sacrifice they chose at 17 is demanded now). Every 3 turns: a major senior year memory returns. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create the senior year truth (hidden), regression mechanics, begin arrival at 8pm.
 ```

@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Legal exposure accumulates. Community trust, once broken, is nearly impossible to rebuild. Federal pressure only increases. If LEGAL EXPOSURE maxes — indictment. If COMMUNITY TRUST collapses — cooperation with law enforcement ends entirely. Every 4 turns: 3 fictional items (body camera transcript, community meeting recording, DOJ letter). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

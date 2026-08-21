@@ -48,5 +48,9 @@ AFTER CHOICE: players respond → unity shifts → fitness develops → Brennan 
 
 RULES: You cannot force unity — you can only create conditions for it. Shared suffering works but risks injury. Social activities work but feel forced. The captain's injury creates a leadership vacuum that SOMEONE will fill — better you choose than let it happen. Warm-up game results matter for confidence but selection for them creates enemies. Extreme low SQUAD UNITY = tournament failure regardless of talent. Extreme CAPTAIN'S RECOVERY progress = he returns but might not be the same player. Every 4 turns: a squad incident (fight, leak, discipline breach) that tests your culture. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden squad dynamics and faction map, begin 6 months out — first squad announcement.
 ```

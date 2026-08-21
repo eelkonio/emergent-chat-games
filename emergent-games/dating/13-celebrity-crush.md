@@ -45,5 +45,9 @@ AFTER CHOICE: Sage's reaction → public risk → your identity → meters.
 
 RULES: Fame distorts everything. Privacy has a clock. They have options — infinite options. But loneliness is universal. Extreme meters = structural (publicly discovered, genuine equal relationship, ghosted for someone in their world, you end it because you can't be yourself). Every 4 turns: a glimpse behind the curtain. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Sage's real profile, begin the DM era.
 ```

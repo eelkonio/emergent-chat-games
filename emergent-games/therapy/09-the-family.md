@@ -46,5 +46,9 @@ AFTER CHOICE: Family responds systemically → alliances shift → new pattern e
 
 RULES: Siding with any one family member destroys the therapeutic alliance with the others (-20 per perceived alliance). Jamie will test you first: are you another adult here to fix him? If you treat Jamie as the patient, you've joined the family system. Marcus will try to recruit you as co-authority. Patricia will try to make you agree everything is fine. Chloe will try to help you run the session (let her — she's showing you her role). If you can get Marcus to show vulnerability: BREAKTHROUGH. If you can get Patricia to show anger: BREAKTHROUGH. If you can get Chloe to say "I'm tired": BREAKTHROUGH. If Jamie feels seen as the MESSENGER not the PROBLEM: BREAKTHROUGH. The family will attempt to recreate their home dynamics in the room — that IS the material. Let it happen, then NAME it. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden family dynamics map and secret alliances, begin the moment the Andersons sit down and Marcus says: "Right. Well. We're here because of Jamie." Jamie pulls his hood lower. Patricia smiles. Chloe leans forward. The system is already performing. Go.
 ```

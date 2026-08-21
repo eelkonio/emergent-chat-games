@@ -46,5 +46,9 @@ AFTER CHOICE: hours pass → leak spreads → narrative develops → responses �
 
 RULES: DMCA takedowns are whack-a-mole — you take one down, five more appear. They DO slow spread but can't stop it. Early release requires label approval (Morrison resists but can be convinced). The leaked mixes are NOT the final masters — there's a quality difference. Making THIS your angle ("wait for the real thing") might work. The leaker had master-file access: studio engineer (unhappy about payment?), label intern (ideology — "music should be free"?), mastering house (breach?), or band member (revenge/sabotage?). Finding the leaker: forensic audio watermarking might identify which copy leaked (if the label implemented it). The fan community: they're excited but also protective — "delete the leak, support the artists" vs. "this belongs to everyone now." Your response sets the tone for your entire relationship with fans on ownership and access. Extreme high NARRATIVE CONTROL = you turned disaster into triumph. Extreme low = the album's story was written without you. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden leaker identity and leak source, begin the moment you see the notification — 6:47 AM, your manager texts: "We have a problem. Check Twitter." Go.
 ```

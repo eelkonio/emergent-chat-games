@@ -46,5 +46,9 @@ AFTER CHOICE: movement → rival movement → resource consequences → meters.
 
 RULES: Competition makes monsters. But cooperation requires trust that doesn't exist between strangers. The helicopter doesn't care about fairness. Extreme meters = structural (confrontation, alliance formed, one group collapses, helicopter arrives early). Every 3 turns: contact or evidence of rival movement. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create both groups, island map, begin after radio message.
 ```

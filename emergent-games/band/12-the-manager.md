@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → Sasha acts → results come → control shifts →
 
 RULES: Sasha IS effective — everything she does produces results (more fans, more money, better venues). The question isn't competence, it's COST. Her control escalation: first suggestions, then strong recommendations, then directives, then decisions made without consulting you. If you push back: she respects it (once) or she applies pressure ("I know this industry — trust me or why am I here?"). The 5-year contract: leaving early means paying out remaining commission on projected earnings (expensive). The former clients: one NDA prevents speaking. The other will talk — if you find them. They'll tell you something that either confirms your fears or explains them away. Tim knows the truth about what happened but his loyalty to Sasha has limits. Extreme MANAGEMENT CONTROL = she's running your band. Extreme low = she quits ("I can't work with people who won't be managed"). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Sasha motivations and her management playbook, begin the day after her pitch — the band is discussing whether to sign with her. Go.
 ```

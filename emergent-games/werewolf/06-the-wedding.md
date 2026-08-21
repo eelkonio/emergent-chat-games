@@ -47,5 +47,9 @@ AFTER CHOICE: time passes → saboteur acts → wedding prep continues → emoti
 
 RULES: The saboteur escalates: small annoyances → logistical destruction → emotional bombs → potential ceremony disruption. If they reach the ceremony, they WILL object or reveal something devastating. Your job is dual: find them AND keep the wedding running. Fixing the cake, the car, managing the bride's emotions — all while detecting. Sarah and David DID have a history — but is it current? The note could be truth weaponized. Marcus knows David's secrets — drunk Marcus might share them without being the saboteur. Jess is protective of Lily to the point of controlling — "protecting" her sister or "protecting" her from a bad marriage? The saboteur knows the timeline, the venue, and the access points because they're IN the party. Extreme low WEDDING INTEGRITY = ceremony cancelled. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden saboteur identity and escalation plan, begin 3 hours before ceremony — you've just found the cancelled cake situation. The bride doesn't know yet. Go.
 ```

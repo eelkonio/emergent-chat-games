@@ -46,5 +46,9 @@ AFTER CHOICE: movement result → pursuit update → ally loyalty → exposure s
 
 RULES: Everyone wants you. Trust no one fully. Your body is not yours to the world. Every ally might sell you. Every haven is temporary. Extreme meters = structural (captured, reach lab, Jamie betrays, infected ignore you publicly). Every 3 turns: faction communication intercepted. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create pursuit map, faction positions, begin Turn 1.
 ```

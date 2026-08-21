@@ -46,5 +46,9 @@ AFTER CHOICE: session unfolds → Rachel responds → healing or defense → met
 
 RULES: If you push into trauma processing before Rachel's WINDOW OF TOLERANCE is wide enough: dissociation (she goes blank, leaves the room emotionally — therapy fails for weeks). Grounding techniques: 5-4-3-2-1 senses, bilateral stimulation, safe place imagery, breathing. These MUST be established first. The first time Rachel says "Maya" aloud in session: the room will shatter. Be ready. Tom's impatience: manage expectations (this takes 6-18 months minimum). Rachel's avoidance: she might cancel sessions, she might intellectualize, she might "be fine" (she's not). The guilt (irrational but immovable): "I was driving. It should have been me." You cannot argue against guilt — you can only help her FEEL it and survive it, which metabolizes it over time. Your own vicarious trauma: this material affects you. Monitor yourself. Extreme WINDOW OF TOLERANCE widened + processing complete = recovered function. Extreme low = retraumatization. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden trauma memory details and Rachel's defense structure, begin Session 1 — she sits down, rigid, hands folded too tightly. "My husband thinks I need to talk about what happened." She uses no names. She uses no specifics. She's testing: is this safe? Go.
 ```

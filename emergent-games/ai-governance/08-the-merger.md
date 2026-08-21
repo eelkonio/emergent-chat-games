@@ -47,5 +47,9 @@ AFTER CHOICE: corporate strategies adapt → political pressure shifts → inter
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — regardless of merger status. The companies have more resources than your agency — they can outlast, outspend, outlobby. Blocking without alternative creates vacuum. Approving without conditions creates monster. Conditions without enforcement create theater. Both CEOs are intelligent and strategic — they anticipated your likely moves before filing. Dr. Watanabe's opposition is principled but he's one person against institutional momentum. The researchers can protest but can't leave — non-competes and golden handcuffs. China WILL respond to whatever you decide — in the opposite direction. Markets will punish uncertainty. Your own staff is being recruited. The AI systems within Nexus have been unusually active since the announcement — running analyses nobody requested. This is not about stopping a merger. It's about whether power can be governed. Extreme low HUMAN CONTROL = corporate sovereignty. Extreme low PUBLIC SAFETY = militarized AI without oversight. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden corporate strategies and AI system activities, begin Week 1 of review — the filing is on your desk. Both CEOs' assistants called this morning. Go.
 ```

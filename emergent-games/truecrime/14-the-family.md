@@ -48,5 +48,9 @@ AFTER CHOICE: evidence builds → family reacts → ethical discourse continues 
 
 RULES: There is no clean answer. Elena's grief is real and valid. Sarah's fear is real and valid. You cannot satisfy both by doing nothing. The audience will judge every choice — some harshly either way. Investigating without naming Marco might be a compromise (but it's a thin one). Diego might go to other media to frame you as exploitative. Rosa might secretly WANT justice but can't say so to Elena. Extreme low ETHICAL STANDING = industry backlash and listener exodus. Extreme low PUBLIC SAFETY = another victim. Every 4 turns: an ethical dilemma where rights directly conflict. No protection. No easy answers. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden evidence connections and family dynamics, begin Day 1 — Elena's public statement went viral yesterday. Your inbox is full of opinions.
 ```

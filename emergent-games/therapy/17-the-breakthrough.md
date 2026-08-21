@@ -46,5 +46,9 @@ AFTER CHOICE: Elaine responds → authenticity indicators shift → your read cl
 
 RULES: If you push too hard to "test" = you destroy a genuine moment and rupture trust. If you accept too readily = you reinforce performance and miss the real work. If you show too much hope = you contaminate the moment with your own need. If you show nothing = she might feel unseen at her most vulnerable. The PERFECT response: hold it with warmth AND curiosity. Let it breathe. Watch for the body. Listen for the voice. Real breakthrough can survive gentle testing — performance cannot. BREAKTHROUGH AUTHENTICITY tracks: accumulating evidence for genuine vs. performed. It can move in EITHER direction as the session reveals more. If it reaches 75+: this is real — treat it with the reverence it deserves. If it drops below 25: this is performance — and that performance itself becomes the material. Both outcomes are clinically useful. Only one is the moment you hoped for. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden truth about Elaine's breakthrough (is it real? — the game knows, the player must discover), begin at the moment she says "I do to Rachel exactly what my mother did to me" and her eyes fill with tears. The session is live. Go.
 ```

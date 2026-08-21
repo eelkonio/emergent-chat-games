@@ -48,5 +48,9 @@ AFTER CHOICE: match result → advocacy progress → board response → player r
 
 RULES: The fight IS the context — ignoring it doesn't make it go away. Players are individuals: some want to picket, some want to train. The board will make concessions to avoid embarrassment — but only the minimum. Winning the league increases pressure on the board BUT also increases their revenue from your team. Sponsors have opinions on "political" athletes. Young players are watching and choosing clubs based on how women are treated. Extreme low EQUALITY PROGRESS = players leave for clubs that pay more. Extreme low PLAYER ENERGY = burnout and losses. Every 4 turns: a moment where football and equality directly conflict. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden power dynamics and case timeline, begin Matchweek 1 — the equal pay complaint was filed yesterday.
 ```

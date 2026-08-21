@@ -46,5 +46,9 @@ AFTER CHOICE: James responds → ethical landscape clarifies → relationship sh
 
 RULES: You informed James of confidentiality limits at Session 1 (standard practice). He may or may not remember. Reminding him NOW (before he says more) is ethical but may shut him down permanently. Letting him continue without reminder: gets you more information but may create a situation you can't unknow. The key determination: ONGOING risk. If James is genuinely reformed (8 sessions of real work) and the incident was 6 months ago with no repetition: no duty to warn. If James shows ANY sign of ongoing danger toward the neighbor: duty to warn activates. Your CONSULTATION: you can (and should) consult a colleague or ethics board — but not immediately, not in front of James. This session must end safely regardless of what you decide later. Extreme ETHICAL CLARITY = you make the right call and live with it. Extreme low = paralysis or wrong decision. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden disclosure details and ongoing risk level, begin the moment James says "I need to tell you something real" — he's looking at you with the expression of someone about to either be saved or destroyed by honesty. Go.
 ```

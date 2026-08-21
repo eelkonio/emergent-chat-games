@@ -36,5 +36,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: Deadline is real — MegaScale will leave. Partial commitments may buy time but reduce leverage. Water data will arrive but possibly too late. If WATER RESOURCES collapses — ecological and agricultural crisis. If COMMUNITY SUPPORT splits — recall petition. If ECONOMIC GROWTH stalls too long — brain drain accelerates. Every 4 turns: 3 fictional items (aquifer study excerpt, MegaScale internal email leak, town hall transcript). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

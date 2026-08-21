@@ -48,5 +48,9 @@ AFTER CHOICE: show continues → Voss reacts → audience energy → security st
 
 RULES: If you announce "the suspect is here," you might cause: panic (500 people rushing exits), Voss fleeing (evidence of consciousness of guilt?), Voss escalating (he came for a reason), or Rachel's breakdown on stage. If you continue performing, Rachel remains unknowingly exposed. There MIGHT be a way to get her offstage naturally (break, pretend technical issue). Security can be alerted IF you can reach them without alerting Voss. He might leave. He might confront. He might just... watch. The uncertainty is the weapon. Extreme low WITNESS SAFETY = Rachel is threatened. Extreme AUDIENCE AWARENESS = panic. Every 2 turns: Voss does something (shifts, stands, moves toward stage?). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Voss intention and theater layout, begin Minute 0 — you just spotted him. The mic is hot. Rachel is mid-sentence. Go.
 ```

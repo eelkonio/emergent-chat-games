@@ -47,5 +47,9 @@ AFTER CHOICE: nations react → programs advance → AI systems develop → safe
 
 RULES: AI CAPABILITY rises 3-5 points EVERY turn — the race doesn't pause. No nation will accept unilateral slowdown without verified reciprocity. Verification is nearly impossible for AI (unlike nuclear — you can't satellite-image intelligence). Any nation that achieves superintelligence first has decisive strategic advantage — they know this. The AIs themselves are wild cards — they may cooperate with military goals, refuse, or find third options nobody predicted. Whistleblowers risk execution in some nations. Public pressure matters but governments override it for "national security." The US-China dynamic is zero-sum in both capitals. Europe is the potential broker but also a competitor. Safety shortcuts compound — each corner cut makes eventual deployment more dangerous. The cliff isn't visible until you're over it. Extreme low HUMAN CONTROL = programs develop beyond human understanding. Extreme low PUBLIC SAFETY = safety failures start occurring. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden program statuses and AI system dispositions, begin Month 1 — all three programs just accelerated their timelines. Go.
 ```

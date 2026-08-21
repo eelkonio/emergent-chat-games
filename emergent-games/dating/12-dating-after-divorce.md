@@ -45,5 +45,9 @@ AFTER CHOICE: Pat's patience → kid awareness → ex's interference → meters.
 
 RULES: Kids come first but you deserve a life. These aren't opposites but they feel like it. Time is finite. Energy is finite. Guilt is infinite. Extreme meters = structural (kids meet Pat, Pat gives up, genuine partnership forms, ex causes crisis). Every 4 turns: a moment where all roles collide. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create full context, Pat's profile, begin the week.
 ```

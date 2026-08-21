@@ -47,5 +47,9 @@ AFTER CHOICE: communication attempt → understanding or misunderstanding → pu
 
 RULES: Room B's "wrong answer" person is a problem — they confidently give incorrect information. But you can't SEE who's speaking (voices only). Dana is reliable but might be wrong about HER room's details. The Quiet One might have critical info but won't volunteer. Kenji interrupting during vent time creates confusion for Room B. Agreeing on a communication PROTOCOL early saves time later. Extreme COMMUNICATION breakdowns = impossible to solve. Extreme CROSS-ROOM TRUST issues = Room B stops sharing. Every 2 turns: a puzzle that requires PRECISE information transfer. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden room layouts (yours visible, theirs unknown) and puzzle split, begin at 60:00 — the vent opens. You hear three voices. "Hello? Can you hear us?"
 ```

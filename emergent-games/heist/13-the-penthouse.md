@@ -46,5 +46,9 @@ AFTER CHOICE: ascent/descent progress → detection risk → security response �
 
 RULES: 58 floors up, 58 floors down. Every floor is a gauntlet. Sark is awake. His team is good. Extreme meters = structural (trapped between floors, Sark encountered, security locks building, elevator used as escape). Every 10 floors: new security tier. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create building security map, route options, begin ground floor.
 ```

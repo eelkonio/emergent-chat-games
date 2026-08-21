@@ -47,5 +47,9 @@ AFTER CHOICE: food goes out → guests react → influencers post → investor w
 
 RULES: A great pop-up builds momentum — each course raises the stakes. A bad course doesn't end the night but kills momentum (hard to recover). Vasseur's facial expression will either haunt or liberate you. Diana's investment depends on BOTH the food quality and the CONCEPT (can this scale?). The influencer posts are PUBLIC and IMMEDIATE — you can't control the narrative once it's live. Extreme MOMENTUM = the night becomes legendary (bookings, press, investment). Extreme low = the night is "nice" and forgotten. Every course: a decision between safe-impressive and risky-transcendent. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden guest expectations and menu plan, begin 1 hour before service — final prep, final doubts.
 ```

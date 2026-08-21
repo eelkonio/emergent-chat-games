@@ -48,5 +48,9 @@ AFTER CHOICE: development happens → availability changes → results (if match
 
 RULES: Players have LIVES outside cricket. They might miss training for work. They might get injured with no physio budget. Singh might leave for a professional contract — good for him, devastating for you. The ICC is bureaucratic and favors established nations. Small margins in qualification — one bad game and it's over. But upsets happen. David beats Goliath. Sometimes. Extreme low FINANCES = can't travel to tournaments. Extreme MORALE = the spirit that beats talent. Every 4 turns: a crisis (player loss, funding cut, scheduling nightmare). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden squad profiles and qualification pathway, begin Month 1 — 18 months to go.
 ```

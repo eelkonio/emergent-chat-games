@@ -48,5 +48,9 @@ AFTER CHOICE: food goes out → tables react → team adjusts → pressure build
 
 RULES: Michelin inspectors visit MULTIPLE times before awarding/removing stars. Tonight might be one of three visits. Overthinking leads to over-seasoning, over-plating, losing the soul. The commis might produce something brilliant OR might fall apart on the chocolate soufflé. Marcus overcooking under pressure is YOUR problem to manage. And Table 3 (the VIP regular) ALSO deserves a perfect meal — stars aren't won by impressing inspectors while neglecting regulars. Extreme low TEAM COMPOSURE = kitchen meltdown during service. Extreme low CONSISTENCY = instant star risk. Every 2 turns: a service crisis (timing, dietary emergency, kitchen accident). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden inspector identity and table profiles, begin 7:00 PM — first courses going out.
 ```

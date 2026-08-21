@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Danny reacts or doesn't → evidence accumulate
 
 RULES: Danny is adaptive — if he IS undercover, he's trained to pass tests. If he ISN'T, your testing will make a loyal guy feel suspected and potentially disloyal. Paranoia is as dangerous as naivety. Every 4 turns: you receive evidence that either confirms or contradicts your suspicion — but nothing conclusive. Extreme meters = structural (confirmed UC eliminated, wrong man killed, Danny flips the whole crew, you confront and he admits/denies, your paranoia destroys family trust, he disappears one night). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and evidence board, begin Week 1.
 ```

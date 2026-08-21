@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → paths advance → identity questioned → relation
 
 RULES: The game's tension is PHILOSOPHICAL, not just logistical. Every turn, the player confronts: what is freedom? Is it physical (being outside) or moral (being known as innocent)? Mia visits and says "I know you didn't do it, Dad" — and that's enough. Or is it? The escape is REAL and AVAILABLE (Rico's plan works — this isn't a trap). The legal path is REAL but SLOW (Whitfield is competent, the DNA evidence is strong, but courts move glacially). The media path is REAL but RISKY (Kade can shift public opinion, but attention also brings scrutiny). The actual killer can be confronted — but you're in prison. Rico reaching him outside is possible but Rico has his own motivations. Self-Identity meter: if it drops below 30, you begin to wonder if maybe you DID do it (you didn't — but 4 years of everyone saying you did erodes certainty). Extreme PATH A commitment = escape soon. Extreme PATH B commitment = years of waiting. PATH C = the masterwork. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden legal timeline and escape method details, begin the week Rico makes his offer — the escape is possible, the appeal was denied again yesterday. Your daughter visits Saturday. What matters most? Go.
 ```

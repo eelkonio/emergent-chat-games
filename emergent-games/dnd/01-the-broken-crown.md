@@ -55,5 +55,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters.
 
 RULES: No claimant can be easily eliminated — each has deep support. Compromise exists but costs. Violence begets violence. Every 4 turns: 3 fictional items (intercepted raven scroll, tavern rumor from the borderlands, vision from the court seer). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

@@ -45,5 +45,9 @@ AFTER CHOICE: their reaction (often delayed) → your emotional spiral → frien
 
 RULES: Mixed signals are real. People mean two things at once. Protection and connection are opposites. Extreme meters = structural (they DTR first, you break, they pull away completely, accidental "I love you"). Every 4 turns: a moment of real intimacy OR real distance. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create River's hidden emotional profile, begin current week.
 ```

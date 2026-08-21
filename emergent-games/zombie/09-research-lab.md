@@ -46,5 +46,9 @@ AFTER CHOICE: containment math → ARIA response → team morale → research pr
 
 RULES: Science takes time. Shortcuts risk contamination. AI is logical not moral. Data is priceless. Extreme meters = structural (self-destruct activated, ARIA goes hostile, cure breakthrough, total breach). Every 3 turns: ARIA system log reveals something. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create lab layout, agent profiles, ARIA parameters, begin Turn 1.
 ```

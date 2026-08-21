@@ -48,5 +48,9 @@ AFTER CHOICE: their response → family reaction → street consequence → heat
 
 RULES: The family rewards earners. Violence draws heat. Ambition attracts suspicion. Loyalty is tested through sacrifice. Every 4 turns: your capo gives you a job that tests your limits — moral, physical, or both. Extreme meters = structural (rising star, federal indictment, betrayed by family, killed over misunderstanding, become a capo, turn informant). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and street landscape, begin Week 1.
 ```

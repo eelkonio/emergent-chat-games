@@ -48,5 +48,9 @@ AFTER CHOICE: their response → both sides react → violence clock ticks → f
 
 RULES: Neither side is purely right or wrong. The King's pride is an obstacle. The rebels' unity is fragile. Every compromise costs someone something. Every 4 turns: a violent incident threatens to collapse negotiations entirely. Extreme meters = structural (peace with honor, civil war, rebel victory, royal massacre, foreign intervention, your own defection). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and political/military landscape, begin Week 1.
 ```

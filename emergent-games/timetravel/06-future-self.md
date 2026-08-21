@@ -48,5 +48,9 @@ AFTER CHOICE: events unfold → message accuracy becomes clear → relationships
 
 RULES: Future-you has imperfect memory of "now" — details may be wrong while direction is right. Following all messages makes you a puppet. Ignoring all messages might kill you. The messages CHANGE based on your choices — future-you is reacting to a shifting timeline. Some messages are emotionally manipulative. Daniel might be dangerous OR future-you might be lying. Extreme TRUST = complete surrender of agency. Extreme PARANOIA = isolation. Every 4 turns: a message is provably impossible to have come from you. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent profiles and message timeline, begin with Message 5 arriving now.
 ```

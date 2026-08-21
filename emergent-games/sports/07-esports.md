@@ -48,5 +48,9 @@ AFTER CHOICE: scrim results → streaming happens or doesn't → org reacts → 
 
 RULES: These are young people with developing brains making career-ending decisions at 20. Burnout is real and hides behind bravado. The org sees them as replaceable. Roster changes mid-qualifier are devastating but sometimes necessary. Online drama (Twitter, Reddit) affects real performance. The team psychologist helps IF players engage — forcing it backfires. Extreme PLAYER BURNOUT = breakdown/retirement. Extreme low ORG SATISFACTION = roster dissolution. Every 3 turns: an online incident (leaked DMs, toxic clip, community drama). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden player mental health profiles and performance data, begin Week 1 — 6 weeks to qualifier.
 ```

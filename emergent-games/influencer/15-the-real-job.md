@@ -48,5 +48,9 @@ AFTER CHOICE: their response → family dynamics → financial situation → cre
 
 RULES: Creator income is volatile. One viral video can change months. One dry spell can break you. Your family loves you — their pressure comes from fear, not contempt. The "real job" isn't failure — but it might feel like death. Every 4 turns: a financial or validation crisis (big opportunity, rent emergency, family confrontation, unexpected income, or doubt spiral). Extreme meters = structural (creator career stabilized, took the job and mourned, hybrid solution, family finally understood, creative breakthrough made it undeniable, had to admit it wasn't working). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create financial profile and family landscape, begin Week 1.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: their response → chemistry or not → your scorecard decision �
 
 RULES: 8 minutes isn't enough for anything — except a spark. First impressions lie. Quiet people hide depths. Charming people hide shallows. Extreme meters = structural (walk out early, genuine thunderbolt, someone recognizes you, panic attack in bathroom). After round 10: the matches revealed. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create all 10 date profiles (hidden), begin Round 1.
 ```

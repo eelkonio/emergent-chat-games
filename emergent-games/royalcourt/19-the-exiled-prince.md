@@ -48,5 +48,9 @@ AFTER CHOICE: their response → uncle's countermoves → loyalist reliability �
 
 RULES: Loyalists have their own agendas — they're not fighting for you, they're fighting for what you represent. Your uncle is not universally hated. Foreign backers have foreign interests. Every 4 turns: a military or political crisis forces you to choose between the prince they want you to be and the person you actually are. Extreme meters = structural (throne reclaimed, defeated and killed, throne won but at terrible cost, uncle offers terms, betrayed by allies, become what your uncle was). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and campaign status, begin Week 1.
 ```

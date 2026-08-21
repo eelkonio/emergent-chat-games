@@ -48,5 +48,9 @@ AFTER CHOICE: their response → sibling dynamics shift → each child's experie
 
 RULES: Fairness ≠ equality. Same treatment of different children is unfair to both. Comparison is poison but unavoidable. They WILL compete for your attention — the question is whether attention feels scarce or abundant. Every 4 turns: an event that either bonds or breaks them (shared challenge, friendship test, one child's achievement/crisis, moment of genuine brotherhood). Extreme meters = structural (genuine brotherhood emerges, permanent rift, one child feels chronically overlooked, parents find balance, sibling love expressed in their own way, intervention needed). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and family dynamics, begin Week 1.
 ```

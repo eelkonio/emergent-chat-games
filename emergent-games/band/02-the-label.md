@@ -47,5 +47,9 @@ AFTER CHOICE: hours pass → label responds → band reacts → alternatives dev
 
 RULES: The label WILL negotiate — but they have limits (they won't give up masters or drop below 60% recording ownership). You can win: better advance, lower tour take, sunset clause (masters revert after 15 years), creative control clause (final say on singles), or reduced option period. Each negotiation point costs time. Jake's breaking point: if you haven't signed by hour 60, he takes a meeting with Danny alone. Robin's breaking point: if you sign anything without creative control, she walks. Mia's quiet position: she'll support whatever you decide — but her silence is its own message. The indie alternative is REAL but requires a separate meeting and their offer is smaller. The label's "other band" pressure: 50% bluff. But you don't know which 50%. Extreme favorable DEAL TERMS + sign = good career start. Extreme low + sign = trapped. Walk away = freedom + poverty + maybe nothing. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden label negotiation boundaries and band breaking points, begin the moment you walk out of the meeting with the contract in your bag — 72 hours. Call a band meeting. Go.
 ```

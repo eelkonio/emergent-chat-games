@@ -48,5 +48,9 @@ AFTER CHOICE: their response → court reaction → family pressure → gossip n
 
 RULES: Alliances shift. Compliments are weapons. The wrong word at dinner can undo a month of work. Your mother will sacrifice your happiness for security. Every 4 turns: a scandal rocks the court and reshuffles all dynamics. Extreme meters = structural (brilliant match, social ruin, elopement, family disgrace, royal intervention). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and court setting, begin Week 1.
 ```

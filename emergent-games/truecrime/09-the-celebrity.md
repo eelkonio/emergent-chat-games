@@ -48,5 +48,9 @@ AFTER CHOICE: investigation → estate responds → fans act → legal landscape
 
 RULES: Castellano's lawyers have infinite resources — they can bury you in litigation even without merit. Simone's recordings are crucial but she has her OWN financial motive (divorce settlement). The hotel footage might be damning — IF you can get it before it's "lost." Dez knows the truth but Castellano controls his future recordings. The fans will find things BUT will also harass innocents. The NYPD won't reopen without overwhelming evidence. Extreme ESTATE RESISTANCE = financial ruin through legal fees. Extreme uncontrolled FAN ARMY = criminal charges against your listeners. Every 4 turns: a piece of evidence emerges or is destroyed. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden truth about Jax's death and evidence locations, begin Day 1 — Simone is sending the recordings.
 ```

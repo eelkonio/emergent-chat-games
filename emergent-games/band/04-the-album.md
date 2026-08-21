@@ -46,5 +46,9 @@ AFTER CHOICE: session progresses → song develops → opinions form → budget 
 
 RULES: The budget is REAL — run out and the album goes out half-mixed (sounds amateur). Typical song takes 2-3 days (tracking, overdubs, edits). 30 days / 12 songs = 2.5 days average. NO room for scrapping and restarting. Marcus will push to scrap takes that are "almost good" — his perfectionism is both gift and curse. The label's single requirement: ignore it and they won't promote the album. Serve it too much and you compromise artistry. Mia's ultimatum (implicit): if neither of her songs makes the album, she questions her place in the band. Robin's experiments: might produce the album's best track or its worst. Jake's instincts about energy are usually RIGHT but his taste is narrow. ALBUM COHESION requires variety — dynamics, tempo shifts, emotional range. A great album tells a story from track 1 to track 12. Extreme high ALBUM COHESION + budget managed = masterpiece. Extreme low = forgettable. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden tracklist rankings and producer's vision, begin Day 1 in the studio — Marcus says "play me your top 3 songs." Which three do you play first? Go.
 ```

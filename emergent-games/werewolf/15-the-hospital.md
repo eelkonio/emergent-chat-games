@@ -47,5 +47,9 @@ AFTER CHOICE: shift passes → killer acts or waits → patients live or die →
 
 RULES: Potassium chloride is standard medication — its presence on the ward is normal. Drawing extra is the clue but records can be falsified. The killer has been doing this for months — earlier deaths were attributed to natural causes (these are sick patients, they DO die). Your cover as "quality review" holds until you ask too many pointed questions. Okafor noticed something — she's your best inside source but approaching her tips your hand. The union will fight any nurse being observed without cause. Patients continue to be at risk — every night you don't solve this, another might die. You can request NO night shift for suspected nurses — but that requires cause and alerts the killer. The killer's psychology: they believe they're HELPING (mercy killing) or they've dissociated entirely (power). Both are dangerous when cornered. Extreme PATIENT RISK + night shift = another death. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden killer identity and psychological profile, begin your first night "observing quality protocols" on Ward C — the nurses know you're here. They think it's routine. Go.
 ```

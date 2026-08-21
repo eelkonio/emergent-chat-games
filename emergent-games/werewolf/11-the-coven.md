@@ -47,5 +47,9 @@ AFTER CHOICE: day passes → corruption spreads → sisters act → magic shifts
 
 RULES: The shared bond is both strength and vulnerability — it connects you but also transmits corruption. Testing someone's magical signature requires their consent (or deception) and is considered a profound violation of trust. If you test an innocent sister: the bond BREAKS with her permanently. Sage's divination SHOULD be able to find the truth — but her visions are being clouded (by the corrupted sister? by the dark force? by her own fear?). Hazel is vulnerable to influence — who's been spending time with her? Willow's empathy is real but not precise — "something cold" could be corruption or grief or fear. The dark force summoned through the blood circle is now a separate agent — it feeds on distrust and fear within the coven. Fighting while suspicious of each other empowers it. Unity weakens it — but unity with the corrupted sister included strengthens her. Extreme low BOND INTEGRITY = coven dissolution. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden corrupted sister identity and her dark patron's nature, begin the morning after you found the blood circle — you've called the coven to gather at dusk. Five days until the moon is full. Go.
 ```

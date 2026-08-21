@@ -46,5 +46,9 @@ AFTER CHOICE: night progresses → dig result → noise check → disposal outco
 
 RULES: Sound travels. Wet clay smells different than dry concrete. Your fingernails are getting destroyed — guards notice hands. Darnell WILL eventually notice or confront you. Kovacs knows something is happening in Block B — he always does. Cell inspections are semi-random but increase if any anomaly is reported ANYWHERE in the block. Extreme TUNNEL LENGTH without adequate DETECTION RISK management = discovery. The maintenance crew's quarterly inspection WILL find the tunnel if it crosses their pipe corridor. Weather matters — rain masks sound, cold makes clay harder. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden guard schedules and inmate awareness levels, begin Day 1 — you've just pried up the floor tile for the first time. The concrete behind is thin. Your spoon is ready. Go.
 ```

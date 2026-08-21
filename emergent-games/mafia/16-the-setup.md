@@ -48,5 +48,9 @@ AFTER CHOICE: their response → boss's patience → frame tightens or cracks �
 
 RULES: Time is against you. Every day the boss doesn't hear a convincing alternative, the evidence solidifies into truth. The person framing you is still active — still adding details, still poisoning ears. Every 4 turns (every 2 days): a new piece of manufactured evidence appears. Extreme meters = structural (proved innocent and frame-setter punished, killed despite innocence, frame the frame-setter back, flee the family forever, the boss believes you but doesn't care, you discover something worse than your own frame). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and evidence board, begin Day 1.
 ```

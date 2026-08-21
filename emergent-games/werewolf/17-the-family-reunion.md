@@ -47,5 +47,9 @@ AFTER CHOICE: time passes → meals happen → doses given → family interacts 
 
 RULES: Thallium is colorless and tasteless — detectable only with specific lab tests (you'd need to send a sample). The delivery method is daily and consistent — something Eleanor always consumes (morning tea is most likely, but could be medication, a supplement, or a specific food). Interrupting the delivery this weekend (switching tea brands, watching medication) buys time but doesn't prove who. Richard's financial desperation is PUBLIC — but the most obvious suspect isn't always the guilty one. Margaret's medication access is DAILY — she has the means every single day. David's sudden return to the family is suspicious in timing. Lisa's exhaustion could mask resentment. The family lawyer knows who benefits and when — the will change Eleanor mentioned would REMOVE one beneficiary. Who? Grandmother herself might know something — she's confused but has moments of clarity. Her eyes follow someone in the room with fear. Extreme low GRANDMOTHER'S HEALTH = medical emergency. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden poisoner identity and delivery method, begin Friday evening — the family has gathered for dinner. Grandmother is at the head of the table, hand trembling around her glass. Who poured that drink? Go.
 ```

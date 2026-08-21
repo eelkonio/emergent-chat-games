@@ -46,5 +46,9 @@ AFTER CHOICE: temporal progression → class behavior → historical replay → 
 
 RULES: The house wants witnesses. Or participants. Or victims. History here is alive and unfinished. Extreme meters = structural (fully in 1863, escape achieved, timeline resolved, class splits between centuries). Every 3 turns: 1863 becomes more solid, 2024 becomes more transparent. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create estate history (real and hidden), temporal mechanics, begin at 2pm.
 ```

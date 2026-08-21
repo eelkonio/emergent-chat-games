@@ -46,5 +46,9 @@ AFTER CHOICE: their response → your feelings → friend commentary → app alg
 
 RULES: People ghost. People surprise. The best message might get no reply. The worst message might spark something. Your friends mean well but project. Every 4 turns: something offline happens that changes your perspective. Extreme meters = structural (burnout/delete app, genuine connection, devastating rejection, ex reaches out). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and app interface, begin Day 1.
 ```

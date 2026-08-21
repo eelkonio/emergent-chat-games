@@ -48,5 +48,9 @@ AFTER CHOICE: their response → infection status → port awareness → fuel bu
 
 RULES: The disease progresses whether you decide or not. Every day you don't declare is a day someone might die — your crew, or populations you dock with. Fuel limits your options physically. Doc Chen is honest about what she can and can't do. Every 4 turns: medical situation escalates (new symptom, crew member critical, infection reaches you) or external situation shifts (quarantine expands, cure discovered, another ship in same position). Extreme meters = structural (cured and cleared, crew member dies, quarantine impound, spread the disease, found a frontier doctor, classified as plague ship permanently). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and medical status, begin Day 1 (first symptoms appearing).
 ```

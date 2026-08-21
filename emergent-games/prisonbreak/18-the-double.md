@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → Marco prepares outside → details resolved → vis
 
 RULES: The visitor badge photo is the key vulnerability — taken on Marco's first visit 8 months ago, low quality, face-only. If exit security COMPARES badge photo to current face: it should pass (you look like him). The scar: your left forearm has a 3-inch scar Marco doesn't. Long sleeves solve this — but in summer? The bathroom swap: both must enter the bathroom zone at the same time without it looking coordinated. Kelly counts: 1 visitor entered bathroom, 1 visitor must exit. 1 inmate entered (with escort), 1 inmate must exit. If the numbers don't match = immediate investigation. The clothes swap must be FAST (under 3 minutes in adjoining stalls). Marco needs your prison clothes, you need his civilian clothes. The badge must transfer. The visiting room exit: you walk out with other departing visitors. Don't rush. Don't look back. Ramirez processes 50 visitors on busy days — will she look closely? CO Briggs: if she sees "you" in the unit after the swap, will she sense something? Extreme SWAP QUALITY = clean exit. Extreme low = exit security stops you. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden security protocols and physical comparison details, begin preparation — you just had THE conversation with Marco. He said yes. Now make it work. Go.
 ```

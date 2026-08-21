@@ -45,5 +45,9 @@ AFTER CHOICE: Drew's experience → grief trajectory → friend reaction → met
 
 RULES: Healing isn't linear. New people aren't medicine. But connection IS healing. The tension is real and doesn't have clean answers. Extreme meters = structural (Drew finds out about recent breakup, genuine falling, ex reaches out, emotional collapse). Every 4 turns: a moment of pure present joy OR pure past grief. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Drew's profile, grief profile, begin pre-second-date.
 ```

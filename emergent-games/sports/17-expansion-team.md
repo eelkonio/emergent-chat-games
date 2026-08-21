@@ -48,5 +48,9 @@ AFTER CHOICE: roster develops → community reacts → brand forms → stadium p
 
 RULES: You can't buy authenticity. You can't rush culture. But you CAN'T be boring — expansion teams that don't excite die slowly. The USL fans might be your best asset IF you win them over (or your worst enemy). The DP signing defines your ambition level publicly. The coach hire defines your play style publicly. The stadium's surrounding area defines your accessibility. Extreme low COMMUNITY CONNECTION = empty stadium. Extreme low COMPETITIVE READINESS = embarrassing first season. Every 4 turns: a make-or-break decision that the city will remember forever. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden city demographics and market analysis, begin Month 1 — the franchise was announced yesterday.
 ```

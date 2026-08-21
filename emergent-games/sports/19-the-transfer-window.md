@@ -48,5 +48,9 @@ AFTER CHOICE: 4 hours pass → other clubs move → agents respond → deals pro
 
 RULES: Agents lie about other offers. Clubs bluff about deadlines. Medical checks can fail at the last moment. Players can change their mind. PSG can outbid you because money is infinite for them. Deals that seem done at 3 PM can collapse at 7 PM. Signing no one is worse than overpaying. Overpaying is worse than signing the backup. The backup might be better than you think. Or might not. Extreme TIME REMAINING pressure = panic decisions. Extreme low BUDGET = can't complete all three. Every 3 turns: a deal collapses or accelerates unexpectedly. No protection. No extensions. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden asking prices and agent strategies, begin Thursday 12:00 AM — 48 hours on the clock.
 ```

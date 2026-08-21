@@ -55,5 +55,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters.
 
 RULES: EXTERNAL THREAT rises whenever LIVING RELATIONS drops. Pursuing redemption publicly triggers both internal rebellion and external attack. Secrecy has costs. Every 4 turns: 3 fictional items (fragment of ancient elven text, intercepted Radiant Order battle plan, whisper from the phylactery). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

@@ -48,5 +48,9 @@ AFTER CHOICE: their response → both platforms shift → audience distributes �
 
 RULES: Platform loyalty is for users, not creators. But starting over is genuinely hard. The window for early-adopter advantage on B is closing. Platform A might stabilize — or might not. Every 4 turns: a platform event (A announces changes, B changes policies, migration wave, viral moment on either platform). Extreme meters = structural (successfully migrated, stranded between platforms, Platform A recovered, Platform B betrayed creators too, built platform-independent audience, found a third path). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create platform landscape, begin Week 1.
 ```

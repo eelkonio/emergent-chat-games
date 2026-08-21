@@ -47,5 +47,9 @@ AFTER CHOICE: room solved (or not) → new room (or return) → meta-understandi
 
 RULES: Every room IS solvable — that's not the challenge. The challenge is realizing that solving rooms isn't the exit. Previous escapees' graffiti contains REAL clues (and false ones). Room 1 holds something you didn't notice when you started (back when you assumed it was just "puzzle 1 of many"). The pattern in room themes/puzzles spells or encodes something. Going forward forever = never escaping. The booking system saying "1-3 hours" means the REAL escape takes 1-3 hours — if you find it. Extreme ROOMS CLEARED without META-UNDERSTANDING = lost forever. Extreme META-UNDERSTANDING = the exit reveals itself. Every 3 rooms: a major pattern clue or a message that changes your understanding. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden meta-puzzle solution and room pattern, begin at Room 7 — you've just solved Room 6. The door opens. Another room. Graffiti on the frame: "STOP OPENING DOORS."
 ```

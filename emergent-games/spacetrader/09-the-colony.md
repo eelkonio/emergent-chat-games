@@ -48,5 +48,9 @@ AFTER CHOICE: their response → colony reacts → your financial status → Con
 
 RULES: The colony's need is real and urgent. Your need for credits is real and urgent. Neither cancels the other. Consolidated has legal leverage but not moral authority. Creative solutions exist but carry risk. Every 4 turns: the colony's situation deteriorates (medical emergency, supply failure, population despair) raising the moral pressure. Extreme meters = structural (saved the colony at personal cost, left and they survived, left and they didn't, found a sustainable solution, became their permanent trader, Consolidated retaliates). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and colony status, begin Day 1 (arrival at Hawthorne).
 ```

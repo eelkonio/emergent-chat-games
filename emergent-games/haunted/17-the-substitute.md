@@ -46,5 +46,9 @@ AFTER CHOICE: entity awareness of you → social response → investigation prog
 
 RULES: The entity doesn't need to be evil to be wrong. It might not understand it's displaced someone. It might not know it's not human. But Mr. Vasquez is missing. Extreme meters = structural (Vasquez found, entity confronted, entity achieves permanent placement, the truth about what it IS). Every 4 turns: Ms. Lane does something subtly impossible. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create entity mechanics, Mr. Vasquez trail, begin a Monday.
 ```

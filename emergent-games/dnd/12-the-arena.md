@@ -56,5 +56,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: You cannot simply fight your way out — the city has armies. Crassus is cruel but not stupid. The crowd is powerful but must be cultivated. Every 4 turns: 3 fictional items (note smuggled into your cell, overheard conversation between owners, crowd graffiti about you). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

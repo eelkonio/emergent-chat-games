@@ -48,5 +48,9 @@ AFTER CHOICE: their response → family dynamics shift → crew's understanding 
 
 RULES: You can't undo twelve years. The people you left had lives without you. Resentment and love coexist in families. Your crew is your current family — how do they fit with your old one? Every 4 turns: a moment of genuine connection or genuine rupture that defines whether home is a place you can return to. Extreme meters = structural (reconciled and moved on, stayed home, left again with closure, left again without it, brought family into the black, home destroyed what you built in the stars). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and home landscape, begin Day 1 (docking at Proxima).
 ```

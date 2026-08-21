@@ -47,5 +47,9 @@ AFTER CHOICE: customers vote with feet → rivals respond → permits shift → 
 
 RULES: Location is 80% of food truck success. Great food in the wrong spot = no customers. The permitting system is political — knowing the right people helps. Miguel's accusation has SOME merit and NO merit simultaneously. Jake has money to outlast you. Priya could be an ally against Jake but needs something in return. The night market is the real prize — Saturday night revenue equals Monday-Thursday combined. Extreme TERRITORY CONTROL = dominance. Extreme RIVAL TENSION = vandalism/sabotage. Every 4 turns: a food event or market opportunity that changes everything. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden competitor strategies and territory map, begin Day 1 — Monday morning, where do you set up?
 ```

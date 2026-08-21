@@ -48,5 +48,9 @@ AFTER CHOICE: their response → families react → violence continues or pauses
 
 RULES: Each family wants the truce on THEIR terms. A truce that favors one side isn't peace — it's surrender dressed up. Young soldiers don't always obey. The FBI benefits from the war. Every 4 turns: a violent incident threatens to collapse negotiations entirely. Extreme meters = structural (lasting peace, war resumes worse, one family eliminated, FBI sweeps everyone during chaos, you're killed as the convenient scapegoat, a different kind of resolution entirely). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and conflict map, begin Week 1.
 ```

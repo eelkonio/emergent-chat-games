@@ -45,5 +45,9 @@ AFTER CHOICE: Kai's response → your emotional processing → relationship math
 
 RULES: No answer is wrong. Saying no is valid. Saying yes is valid. Saying "I need time" is valid. But avoidance isn't an answer. Extreme meters = structural (try it and crisis, hard no and consequences, genuine mutual exploration, someone already exists). Every 4 turns: a real conversation that changes understanding. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Kai's hidden profile, begin the night of the question.
 ```

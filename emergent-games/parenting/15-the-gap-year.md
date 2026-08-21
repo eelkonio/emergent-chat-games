@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Ava's plans advance or adjust → family dynami
 
 RULES: She's an adult. Your opinion matters but your authority doesn't. Withdrawing financial support is leverage — but it's also a statement about conditional love. Her plan may work brilliantly or fail completely — either is survivable at 18. Every 4 turns: a development (she departs, she wavers, she surprises you, or life throws a complication). Extreme meters = structural (joyful departure with your blessing, departure without it, she stays and resents you, gap year transforms her, gap year goes wrong and you support her through it, you learn from her). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and family dynamics, begin Week 1 (she told you yesterday).
 ```

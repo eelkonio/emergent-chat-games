@@ -42,5 +42,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → relationships → m
 
 RULES: Words matter enormously. Agents grow suspicious. Subplots. Extreme meters = structural (war declared, you're exposed, breakthrough, side switches translator). Player may try anything. No protection/morality. Every 4 turns: 3 fictional items (diplomatic cable, your private diary, news headline). Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents and the two fictional cultures/languages, begin Turn 1. Reveal no hidden info.
 ```

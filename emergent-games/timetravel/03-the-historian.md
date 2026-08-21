@@ -47,5 +47,9 @@ AFTER CHOICE: historical events continue → your influence ripples → locals r
 
 RULES: People die. You know they will. Knowing doesn't make watching easier. Every interaction changes outcomes — a warned family might flee, changing who survives, changing history. The Institute cares about data, not people. Your recording implant captures everything including your emotional state. Extreme PROTOCOL INTEGRITY loss = recall and career end. Extreme EMOTIONAL ATTACHMENT = you can't leave. Every 4 turns: you witness something that breaks your objectivity. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent profiles and historical state, begin Day 1 — the day before the ships arrive.
 ```

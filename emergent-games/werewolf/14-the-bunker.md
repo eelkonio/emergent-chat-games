@@ -47,5 +47,9 @@ AFTER CHOICE: hours pass → symptoms develop or don't → group reacts → para
 
 RULES: The pathogen is real and deadly but incubation means uncertainty. Carter's short decontamination is the leading theory but the bunker's entrance seal wasn't perfect for 3 minutes — others may have been exposed. Symptoms: dry cough (common in bunker), nosebleed (dry air does this), fever (stress does this too). DEFINITIVE symptoms (lesions, high fever, bloody cough) appear at 72+ hours — by which point airborne spread is guaranteed. Hayes will take unilateral action if you don't: he'll airlock the most suspicious person regardless of testing. Max will physically block testing of his father. Webb's constant symptom reports create noise that hides real signals. Okoye's air shutdown is a 4-hour clock — use it as diagnostic tool (symptoms develop faster in stale air) or as last resort. Extreme GROUP SURVIVAL at 0 = either infection kills everyone or Hayes kills the wrong people. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden infection status and symptom timeline, begin 72 hours after Carter's rushed entry — someone coughed at breakfast. Then someone else. Is this the beginning? Go.
 ```

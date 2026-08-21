@@ -48,5 +48,9 @@ AFTER CHOICE: cases connect → jurisdictions cooperate or resist → geographic
 
 RULES: Each jurisdiction thinks their case is THEIR case. Sharing requires ego management. The geographic profile narrows but can't identify without additional evidence. If the perpetrator is still active, the corridor is still dangerous. Cold case DNA might exist in old evidence — IF the counties preserved it. The rest stop employee seeing things and not reporting is different from the rest stop employee DOING things. Extreme PATTERN CLARITY = FBI involvement. Extreme low JURISDICTION COOPERATION = fragmented investigation continues. Every 4 turns: a new case fits the pattern — or one you included doesn't. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden perpetrator and complete victim map, begin Week 1 — your geographic analysis is done. Time to make calls.
 ```

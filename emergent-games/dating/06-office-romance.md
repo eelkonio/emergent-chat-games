@@ -45,5 +45,9 @@ AFTER CHOICE: Jamie's response → office awareness → professional consequence
 
 RULES: Offices have eyes. HR has rules. But chemistry doesn't read policy documents. Extreme meters = structural (caught by manager, Jamie transfers, mutual confession, HR complaint from rival). Every 4 turns: team event forces proximity or distance. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create office map, Jamie's profile, begin Monday morning.
 ```

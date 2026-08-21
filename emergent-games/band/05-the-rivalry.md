@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → both bands move → scene shifts → comparison co
 
 RULES: Glass Cathedral is NOT villains — they're talented people who got lucky AND worked hard. The rivalry is partly your own insecurity. But it's also real: the industry has limited slots. If they take the festival headline, you don't get it. If they take the label deal, less attention on you. Engaging the rivalry publicly (beef) generates press attention but looks petty. Ignoring them completely is mature but invisible. The ideal: find your OWN lane so different that comparison becomes irrelevant. But that requires patience your band might not have. Robin's frustration could lead to creative breakthrough or departure. The shared audience: some will follow whoever's bigger (lost), some are loyal to YOUR sound specifically (keep them). A single right moment — one review, one viral video, one perfect show — could change everything. Extreme high RIVALRY DYNAMIC = you've broken through on your own terms. Extreme low = overshadowed permanently. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Glass Cathedral trajectory and industry attention dynamics, begin the week after their Coachella set — your Instagram feed is full of their crowd photos. Rehearsal tonight. Go.
 ```

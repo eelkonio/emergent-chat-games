@@ -46,5 +46,9 @@ AFTER CHOICE: Holloway reacts → external pressures mount → other agents noti
 
 RULES: Holloway's RELIABILITY fluctuates — he drinks more when stressed, loose lips when drunk. Lt. Sato has noticed Holloway's odd behavior — investigation possible. Your brother is willing but scared — push too hard and he backs out. Garcia will figure out something's happening — bribe him, threaten him, or trust him? The money is the key constraint — Holloway won't move without full payment confirmed. If Holloway flips to administration, you're in solitary plus new charges. If you're caught mid-escape, Holloway goes down too — mutual assured destruction. Extreme low HOLLOWAY'S RELIABILITY = he backs out or betrays. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Holloway psychology and Lt. Sato's suspicion level, begin the day after Holloway's approach — he's waiting for your answer. Go.
 ```

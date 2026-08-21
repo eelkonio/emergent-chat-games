@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Amara's school life develops → your adjustmen
 
 RULES: Your anxiety is not always wrong — but it's not always right either. The school gate is a performance space where parents watch each other. Amara needs you to be confident so she can be brave. Every 4 turns: a school event or development (friendship difficulty, learning challenge, incident, invitation, parent meeting) that tests your response. Extreme meters = structural (Amara thrives independently, school becomes a problem, you find new purpose, helicopter parenting damages her confidence, genuine school issue requires advocacy, you grow). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and school situation, begin the night before the first day.
 ```

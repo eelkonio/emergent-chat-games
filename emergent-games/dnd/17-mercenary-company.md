@@ -56,5 +56,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters (±1-4/±5-1
 
 RULES: No contract is simple once you're inside it. Refusing all three is an option — but money runs out. Splitting the company is possible but weakens both halves. Every 4 turns: 3 fictional items (letter from a potential employer, camp rumor overheard at the cookfire, intelligence report from scouts). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

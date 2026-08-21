@@ -42,5 +42,9 @@ NA KEUZE: direct effect → agents reageren → indirecte effecten → vertraagd
 
 REGELS: Plannen mogen falen. Agents leren. Meerdere subplots. Extreme meters = structureel (coalitie valt, minister stapt op, verkiezingen). Speler mag alles. Geen bescherming. Geen moraal. Iedere 4 beurten: 3 fictieve krantenkoppen + 1 observatie. Complexiteit groeit.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Maak agents, begin direct met Beurt 1. Verraad geen verborgen info.
 ```

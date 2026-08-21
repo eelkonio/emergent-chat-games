@@ -46,5 +46,9 @@ AFTER CHOICE: riot evolves → guards react → other inmates move → fire spre
 
 RULES: Tower guards have rifles and WILL shoot anyone in the dead zone (20m strip before fence). Smoke is currently obscuring east tower — wind could shift. The fence is electrified but the riot may have triggered backup power rerouting. You need wire cutters or something to breach — maintenance shed near Block C might have them but C is on fire. The trapped guard has a radio — if you help him, he might "not see you." Or he might radio your description. Riot inmates are unpredictable — some will attack anyone not their crew. Running through the yard means navigating tribal violence. Extreme high CHAOS LEVEL = building collapse risk. Extreme low = guards regain control. Every 2 turns: the riot shifts (new fire, new violence, guard action). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden tower guard sightlines and riot movement patterns, begin the moment Block B's doors fail to lock — you're standing in your cell doorway. The corridor smells like smoke. Which way? Go.
 ```

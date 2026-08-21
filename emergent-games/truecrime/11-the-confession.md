@@ -48,5 +48,9 @@ AFTER CHOICE: evidence builds → prosecution responds → Kevin's state → leg
 
 RULES: The interrogation tape is devastating — but prosecution will argue "proper technique, valid waiver." Kevin's IQ alone isn't grounds for overturning. You need to prove the details came from public sources AND that no non-public details exist. Finding the real killer would be definitive but nearly impossible after 5 years. Kevin might become less compliant (good for the case, destabilizing for him). Extreme LEGAL MOMENTUM = hearing granted. Extreme SYSTEM RESISTANCE = gag order. Every 4 turns: a detail in the confession is traced to its public source — or a detail appears that couldn't have been public. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden interrogation timeline and evidence truth, begin Week 1 — the interrogation tape arrives.
 ```

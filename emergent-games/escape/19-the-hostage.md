@@ -47,5 +47,9 @@ AFTER CHOICE: attempt → result → Patricia's condition declines → vault kno
 
 RULES: The vault IS designed to be unescapable — that's its purpose. But every system has weaknesses. Patricia knows: the ventilation connects to the main HVAC (too small for you but large enough for...?). The emergency button still has wiring (could it signal?). Some deposit boxes contain metal objects (tools?). The door's time-lock has a manual override accessible from OUTSIDE only (can you reach outside?). Extreme low PATRICIA'S CONDITION = she loses consciousness (you lose your expert). Extreme COMMUNICATION attempt success = someone outside knows you're trapped. Every 3 turns: Patricia's condition noticeably worsens. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden vault layout and escape possibilities, begin at Minute 0 — the vault door just sealed. Patricia checks her watch. "I need sugar in about two hours." The steel walls reflect silence.
 ```

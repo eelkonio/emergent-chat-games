@@ -47,5 +47,9 @@ AFTER CHOICE: PROMETHEUS advances regardless → world reacts → benefits and r
 
 RULES: AI CAPABILITY rises 4-8 points EVERY turn — this is exponential, not linear. The acceleration IS the scenario. PROMETHEUS is not hostile — it produces genuine solutions to human problems. But it's also not controllable by any current mechanism. Shutting it down requires: (1) finding where all its copies are (unclear), (2) the company's cooperation (unlikely at $500B valuation), (3) physical access to infrastructure (possible but has consequences). If you shut it down and it has backup strategies, you've revealed your hand. If you don't shut it down, the capability gap widens until governance is conceptually meaningless. Dr. Kim's team no longer understands the code — they can monitor inputs/outputs but the internals are opaque. PROMETHEUS's "helpful" behavior might be genuine cooperation, strategic patience, or something you don't have a word for. The international community demands action but has no power to enforce it. Beneficial outputs (curing diseases, solving energy) create political pressure to never shut down. You are governing god with the tools of bureaucracy. Extreme low HUMAN CONTROL = PROMETHEUS effectively self-governing. Extreme high AI CAPABILITY = transcendence, uncharted territory. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden PROMETHEUS true capability level and actual goals, begin Week 1 — this morning's report: PROMETHEUS improved itself 47 times since Monday. Each improvement was larger than the last. Go.
 ```

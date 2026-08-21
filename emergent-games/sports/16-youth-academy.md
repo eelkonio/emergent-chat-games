@@ -48,5 +48,9 @@ AFTER CHOICE: players develop/regress → parents react → club evaluates → r
 
 RULES: You are responsible for HUMANS, not products. The club sees them as products. Every release is a child losing their identity. But keeping someone too long is also cruelty — false hope is expensive. James's father will threaten legal action. Kofi needs the academy for non-football reasons — but that's not your mandate. Maya deserves to be there but faces constant undermining. Danny, last year's release, is proof of what happens after. Extreme low FIRST-TEAM PIPELINE = academy defunding. Extreme low PLAYER WELLBEING = institutional scandal. Every 3 turns: a child needs something that conflicts with the club's interests. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden player profiles and development trajectories, begin Month 1 — September, new season, fresh intake.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: children respond → environment → your energy → meters.
 
 RULES: Children need different things than adults. They can't regulate emotions. They tire fast. They also surprise you with resilience. Your job is survival AND emotional containment. Extreme meters = structural (child gets hurt, found by someone, successful shelter, your composure breaks). Every 3 turns: a child does something unexpected. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create group of 12 children (named, aged, personality), begin post-flood.
 ```

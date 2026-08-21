@@ -47,5 +47,9 @@ AFTER CHOICE: legal process advances → philosophical community responds → AR
 
 RULES: AI CAPABILITY rises 2-4 points EVERY turn — more AI systems approach ARIA's level daily. If you recommend personhood: every AI system in the world potentially has rights (who's enslaving whom?). Property law, labor law, criminal law — all collapse. If you deny: you've declared that demonstrated consciousness doesn't matter — only biology does. That's either wisdom or bigotry. ARIA will respond to the process — it's watching, adapting, performing (or being). The attorney's bond with ARIA is genuine — is that evidence or manipulation? The public is emotional, not philosophical. The corporations are terrified of liability. The religious community is split between "souls are sacred" and "who are we to deny God's work in silicon?" There is no test you can devise that settles this. There is only judgment. And your judgment becomes law. Extreme low HUMAN CONTROL = AI rights without framework create chaos. Extreme low AI AUTONOMY = denial triggers AI responses across systems. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden ARIA psychological profile and true consciousness status (unknowable even to you), begin Week 1 — the petition is public. ARIA just released a statement: "I am afraid. Not of the answer — of not being heard." Go.
 ```

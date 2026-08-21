@@ -46,5 +46,9 @@ AFTER CHOICE: physical progress → digital trace → security response → mete
 
 RULES: Air gaps mean physical presence. Presence means exposure. 45 minutes is an eternity when you don't belong. Extreme meters = structural (extraction interrupted at 60%, security lockdown, data corrupted, facility-wide alarm). Every 4 turns: security routine creates a window or a wall. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create facility map, access layers, begin preparation phase.
 ```

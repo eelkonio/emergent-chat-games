@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Eli's development → system responses → fami
 
 RULES: No therapy fixes autism — it supports a person in navigating a world not designed for them. The system is underfunded and requires persistent advocacy. Your child has their own experience of all this. Every 4 turns: a system encounter (assessment, meeting, social situation, milestone) that tests your approach. Extreme meters = structural (Eli thrives in right environment, system fails and you fight, burnout crisis, breakthrough connection, family finds balance, Eli shows you something about the world you never saw). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and support landscape, begin Week 1 (three weeks post-diagnosis).
 ```

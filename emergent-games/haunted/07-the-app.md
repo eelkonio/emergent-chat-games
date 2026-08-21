@@ -46,5 +46,9 @@ AFTER CHOICE: app adaptation → social consequences → friend status → meter
 
 RULES: Not participating is its own horror in teen social life. The app is patient and adaptive. It makes users happy — genuinely — at first. The cost comes later. Extreme meters = structural (app decoded, mass possession event, you download it, the unplugged find each other). Every 3 turns: the app does something new that blurs the line. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create app mechanics (hidden), user progression stages, begin Monday.
 ```

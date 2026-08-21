@@ -46,5 +46,9 @@ AFTER CHOICE: Calloway's response (never hostile... yet) → social dynamics →
 
 RULES: Not all monsters are enemies. But all monsters are monsters. The good doesn't erase the wrong — or does it? What if exposure causes more harm than the secret? Extreme meters = structural (the cost revealed, Calloway's purpose becomes clear, confrontation, he leaves voluntarily). Every 4 turns: evidence of what Calloway IS. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create Calloway's true nature (hidden), school dynamics, begin a Monday.
 ```

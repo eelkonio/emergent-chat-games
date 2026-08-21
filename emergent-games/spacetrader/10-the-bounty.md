@@ -48,5 +48,9 @@ AFTER CHOICE: their response → hunters adjust → Nexus's real agenda → alli
 
 RULES: Every port has eyes. Your ship signature is known. Changing identity takes time and credits. Hunters are professionals — most will talk before shooting. But not all. Every 4 turns: a new hunter arrives or the bounty increases, escalating pressure. Extreme meters = structural (bounty cleared, permanently on the run, captured alive, captured dead, discover the truth about Nexus, become a hunter yourself). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and threat assessment, begin Day 1 at Port Calloway.
 ```

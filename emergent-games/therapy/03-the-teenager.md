@@ -46,5 +46,9 @@ AFTER CHOICE: Jordan responds (or doesn't) → trust shifts → the real issue s
 
 RULES: If you push: Jordan goes deeper into defense (maybe forever). If you do nothing: Jordan might escalate testing or might relax (uncertain). The MAGIC MOMENT in teen therapy: when you say something that makes them look up from their phone. That LOOK — surprise that an adult said something real — is the foundation of everything. Jordan's music: commenting on it MIGHT be a bridge ("is that [artist]? I saw them live") or might be invasion ("stay out of my stuff"). Reading the room is everything. The parents expect reports — but therapy is confidential. You work for JORDAN, not the parents. This creates immediate alliance if communicated correctly. What's under the behavior: could be anything. Will take sessions (plural) to discover. Today's goal: just one moment of authentic contact. One. Extreme TEEN TRUST above 30 after one session = excellent. Above 50 = they asked to come back. Below 10 = they never return. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Jordan's real issue and defense strategy, begin the moment Jordan sits down — earbuds in, hood up, eyes on phone. The session is technically happening. Go.
 ```

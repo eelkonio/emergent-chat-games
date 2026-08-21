@@ -46,5 +46,9 @@ AFTER CHOICE: room response → security adjustment → clock progression → me
 
 RULES: You cannot make a scene. You cannot use force. 200 witnesses and 40 cameras. Subtlety is oxygen. Extreme meters = structural (painting extracted during chaos, cover blown, bidding runs to £40M and plan changes, rival party noticed you). Every 3 lots: something changes the room energy. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create auction room map, lot order, crew positions, begin Lot 30.
 ```

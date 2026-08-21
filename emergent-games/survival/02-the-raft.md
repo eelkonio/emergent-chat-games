@@ -46,5 +46,9 @@ AFTER CHOICE: physical consequences → interpersonal dynamics → ocean conditi
 
 RULES: The ocean doesn't care. Dehydration kills in 3 days. Sun kills slower but certain. People break under pressure. Extreme meters = structural (someone goes overboard, ship spotted, storm hits, rain — fresh water from the sky). Every 4 turns: something on or under the water. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create survivor conditions, raft inventory, begin Hour 4 adrift.
 ```

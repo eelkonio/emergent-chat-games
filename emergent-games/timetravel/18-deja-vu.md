@@ -47,5 +47,9 @@ AFTER CHOICE: investigation moves → stutter occurs during your action (you rel
 
 RULES: The stutters affect YOU too — you relive moments and must choose whether to change your actions the second time. Knowledge from stutters is valuable but reality-destabilizing. The source might be technological, natural, or something else entirely. Not everyone wants it stopped — some people LIKE knowing what's about to happen. Extreme low REALITY STABILITY = permanent time loop for the city. Extreme PUBLIC PANIC = exodus/martial law. Every 3 turns: a stutter during a critical moment gives you a second chance — but using it makes things worse. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden source and stutter pattern, begin Hour 1 — the longest stutter yet just happened. 6 minutes.
 ```

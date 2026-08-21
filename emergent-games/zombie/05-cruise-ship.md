@@ -46,5 +46,9 @@ AFTER CHOICE: containment result → passenger panic → crew loyalty → infect
 
 RULES: Passengers riot, hide, form factions. Crew splits loyalty. Ocean means no escape. Extreme meters = structural (ship listing, engine failure, mass breach, another vessel spotted). Every 4 turns: distress call received or coast guard communication. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, deck map, begin Turn 1.
 ```

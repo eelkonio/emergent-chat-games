@@ -48,5 +48,9 @@ AFTER CHOICE: their response → family dynamics shift → respect or resistance
 
 RULES: The system wasn't built for you. That's an obstacle AND an advantage — they have no playbook for you. Grief is real and doesn't pause for business. Your daughter wants you out. The cops want you flipped. Every 4 turns: a challenger directly tests whether a woman can hold this position. Extreme meters = structural (fully in control, forced out, flipped to FBI, killed as a threat, build something new and better, your daughter gets pulled in). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and power landscape, begin Week 1.
 ```

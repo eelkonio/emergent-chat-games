@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience reacts (or hasn't noticed yet) → bra
 
 RULES: No brand deal is neutral. Your audience's trust is a finite resource — spend it wisely. Better deals come when you can say "I've turned down offers that didn't fit." Worse deals come when you're desperate. Every 4 turns: a financial pressure or brand opportunity that tests your line (higher offer, competing brand, audience reaction, VitalBoost controversy). Extreme meters = structural (built ethical brand program, became "that sellout," found the perfect balance, money solved problems, audience revolt over sponsorship, created your own product instead). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and financial landscape, begin Week 1 (email arrived yesterday).
 ```

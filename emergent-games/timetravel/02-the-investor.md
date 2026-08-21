@@ -47,5 +47,9 @@ AFTER CHOICE: market reacts → SEC adjusts → future shifts → notebook degra
 
 RULES: Success creates attention. Attention creates danger. Money changes you and others around you. The timeline fights back through coincidence and convergence. Another trader keeps making the same plays you would. Extreme SEC ATTENTION = investigation. Extreme TIMELINE DIVERGENCE = your knowledge becomes useless or dangerous. Every 4 turns: a major event from your notebook either happens differently or not at all. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden agent profiles and market state, begin Week 1 — January 2015.
 ```

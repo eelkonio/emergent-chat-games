@@ -47,5 +47,9 @@ AFTER CHOICE: movement or observation → security AI state → detection or cle
 
 RULES: One alert = 30-second warning, then reset (AI adjusts pattern slightly after). Two alerts = full lockdown. Observation costs TIME but gains CERTAINTY. The guard at midnight is unpredictable (human). The exit window at 4:50-5:00 AM is your ONLY clean exit — everything else is alarmed. Art on the walls is irrelevant to escape (or is it? Some pieces have sensor exemptions for temperature/humidity monitoring). Extreme DETECTION RISK = lockdown. Extreme low PATTERN KNOWLEDGE when moving = gambling with alarms. Every gallery: a new pattern to learn. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden security patterns and gallery layouts, begin at 10:17 PM — Gallery 1. The sensors sweep left to right. How fast? You're counting.
 ```

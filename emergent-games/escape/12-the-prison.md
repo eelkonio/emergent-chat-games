@@ -47,5 +47,9 @@ AFTER CHOICE: action taken → institution notices (or doesn't) → plan advance
 
 RULES: Any single action that draws attention can end everything. Guards talk to each other — being noticed by 2 different guards in 2 different ways = connecting dots. Books knows things but wants something in return. Torres is trustworthy until he's not (people break under pressure). The maintenance tunnel exists but accessing it requires being in B-Block (you're in C-Block — transfer requires a reason). Diaz is bribable but ALSO might report you. Extreme SUSPICION = cell search (find anything hidden = solitary + extended sentence). Extreme low ROUTINE NORMALCY = mandatory psych evaluation. Every 4 turns: random inspection or lockdown. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden prison layout and guard patterns, begin Week 1 of active planning — you've decided. No more waiting. Now: observe.
 ```

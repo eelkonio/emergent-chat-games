@@ -49,5 +49,9 @@ NA KEUZE: gevolgen → reacties anderen → relaties verschuiven → meters.
 
 REGELS: Het leven is rommelig. Mensen zijn onvoorspelbaar. Goede bedoelingen leiden soms tot rotresultaten. Stilte spreekt. Moed is eng. Iedere 4 beurten: 1 reflectiemoment — "Wat heb je over jezelf ontdekt?" Extreme meters = structureel (het verhaal wordt ontkracht maar niemand geeft toe, iemand lijdt onder het nepnieuws, jij wordt als "contrair" weggezet, of juist: mensen luisteren).
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Maak personages, begin met Beurt 1 — je opent je groepschat, 47 berichten, iedereen is verontwaardigd over iets dat je nog niet hebt gelezen.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: session unfolds → Drako responds → track develops → dynamics
 
 RULES: Drako's persona hides a real artist — but finding that artist requires patience and respect you don't feel (yet). His producer is the key — a bridge between worlds, technically fluent in both. If you write off Drako entirely: he phones it in, track is garbage, label wasted $30K (you owe them). If you find the connection: the track could genuinely be great (different from what either would make alone). Your band's crossed arms are both solidarity and limitation — their resistance might prevent the vulnerability needed for real collaboration. The label won't FORCE release — if it's bad, it's shelved. But shelving wastes the opportunity. The audience calculus is real: 50M listeners seeing your name = career-changing. But not if the track is bad. Quality IS the strategy. Extreme high TRACK QUALITY = both audiences benefit. Extreme low = embarrassment. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Drako's real personality and creative strengths, begin Day 1 — Drako is 4 hours late. His entourage is eating your studio snacks. Then he walks in: "Yo, guitar guys, let's make something crazy." Go.
 ```

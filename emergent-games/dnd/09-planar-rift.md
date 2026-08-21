@@ -55,5 +55,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → meters.
 
 RULES: REALITY INTEGRITY drops slowly if rifts remain open. New rifts appear every 2-3 turns. Closing rifts costs RESOURCES and ARCANE KNOWLEDGE opportunities. Every 4 turns: 3 fictional items (research notes from a rift study team, encoded message from beyond, royal decree regarding Conclave authority). No protection/morality. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal nothing hidden.
 ```

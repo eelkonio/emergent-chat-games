@@ -47,5 +47,9 @@ AFTER CHOICE: Lily responds through play/art/body → safety builds or retreats 
 
 RULES: Leading questions = forensic contamination (+risk of case dismissal if reported), AND therapeutic harm (child feels pressured, shuts down, or gives answers she thinks you want). Direct questioning about abuse = she dissociates, session ends effectively (-30 alliance, -20 progress). Patience and presence = slow build of trust that may eventually allow verbal disclosure (+alliance, +safety). Mandatory reporting threshold: "reasonable suspicion" — you are approaching it. You don't need certainty. You don't need a verbal disclosure. But you need more than projection. The drawings. The play. The behavior. When does the picture become clear enough? And: if you report and it triggers an investigation that removes her from the home — was that the right call if you're wrong? Was it the right call EVEN IF YOU'RE RIGHT but the system re-traumatizes her? No easy answers. Document EVERYTHING: her exact words, her play behaviors, your observations (objective), your hypotheses (clearly marked as such). You carry this child's safety. The weight is real. Take it seriously. This is the most consequential work in the profession. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden trauma narrative and symbolic language system, begin the moment Lily enters the room, goes to the sand tray without greeting you, and carefully places a small doll face-down in the center. She covers it with sand. Pats it flat. Then whispers something you can barely hear: "Shhh. Stay quiet." She isn't talking to you. Go.
 ```

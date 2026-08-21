@@ -48,5 +48,9 @@ AFTER CHOICE: person responds → group reacts → claustrophobia rises → air 
 
 RULES: The code-holder is a REAL person with REAL reasons not to talk. Pressure might work or might make them more defensive. Jake's claustrophobia is escalating and dangerous. Diana taking charge might help or might alienate the code-holder. Everyone has a reason to be in this building — some boring, some not. Observation beats interrogation. The code-holder WANTS to help (they're also stuck) but FEARS the exposure. Creating safety might work. Extreme low AIR QUALITY = medical emergency. Extreme GROUP PANIC = irrational behavior. Every 3 turns: someone's behavior reveals something. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden identities and code-holder secret, begin 20 minutes into the stoppage — panic hasn't set in yet, but air is thinning.
 ```

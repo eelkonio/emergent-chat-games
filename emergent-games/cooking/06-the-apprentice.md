@@ -47,5 +47,9 @@ AFTER CHOICE: Vasseur reacts → skill develops (or doesn't) → emotional state
 
 RULES: Vasseur is not irredeemable — there are moments of genuine brilliance and even care (rare, disguised). Standing up to him earns respect OR gets you fired — he's unpredictable. Sofia is a cautionary tale: technically perfect, empty inside. Marco is an alternative: successful, happy, "lesser" (by Vasseur's measure). The journalist wants dirt — giving it ends the apprenticeship but tells the truth. Extreme SKILL LEVEL = you become his equal. Extreme low SELF-WORTH = you break. Every 4 turns: a moment of genuine connection or genuine cruelty that forces reassessment. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Vasseur psychology and skill thresholds, begin Day 1 — prep starts at 6 AM.
 ```

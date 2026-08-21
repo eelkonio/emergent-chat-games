@@ -48,5 +48,9 @@ AFTER CHOICE: their response → audience reacts → community positions → vic
 
 RULES: There is no risk-free response. The victims are real people — not content. Max may contact you (what do you owe him?). The audience is not a monolith. Every 4 turns: the scandal evolves (new information, Max responds, a victim thanks or criticizes you, media story shifts). Extreme meters = structural (navigated with grace, amplified victims effectively, was punished for association, accidentally helped Max, found genuine advocacy, the community rebuilt differently). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create scandal landscape and your position within it, begin Hour 12 (you learned last night).
 ```

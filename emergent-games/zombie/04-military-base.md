@@ -46,5 +46,9 @@ AFTER CHOICE: military consequences → troop reactions → civilian response �
 
 RULES: Soldiers obey, desert, or mutiny. Civilians organize. Ammo is finite. Other officers scheme. Extreme meters = structural (base falls, coup, evacuation without civilians, General's secret revealed). Every 4 turns: intercepted radio transmission from another base. No plot armor. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and base status, begin Turn 1.
 ```

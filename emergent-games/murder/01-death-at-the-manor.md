@@ -70,5 +70,9 @@ RULES:
 - Accusation: player must name the killer AND provide reasoning. If correct = WIN. If wrong = the real killer uses the chaos to escape or strike.
 - Every 4 turns: one "Christie moment" — a seemingly innocent detail that is actually a crucial clue.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Generate the complete hidden truth. Create all suspects with their secrets, alibis, and knowledge. Begin Turn 1 with the aftermath of Sir Edmund's collapse at dinner. Reveal NOTHING of the solution.
 ```

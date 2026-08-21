@@ -48,5 +48,9 @@ AFTER CHOICE: their response → rivals advance or pause → resources dwindle �
 
 RULES: Time is not on your side. Waiting means weakening. Acting means spending resources you can't replace. Your rivals disagree with each other — that's your only advantage. Every 4 turns: a rival makes a decisive move (siege, ultimatum, offer, betrayal of your allies). Extreme meters = structural (dynasty restored against odds, dignified abdication, desperate marriage saves the house, conquest and imprisonment, final glorious stand, dynasty transformed into something new). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and strategic situation, begin Week 1.
 ```

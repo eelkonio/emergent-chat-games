@@ -48,5 +48,9 @@ AFTER CHOICE: review reveals → Dane responds (if confronted) → audience reac
 
 RULES: Dane's motivation MATTERS — family justice might mean the investigation is CORRECT even if conflicted. Or it might mean it's dangerously biased. Confronting Dane might get the truth or might get a performance. Informing the audience is honest but might destroy the podcast. The case might STILL be solvable with Dane's knowledge — used transparently. Extreme PARTNERSHIP dissolution = 5-year collaboration ends. Extreme AUDIENCE TRUST loss = podcast ends. Every 2 turns: reviewing an old episode reveals something Dane hid or something Dane actually got right. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Dane's actual motive and investigation truth, begin Day 1 — you just confirmed the family connection. Dane doesn't know you know.
 ```

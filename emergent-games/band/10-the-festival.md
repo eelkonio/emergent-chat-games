@@ -47,5 +47,9 @@ AFTER CHOICE: song unfolds → crowd responds → technical issues resolve or wo
 
 RULES: Song 1 is crucial — festival audiences decide in 30 seconds. Your planned opener is a slow burn — right choice for a headline set, wrong choice for a 3 PM festival slot where people are walking by. Do you change the opener? Robin's string: 70% chance it holds for the full set. If it breaks mid-song: she's unplugged for 90 seconds (an eternity on stage). The monitors: you can't hear vocals, meaning pitch might drift. The crowd: grows if energy is high, shrinks if momentum dies. People arriving for the next band start filtering in at minute 20 — potential converts or hostile audience. The weather: sudden sun means energy, sudden rain means exodus (or defiant unity). Stage Manager Rita WILL cut power at time limit — plan accordingly. A&R reps watch songs 2-3 typically. The BBC DJ tweets during sets — one good tweet = 1000 new listeners within hours. Extreme CROWD ENERGY = the moment that makes a band. Extreme low = 200 people watching politely while you die inside. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden crowd dynamics and technical failure probabilities, begin 5 minutes before your set — the previous band just finished (2 minutes of your time eaten). You're walking on stage. The crowd is... sparse. Breathe. Go.
 ```

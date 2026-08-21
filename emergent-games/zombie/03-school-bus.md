@@ -46,5 +46,9 @@ AFTER CHOICE: road result → children react → threat level → fuel/distance 
 
 RULES: Kids panic, fight, get sick, wander. Stops are dangerous but necessary. Fuel dictates range. Other survivors may help or threaten. Extreme meters = structural (breakdown, ambush, child lost, fuel empty, safe zone reached). Every 4 turns: something on the road forces a decision. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles, begin Turn 1 on the highway.
 ```

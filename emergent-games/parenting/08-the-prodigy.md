@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Noor's engagement or withdrawal → opportuniti
 
 RULES: Gifted children are still children. Acceleration without emotional readiness creates fragile perfectionists. The sibling who isn't "special" notices everything. External pressure is relentless. Every 4 turns: a major opportunity or crisis (competition, breakdown, social crisis, breakthrough) that tests your values. Extreme meters = structural (Noor thrives holistically, burnout and collapse, pushed too hard, found her own path, sibling relationship damaged, you project and damage). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and educational landscape, begin Month 1.
 ```

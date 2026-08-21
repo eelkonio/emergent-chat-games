@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Luca's behavior shifts → partner dynamics →
 
 RULES: Toddlers are not logical. They're emotional scientists testing hypotheses about the world. Your response IS their data. Consistency between caregivers matters more than which approach you choose. Every 4 turns: a developmental leap changes the game (new word, new skill, new fear, new defiance). Extreme meters = structural (confident boundaries emerge, parenting burnout, partner conflict over approach, breakthrough connection moment, outside intervention suggested, Luca's personality flourishes). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and family dynamics, begin with the morning after the biting incident.
 ```

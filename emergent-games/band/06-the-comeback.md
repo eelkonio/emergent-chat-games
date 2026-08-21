@@ -46,5 +46,9 @@ AFTER CHOICE: week passes → members respond → old dynamics → public pressu
 
 RULES: Each member requires different things: Jake needs scheduling respect (family first). Robin needs creative authority (won't be "just a guitarist" again). Mia needs genuine apology (not performative — she can tell the difference). You need sobriety support (touring is triggering). Meeting ALL conditions may be impossible — compromise required, but which member compromises? Old manager Chen: useful mediator but has his own financial interest (15% of reunion money). The fans' pressure helps (shows demand) but also hurts (makes it feel like obligation not joy). First rehearsal: the moment they play together again determines whether it's possible. If it's MAGIC: everyone remembers why. If it's AWKWARD: doubt floods in. The $8M window: promoter needs commitment in 4 weeks. After that, the stadium dates go to another reunion act. Extreme REUNION VIABILITY above 80 = it happens. Below 20 = confirmed dead. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden member conditions and old wound details, begin the week you send the first message to Jake — "Hey. It's been a long time. Can we talk?" — and wait for the reply. Go.
 ```

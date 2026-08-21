@@ -48,5 +48,9 @@ AFTER CHOICE: their response → cargo status changes → pursuit closes or does
 
 RULES: The cargo is not passive. It affects ship systems, crew dreams, and sensor readings. Nexus Bio's interest means money — and danger in equal measure. The military corvette hasn't announced itself. Every 4 turns: the cargo does something new (communication attempt, system interference, physical change) that forces a crisis response. Extreme meters = structural (cargo delivered for massive payout, cargo wakes, cargo dies, you're captured, crew splits over what to do, the cargo's people come for it). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and cargo status, begin Day 1 (3 days out from Kepler).
 ```

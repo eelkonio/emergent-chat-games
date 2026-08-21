@@ -47,5 +47,9 @@ AFTER CHOICE: discourse evolves → food develops → community responds → par
 
 RULES: Engaging with trolls amplifies them. Ignoring criticism looks guilty. PR statements feel corporate. The ONLY true defense is the food — but people need to EAT it first. Kenji might want to change the concept under pressure (painful but understandable). Your mother's opinion means more than a thousand tweets. Señora Reyes's blessing is earned, not asked for. The food critic will write honestly — if the food is transcendent, the review says so. Extreme low CULTURAL CREDIBILITY = boycott on opening. Extreme PARTNERSHIP STRENGTH loss = Kenji leaves. Every 4 turns: a moment where you can choose food or discourse — but not both. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden cultural dynamics and food development state, begin 14 days before opening.
 ```

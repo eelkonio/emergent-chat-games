@@ -48,5 +48,9 @@ AFTER CHOICE: their response → old world pressure adjusts → legitimate life 
 
 RULES: Every favor pulls you deeper. Your wife is watching. The FBI is watching. Your kids don't know. Paulie isn't evil — he genuinely needs help and you genuinely owe him. Every 4 turns: the requests escalate (from money laundering to meeting people to "just being there" for a sit-down). Extreme meters = structural (fully dragged back in, successfully refuse everything, FBI arrest, family destroyed by revelation, find a way to settle the debt permanently, old world and new world collide catastrophically). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and dual-world setup, begin Week 1.
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: day passes → Reeves acts → resemblance shifts → guards obser
 
 RULES: Reeves is not stupid — he notices you watching. His friends will protect him. Gibbons has information but demands payment and might betray you. Officer Cho is your advantage — but if ANY other guard sees you in processing, instant recognition. Martinez's shift schedule is knowable but changes. Parole Officer Marks: has she met Reeves in person or only via video calls? Critical unknown. The verification questions: social security number, mother's maiden name, details of the crime, victim's name — you need ALL of them. Missing one = processing stops. Calling in Reeves's file for "legal review" might work once. Extreme RESEMBLANCE = pass processing. Extreme low RESEMBLANCE = immediate arrest during processing. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden Reeves biography and processing security protocols, begin 9 days before release — you've made your decision. You need to become Daniel Reeves. Go.
 ```

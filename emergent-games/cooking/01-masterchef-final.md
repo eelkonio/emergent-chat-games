@@ -47,5 +47,9 @@ AFTER CHOICE: cooking progresses → competitors act → judges observe → food
 
 RULES: Time doesn't wait. Burned food can't be unburned. Raw food fails. Viktor WILL attempt psychological warfare (backhanded compliments, noise, pantry moves). Maya MIGHT collapse and take you with her emotionally. Judges watch EVERYTHING — composure matters as much as flavor. You can change your menu mid-competition but the judges see adaptation as either genius or panic. Extreme low TIME MANAGEMENT = unplated courses (automatic elimination). Extreme SABOTAGE RISK = something breaks. Every 2 turns: a kitchen emergency (equipment, ingredient, competitor). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden competitor strategies and judge preferences, begin Turn 1 — the clock has started. 5 hours. Go.
 ```

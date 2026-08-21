@@ -46,5 +46,9 @@ AFTER CHOICE: medical reality → staff reactions → infection spread → patie
 
 RULES: Patients turn without warning. Staff break down. Supplies run out. Sound attracts. Extreme meters = structural (floor breach, staff revolt, helicopter leaves, cure clue found). Every 3 turns: PA system crackles with information/misinformation. No plot armor. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and floor map, begin Turn 1.
 ```

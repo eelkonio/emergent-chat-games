@@ -42,5 +42,9 @@ AFTER CHOICE: direct → agents → indirect → delayed → relationships → m
 
 RULES: Stakes are life and death. Agents have courage and fear. Subplots. Extreme meters = structural (raid, betrayal, successful passage, family threatened, network exposed). Player may try anything. No protection. No sanitizing history. Every 4 turns: 3 fictional items (newspaper ad for runaways, coded letter, neighbor's overheard conversation). Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agents, begin Turn 1. Reveal no hidden info. Treat this history with gravity.
 ```

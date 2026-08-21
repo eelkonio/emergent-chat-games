@@ -48,5 +48,9 @@ AFTER CHOICE: their response → situation develops → fuel burns → truth rev
 
 RULES: The beacon is what it is — you won't know until you arrive (or don't). Every piece of information you get before arriving is ambiguous. Your crew has opinions. The fuel gauge doesn't lie. Every 4 turns: a new piece of information (signal changes, second analysis, someone else responds or doesn't) that makes the decision easier or harder. Extreme meters = structural (genuine rescue with gratitude, pirate trap barely survived, arrived too late, ignored and they died, ignored and they were fine, saved people who change your life). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create situation and signal analysis, begin Hour 1 (beacon just received).
 ```

@@ -46,5 +46,9 @@ AFTER CHOICE: technical progress → social consequences → security → meters
 
 RULES: Good intentions don't pick locks. Being right doesn't stop cameras. But having an accountant on the inside might. Extreme meters = structural (midnight reconciliation, journalist publishes, Worthington's private security activated, full redirect achieved). Every 4 turns: a guest interaction that complicates or aids. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create gala floor plan, financial system, begin doors open.
 ```

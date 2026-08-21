@@ -48,5 +48,9 @@ AFTER CHOICE: their response → son's impossible position → Celestine's next 
 
 RULES: Youth has momentum. Tradition has weight — but less every year. Your son avoids the conflict, which means Celestine wins by default unless you act. Every 4 turns: Celestine makes a bold move to diminish you publicly. Extreme meters = structural (graceful retirement with honors, bitter exile, reclaimed power through grandchildren, open war between queens, son forced to choose, ultimate sacrifice for family). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create agent profiles and court dynamics, begin Week 1.
 ```

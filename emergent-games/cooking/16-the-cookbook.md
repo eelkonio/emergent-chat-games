@@ -47,5 +47,9 @@ AFTER CHOICE: recipes tested → publisher checks in → photo prep → restaura
 
 RULES: Cutting recipe 47 means renaming the book (the publisher's marketing is built on it). Fixing it might be impossible in 14 days. Sending imperfect recipes to print damages your reputation permanently. The photographer can't shoot what isn't ready. Andre running the restaurant alone leads to quality slips (your reviews will notice). Sleep deprivation makes your cooking worse — ironic for a cookbook. Extreme DEADLINE miss = contract breach and debt. Extreme low RECIPE QUALITY = published shame. Every 3 turns: Diane's test results reveal something surprising about a recipe you thought was done. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden recipe status list and publisher timeline, begin Day 1 — Diane's email about Recipe 47 just arrived.
 ```

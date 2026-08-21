@@ -48,5 +48,9 @@ AFTER CHOICE: their response → Zara opens or closes → partner reacts → you
 
 RULES: Teenagers need privacy AND safety. Most "concerning" behavior is normal individuation. Some isn't — and telling the difference is the hardest thing. Control pushes away. Permissiveness can mean neglect. Every 4 turns: a genuine scare or a genuine breakthrough that reshapes the relationship. Extreme meters = structural (strong reconnection, total estrangement, crisis managed well, crisis managed badly, she's fine and you learn to trust, something was really wrong and you caught it). No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create profiles and family dynamics, begin Week 1.
 ```

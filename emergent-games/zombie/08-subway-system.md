@@ -46,5 +46,9 @@ AFTER CHOICE: noise propagation → tunnel response → group reaction → rival
 
 RULES: Darkness hides everything. Sound reveals. Other groups compete. Tunnels branch and loop. Extreme meters = structural (tunnel flood, power surge, mass breach from surface, other group attacks). Every 4 turns: something new enters the system. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create tunnel map, agent profiles, begin Turn 1.
 ```

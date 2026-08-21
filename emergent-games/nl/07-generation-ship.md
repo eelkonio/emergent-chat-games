@@ -41,5 +41,9 @@ NA KEUZE: direct → agents → indirect → vertraagd → relaties → meters (
 
 REGELS: Falen mogelijk. Agents leren. Subplots. Extreme meters = structureel (muiterij, epidemie, systeemfalen, schisma, ontdekking). Speler mag alles. Geen bescherming/moraal. Iedere 4 beurten: 3 fictieve fragmenten (scheepslogboek/schoolboeken/graffiti). Complexiteit groeit.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Maak agents, begin met Beurt 1 (Jaar 35, Generatie 2). Verraad geen verborgen info.
 ```

@@ -47,5 +47,9 @@ AFTER CHOICE: day passes → plant acts → weather → data security → team d
 
 RULES: The plant knows you're suspicious — their timeline is accelerating. They'll attempt to destroy data before the satellite window. The missing backup drive: where is it? The 3 AM server access: access logs are vague (IP only, not personal login). The generator "malfunction" — was it Jensen's incompetence or cover? Kowalski's encrypted reports could be standard corporate reporting OR intelligence transmissions. Park's sudden assignment is convenient — but the original team member really WAS sick (verified). Physical confrontation at -40°C is dangerous for everyone. The satellite window requires Kowalski's cooperation to transmit — what if it's him? Storing the data is as critical as transmitting it — multiple copies, multiple locations. The plant will become more desperate as the window approaches. Extreme low DATA INTEGRITY = nothing to transmit. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden plant identity and sabotage timeline, begin 5 days before satellite window — you just noticed the backup drive is missing. The team is at breakfast. Someone in this room took it. Go.
 ```

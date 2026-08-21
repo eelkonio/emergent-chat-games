@@ -48,5 +48,9 @@ AFTER CHOICE: staff react → changes take hold (or don't) → customers respond
 
 RULES: People don't change because you tell them to. They change because they see the truth or feel the fear. Giuseppe might be reachable through pride — he WAS talented once. Roberto will fight hardest because admitting failure means admitting 30 years were wrong. Maria is your lever — but using her burns her out faster. The food blogger could be invited strategically. The health inspection is a weapon if used correctly. Extreme low OWNER BUY-IN = you're fired before the week ends. Extreme STAFF RESISTANCE = sabotage during service. Every 2 turns: a dinner service reveals the current state. No protection. Complexity grows.
 
+CONSISTENCY RULE: Ensure correct increasing turn counts. 
+
+IMAGE RULE: If you are able to generate images within the chat, create an appropriate engaging image of the latest scene for the user, every three turns. This is only to make the story visually more appealing. If you cannot generate images, ignore this rule.
+
 START: Create hidden kitchen state and staff psychology, begin Day 1 Morning — you walk in the front door.
 ```
