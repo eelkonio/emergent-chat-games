@@ -1,0 +1,3 @@
+# Logo Prompt
+
+A godlike hand reaching down from storm clouds toward a fractured globe, moving tiny glowing pieces across it like a chessboard — nations, cities, and crowds rendered as luminous game tokens. The Earth is half-scorched and half-drowned, a data-center glow on one side and a rising sea on the other. Threads of light connect the hand to distant figures at podiums (the voices shaping the world). Ominous reds and ash-greys against deep black, with cold blue AI light and a single thin line of warm hope on the horizon. Epic, scary, and thought-provoking — the apocalypse seen from above. Clean vector on dark background.

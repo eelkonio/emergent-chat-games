@@ -35,7 +35,7 @@ The AI runs a **living simulation** with:
 
 ## 🎲 Hundreds of Games. Dozens of Genres. Zero Installs!
 
-Yeah, you read that right. Five hundred and eighty-two unique games across twenty-nine collections - and the number is growing. Every single one playable with a single copy-paste. Here they all are:
+Yeah, you read that right. Six hundred and two unique games across thirty collections - and the number is growing. Every single one playable with a single copy-paste. Here they all are:
 
 ---
 
@@ -300,6 +300,15 @@ The most relevant game of our time. AI is getting smarter every turn — *automa
 
 ---
 
+### ☠️ Apocalypse — *20 games*
+`emergent-games/apocalypse/`
+
+The end of the world, played from above. You're the hidden hand — a Civilization-style god steering nations, corporations, and civilizations through engineered pandemics, financial collapse, a climate that moves whole countries off the map, AI as a weapon of mass destruction, and The Never Normal, where change comes faster than anyone can adapt. Real voices — Bill Gates, the AI visionaries, media titans, the loudest of the left and right — argue over what the catastrophe means. Fun. Scary. Uncomfortably close.
+
+🔥 *Patient Zero Prime • The Never Normal • The Puppet Masters • The Poly-Crisis*
+
+---
+
 ## ▶️ How to Play
 
 It's absurdly simple:
@@ -368,4 +377,4 @@ Each collection has its own generated logo (`logo.png`) and generation prompt (`
 
 ---
 
-<p align="center"><em>581 games. 29 genres. One copy-paste.<br/>Made with the Emergent Agent Game Engine.</em></p>
+<p align="center"><em>601 games. 30 genres. One copy-paste.<br/>Made with the Emergent Agent Game Engine.</em></p>
